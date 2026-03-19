@@ -51,14 +51,6 @@ export default {
       ]
     },
     {
-      text: "News",
-      url: "/blog/"
-    },
-    {
-      text: "Store",
-      url: "https://store.aila.ngo/"
-    },
-    {
       text: "Services",
       url: "/services/",
       submenu: [
@@ -121,23 +113,39 @@ export default {
       ]
     },
     {
+      text: "News",
+      url: "/blog/"
+    },
+    {
+      text: "Store",
+      url: "https://store.aila.ngo/"
+    },
+    {
       text: "Give",
-      url: "/give/"
+      url: "/give/",
+      button: true
     },
     {
-      text: "Facebook",
-      icon: "fa-brands fa-facebook",
-      url: "https://www.facebook.com/americanindianlawalliance"
-    },
-    {
-      text: "Instagram",
-      icon: "fa-brands fa-instagram",
-      url: "https://www.instagram.com/americanindianlawalliance"
+      social: [
+        {
+          text: "Facebook",
+          icon: "fa-brands fa-facebook",
+          url: "https://www.facebook.com/americanindianlawalliance"
+        },
+        {
+          text: "Instagram",
+          icon: "fa-brands fa-instagram",
+          url: "https://www.instagram.com/americanindianlawalliance"
+        }
+      ]
     },
     {
       text: "Search",
       icon: "fa-solid fa-magnifying-glass",
-      url: "/search/"
+      url: "/search/",
+      button: {
+        variant: "secondary"
+    }
     }
   ],
   bottom: [

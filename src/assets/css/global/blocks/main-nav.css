@@ -74,11 +74,13 @@
 }
 
 .mainnav [data-drawer-toggle][aria-expanded='true'] + ul {
+  font-size: var(--size-step-2);
   --cluster-wrap: nowrap;
   --nav-list-visibility: visible;
   --nav-list-transform: translateX(0);
   --nav-list-opacity: 1;
   overflow-y: auto;
+  text-align: center;
 }
 
 body:has([data-drawer-toggle][aria-expanded='true']) {
@@ -94,7 +96,7 @@ body:has([data-drawer-toggle][aria-expanded='true']) {
 
 .mainnav svg {
   block-size: 0.9em;
-  color: var(--color-text);
+  color: inherit;
   stroke-width: 3;
 }
 
@@ -108,7 +110,7 @@ body:has([data-drawer-toggle][aria-expanded='true']) {
   --nav-item-text-color: var(--color-text);
   --nav-item-padding: var(--space-xs) var(--space-2xs);
   --nav-item-decoration-color: transparent;
-  --nav-item-font-size: var(--size-step-0);
+  --nav-item-font-size: var(--size-step-2);
   --nav-item-font-weight: var(--font-bold);
 
   background: var(--nav-item-background);
@@ -145,12 +147,11 @@ body:has([data-drawer-toggle][aria-expanded='true']) {
 .mainnav [aria-current='page'],
 .mainnav [data-state='active'] {
   --nav-item-background: var(--color-bg);
-  --nav-item-text-color: var(--color-primary);
   --nav-item-decoration-color: var(--color-primary);
 }
 
 /* current parent (if submenu) */
-li:has(ul a[aria-current='page']) > [data-submenu-toggle] {
+li:has(ul a[aria-current='page']) > .nav-sublist__top {
   --nav-item-background: var(--color-bg);
   --nav-item-text-color: var(--color-text);
   --nav-item-decoration-color: var(--color-text);
@@ -195,6 +196,7 @@ li:has(ul a[aria-current='page']) > [data-submenu-toggle] {
   }
 
   .mainnav :is(a, [data-submenu-toggle]) {
+    --nav-item-font-size: var(--size-step-0);
     --nav-item-font-weight: var(--font-regular);
   }
 
@@ -209,13 +211,13 @@ li:has(ul a[aria-current='page']) > [data-submenu-toggle] {
     --nav-list-visibility: visible;
     --nav-list-transform: translateX(0);
     --nav-list-opacity: 1;
+    --nav-item-font-size: var(--size-step-0);
   }
 
   .mainnav [aria-current='page'],
   .mainnav [data-state='active'],
-  li:has(ul a[aria-current='page']) > [data-submenu-toggle] {
+  li:has(ul a[aria-current='page']) > .nav-sublist__top {
     --nav-item-background: transparent;
-    --nav-item-text-color: var(--color-primary);
     --nav-item-decoration-color: var(--color-primary);
   }
 
@@ -259,7 +261,6 @@ assumes that the button doesn’t exist without JS, making the list the first ch
 .mainnav ul:first-child [aria-current='page'],
 .mainnav ul:first-child [data-state='active'] {
   --nav-item-background: transparent;
-  --nav-item-text-color: var(--color-primary);
   --nav-item-decoration-color: var(--color-primary);
 }
 

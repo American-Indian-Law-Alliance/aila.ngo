@@ -10,6 +10,7 @@
           {% if item.url %}
           <a class="nav-sublist__top" 
             href={{item.url}}
+            {{ helpers.getLinkActiveState(item.url, page.url) | safe }}
           >{{ item.text }}
           </a>
           {% else %}
@@ -38,11 +39,28 @@
             {% endfor %}
           </ul>
         </li>
-      {% else %}
+      {% elseif item.social %}
+      <li>
+      <ul class="cluster" style="--cluster-horizontal-alignment: center;">
+        {% for social in item.social %}
+          <a class="no-indicator" href="{{ social.url }}">
+            {% if social.icon %}
+            <i class="icon {{ social.icon }}"></i>
+            <p class="visually-hidden">{{ social.text }}</p>
+              {% else %}
+              {{ item.text }}
+            {% endif %}
+            </a>
+        {% endfor %}
+      </ul>
+      </li>
+      {%else %}
         <li>
           <a
-            class="no-indicator"
+            class="no-indicator {% if item.button %} button {% endif %}"
             href="{{ item.url }}"
+            {% if item.button %} {% if item.button.variant %}data-button-variant={{item.button.variant}}{% endif %}{% endif %}
+            style="{% if item.button %} background: var(--button-bg); color: var(--button-color);{% endif %}"
             {{
               helpers.getLinkActiveState(item.url,
               page.url)
