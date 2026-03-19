@@ -1,5 +1,5 @@
 ---
-title: "Craft Fair Invitation"
+title: "Announcing the 2026 Indigenous Craft Fair"
 date: 2026-03-17
 categories: 
   - "craft-fair"

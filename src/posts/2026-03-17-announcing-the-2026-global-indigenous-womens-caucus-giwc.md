@@ -7,7 +7,7 @@ tags:
   - "indigenous-peoples"
   - "united-nations"
   - "unpfii"
-coverImage: ""/assets/images/content/2.png""
+coverImage: "/assets/images/content/2.png"
 ---
 
 Download the Flyers [EN](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-EN.pdf) | [ES](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-ES.pdf) | [FR](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-FR.pdf) | [PT](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-PR.pdf) | [RU](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-RU.pdf)\

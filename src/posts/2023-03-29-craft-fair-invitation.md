@@ -1,5 +1,5 @@
 ---
-title: "Craft Fair Invitation"
+title: "2023 Craft Fair Invitation"
 date: 2023-03-29
 categories: 
   - "events"
