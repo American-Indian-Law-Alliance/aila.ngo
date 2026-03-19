@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+{{ content | safe }}
+
+<custom-masonry>
+    {% set headingLevel = "h3" %}
+	{% asyncEach item in collections[discoveryCollection] %}
+  			{% include "partials/card-blog.njk" %}
+  	{% endeach %}
+</custom-masonry>

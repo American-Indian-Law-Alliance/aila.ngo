@@ -103,75 +103,12 @@ export default {
           url: "/category/events/"
         },
         {
+          text: "Issues",
+          url: "/issues/"
+        },
+        {
           text: "Resources",
-          url: "/links/",
-          submenu: [
-            {
-              text: "Canandaigua Treaty of 1794",
-              url: "/issues/canandaigua-treaty-of-1794/"
-            },
-            {
-              text: "Doctrine of Discovery",
-              url: "/issues/doctrine-of-discovery/"
-            },
-            {
-              text: "Original Instructions",
-              url: "/issues/original-instructions/"
-            },
-            {
-              text: "Rights of Mother Earth",
-              url: "/issues/rights-mother-earth/"
-            },
-            {
-              text: "Sovereignty",
-              url: "/issues/sovereignty/"
-            },
-            {
-              text: "Two Row Wampum",
-              url: "/issues/two-row-wampum/"
-            },
-            {
-              text: "Women’s Rights",
-              url: "/issues/womens-rights/"
-            },
-            {
-              text: "AILA Social",
-              url: "https://aila.social/"
-            },
-            {
-              text: "Onondaga Naiton",
-              url: "https://www.onondaganation.org/"
-            },
-            {
-              text: "Doctrine of Discovery Podcast",
-              url: "https://doctrineofdiscovery.org/"
-            },
-            {
-              text: "Mapping the Doctrine of Discovery Podcast",
-              url: "https://podcast.doctrineofdiscovery.org/"
-            },
-            {
-              text: "Original Free nations",
-              url: "https://originalfreenations.com/"
-            },
-            {
-              text: "Sacred places institute",
-              url: "https://www.sacredplacesinstitute.org/"
-
-            },
-            {
-              text: "Sulivan Clinton Campaign",
-              url: "https://www.sullivanclinton.com/"
-            },
-            {
-              text: "Tonatierra",
-              url: "https://www.tonatierra.org/"
-            },
-            {
-              text: "WISH-CNY",
-              url: "https://www.wishcny.org/"
-            }
-          ]
+          url: "/links/"
         },
         {
           text: "Request a Speaker",

@@ -1,3 +1,4 @@
 {
+  "tags": "our-history",
   "permalink": "/about/our-history/{{ page.fileSlug | slugify }}/index.html"
 }

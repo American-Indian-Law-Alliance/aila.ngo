@@ -1,0 +1,59 @@
+{
+  "ailaResources": [
+    {
+      "text": "AILA Issues",
+      "url": "/issues/"
+    },
+     {
+      "text": "AILA Documents",
+      "url": "/documents/"
+    }
+  ],
+  "externalResources": [
+    {
+      "text": "UN Declaration on the Rights of Indigenous Peoples (UNDRIP)",
+      "url": "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples",
+      "description": ""
+    },
+    {
+      "text": "Onondaga Naiton",
+      "url": "https://www.onondaganation.org/",
+      "description": ""
+    },
+    {
+      "text": "Doctrine of Discovery Podcast",
+      "url": "https://doctrineofdiscovery.org/",
+      "description": ""
+    },
+    {
+      "text": "Mapping the Doctrine of Discovery Podcast",
+      "url": "https://podcast.doctrineofdiscovery.org/",
+      "description": ""
+    },
+    {
+      "text": "Original Free nations",
+      "url": "https://originalfreenations.com/",
+      "description": ""
+    },
+    {
+      "text": "Sacred places institute",
+      "url": "https://www.sacredplacesinstitute.org/",
+      "description": ""
+    },
+    {
+      "text": "Sulivan Clinton Campaign",
+      "url": "https://www.sullivanclinton.com/",
+      "description": ""
+    },
+    {
+      "text": "Tonatierra",
+      "url": "https://www.tonatierra.org/",
+      "description": ""
+    },
+    {
+      "text": "WISH-CNY",
+      "url": "https://www.wishcny.org/",
+      "description": ""
+    }
+  ]
+}
