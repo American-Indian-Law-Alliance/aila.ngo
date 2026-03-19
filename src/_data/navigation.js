@@ -121,11 +121,6 @@ export default {
       url: "https://store.aila.ngo/"
     },
     {
-      text: "Give",
-      url: "/give/",
-      button: true
-    },
-    {
       social: [
         {
           text: "Facebook",
@@ -138,6 +133,11 @@ export default {
           url: "https://www.instagram.com/americanindianlawalliance"
         }
       ]
+    },
+    {
+      text: "Give",
+      url: "/give/",
+      button: true
     },
     {
       text: "Search",
