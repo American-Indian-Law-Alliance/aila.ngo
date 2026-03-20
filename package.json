@@ -17,7 +17,8 @@
     "dev:11ty": "cross-env ELEVENTY_ENV=development eleventy --serve",
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
     "start": "npm run dev:11ty",
-    "build": "npm run clean && npm run build:11ty",
+    "build": "npm run clean && npm run build:11ty && npx -y pagefind --site dist",
+    "pagefind": "npx -y pagefind --site dist",
     "pa11y:build": "npm run clean && cross-env ELEVENTY_ENV=test eleventy",
     "pa11y:test": "sleep 3 && pa11y-ci --config ./dist/pa11y.json",
     "pa11y:serve": "ELEVENTY_ENV=test eleventy --serve --ignore-initial",
@@ -37,6 +38,7 @@
     "@11ty/eleventy-plugin-webc": "^0.12.0-beta.1",
     "@11ty/font-awesome": "^1.0.1",
     "@11ty/is-land": "^4.0.1",
+    "@zachleat/pagefind-search": "^1.0.3",
     "lite-youtube-embed": "^0.3.4",
     "tailwindcss": "^3.4.17"
   },

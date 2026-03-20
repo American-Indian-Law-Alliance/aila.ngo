@@ -1,0 +1,21 @@
+{# Load PageFind library and base styles #}
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" fetchpriority="high">
+<script type="module" src="/assets/scripts/components/pagefind-search.js" fetchpriority="high"></script>
+{% css "local" %}
+  {% include "css/pagefind-config.css" %}
+{% endcss %}
+
+	<is-land on:visible on:save-data="false">
+		<pagefind-search id="aila-search">
+			<!-- Fallback to DuckDuckGo search -->
+				<form action="https://google.com/" method="get" style="min-height: 3.2em;"><!-- min-height to reduce CLS -->
+					<label>
+						Search for:
+						<input type="search" name="q" autocomplete="off" autofocus>
+						<!-- Put your searchable domain here -->
+					<input type="hidden" name="sites" value={{ meta.domain }}>
+					</label>
+					<button type="submit">Search</button>
+				</form>
+		</pagefind-search>
+	</is-land>

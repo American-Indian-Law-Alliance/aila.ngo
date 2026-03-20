@@ -1,0 +1,13 @@
+#aila-search {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: var(--color-text);
+  --pagefind-ui-text: var(--color-text);
+  --pagefind-ui-background: var(--color-bg);
+  --pagefind-ui-border: var(--color-secondary);
+  --pagefind-ui-tag: var(--color-text);
+  --pagefind-ui-border-width: 0.2em;
+  --pagefind-ui-border-radius: 2em;
+  --pagefind-ui-image-border-radius: 2em;
+  --pagefind-ui-image-box-ratio: 3 / 2;
+  --pagefind-ui-font: var(--font-base);
+}
