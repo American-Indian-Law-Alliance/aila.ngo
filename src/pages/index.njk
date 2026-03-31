@@ -3,54 +3,139 @@ layout: base
 permalink: /index.html
 title: 'American Indian Law Alliance'
 description: 'An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)'
-blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+advocating:
+  - title: "Return Maple Bay"
+    description: "Heal the Reciprocal Relationship Between Onondaga Lake and Onondaga Nation."
+    linkText: "#Lakeback"
+    link: "https://lakeback.org/"
+
+  - title: "Doctrine of Discovery"
+    description: "We are committed to confronting and combating the Doctrine of Discovery."
+    linkText: "Doctrine of Discovery"
+    link: "/issues/doctrine-of-discovery/"
+
+  - title: "Canandaigua Treaty of 1794"
+    description: "Advocating for the honoring of our treaty rights and protections."
+    linkText: "Treaty of Canandaigua"
+    link: "/issues/canandaigua-treaty-of-1794/"
+
+  - title: "Original Instructions"
+    description: "Over a thousand years ago on the shores of Onondaga Lake, a democracy that centered the rights of all living beings was born."
+    linkText: "Original Instructions"
+    link: "/issues/original-instructions/"
+
+  - title: "Rights of Mother Earth"
+    description: "We have a sacred obligation regarding our environment; these are ancient laws handed down from one generation to the next."
+    linkText: "Rights of Mother Earth"
+    link: "/issues/rights-mother-earth/"
+
+  - title: "Two Row Wampum"
+    description: "Two Row Wampum is a living treaty and a way for humans to live in harmony with one another and the natural world."
+    linkText: "Two Row Wampum"
+    link: "/issues/two-row-wampum/"
+
+  - title: "Women’s Rights"
+    description: "In Haudenosaunee Confederacy societies, women have always had a central role in governance and culture."
+    linkText: "Women’s Rights"
+    link: "/issues/womens-rights/"
+
+  - title: "Sovereignty"
+    description: "We have a sacred obligation regarding our environment; these are ancient laws handed down from one generation to the next."
+    linkText: "Rights of Mother Earth"
+    link: "/issues/rights-mother-earth/"
+
+  - title: "International Advocacy"
+    description: "The Haudenosaunee have participated in international diplomacy dating back to at least the League of Nations."
+    linkText: "United Nations"
+    link: "/about/our-history/league-of-nations-united-nations-participation/"
 ---
 
 
 
 <div class="wrapper">
-  <header class="full | section" style="--spot-color: var(--color-primary)">
-    <div class="section__inner | flow region | text-center" style="color: var(--color-light);">
-      <h1>An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)</h1>
-      <p>The American Indian Law Alliance (AILA) was founded in 1989; it is an Indigenous, non-profit, non-partisan organization that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples.</p>
+  <header class="full | section" style="--spot-color: --color-bg">
+    <div class="section__inner | wrapper flow region | text-center" style="--region-space: var(--space-xl);">
+        <h1 style="font-size: var(--size-step-5);">An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)</h1>
+        <p>The American Indian Law Alliance (AILA) was founded in 1989; it is an Indigenous, non-profit, non-partisan organization that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples.</p>
+      <div class="cluster" style="--cluster-horizontal-alignment: center;">
+        <a class="button" href="/contact/">Contact us</a>
+        <a class="button" href="/category/events/">Upcoming events</a>
+      </div>
     </div>
   </header>
 
-  <article class="full | region">
-    <div class="prose wrapper flow">
-      <h2 id="an-eleventy-starter">An Eleventy starter</h2>
-      <p>
-        Built around a CSS workflow that emphasizes guiding browser styling rather than micromanaging it. It
-        incorporates progressive enhancement, fluid type and spacing, and utilizes modern CSS features for
-        layout. The goal is to develop frontends that provide a great experience across all devices,
-        connection speeds, and usage contexts.
-      </p>
-      <p>
-        <strong>This is <a href="https://github.com/madrilene/eleventy-excellent/">version {{ pkg.version }}</a>.</strong> I keep a
-        <a href="https://github.com/madrilene/eleventy-excellent/tree/v1">branch of v1</a>,
-        <a href="https://github.com/madrilene/eleventy-excellent/tree/v2">v2</a> and <a href="https://github.com/madrilene/eleventy-excellent/tree/v3">v3</a>. I  tried to <a href="/get-started/#docs-lol">document most features and methodologies</a>.
-      </p>
-      <p><strong>Have fun</strong> and let me know if you find any issues or have ideas for improvements!</p>
-    </div>
-  </article>
+  <section class="region full">
+    <img class="center" src="/assets/images/content/2.png" alt="Banner that says: Our Right to Sovereignty is non-negotiable">
+  </section>
 
-  <section class="full | region">
-    <div class="prose wrapper flow">
-      <h2>{{ blog.title }}</h2>
-      {% if blog.intro %}
-        <p>{{ blog.intro }}</p>
-      {% endif %}
-      <div class="feature |  region region-space-l">
-        <custom-masonry layout="50-50">
-          {% set itemList = collections.allPosts %}
-					{% asyncEach item in itemList.slice(0, 4) %}
-            {% set headingLevel = "h3" %}
-						{% include "partials/card-blog.njk" %}
-					{% endeach %}
-        </custom-masonry>
-      </div>
+  <section class="region full | bg-purple-subdued text-gray-100" style="--flow-space: var(--space-m);">
+    <div class="wrapper flow">
+      <h2>A passion for sovereignty & healing all our relations</h2>
+      <p>Advocating for Indigenous sovergnty and living in right and proper relationship with all living beings and our Mother the Earth.</p>
+        <ul class="grid" data-layout="thirds" role="list">
+      	{% asyncEach item in advocating %}
+        		<li>{% include "partials/card.njk" %}</li>
+        	{% endeach %}
+        </ul>
     </div>
   </section>
+
+  <section class="region | flow" style="--flow-space: var(--space-m);">
+    <article class="center | flow | text-center">
+      <h2>Scope of Work</h2>
+      <p>Protecting the Rights of Mother Earth, Empowering Indigenous Women & Children, Dismantling the Doctrine of Discovery, Advancing the Rights of Indigenous Peoples, and Public Education.</p>
+    </article>
+  <div class="region flow">
+      <div class="repel">
+        <article>
+          <h3>
+            United Nations
+          </h3>
+          <ul class="flow" role="list" style="--gutter: 0.5em">
+            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Global Indigenous Women’s Caucus.</li>
+            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Global Indigenous Peoples Caucus.</li>
+            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Indigenous Craft Fair.</li>
+          </ul>
+        </article>
+        <img src="/assets/images/content/nils-huenerfuerst-fqzMMzpoUs4-unsplash-1024x683.jpg" alt="United Nations HQ Photo by Nils Huenerfuerst on Unsplash" class="rounded-medium" eleventy:widths="400, 600">
+      </div>
+      <div class="region flow">
+      <div class="repel">
+        <article>
+          <h3>
+            Social Services
+          </h3>
+          <ul class="flow" role="list" style="--gutter: 0.5em">
+            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Language Courses.</li>
+            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Elders Lunch.</li>
+            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Food Boxes.</li>
+          </ul>
+        </article>
+        <img src="/assets/images/content/THE-WOMENS-ROAD-TO-HEALING-instagram.png" alt="Banner for The Women's Road to Healing" class="rounded-medium" eleventy:widths="400, 600">
+      </div>
+  </div>
+  </section>
+
+  <section class="region full" style="background: var(--color-teal-600); color: var(--color-light)">
+   <div class="center | flow">
+      <blockquote>
+        <h2 style="font-size: var(--size-step-6)">How do you pollute your Mother the Earth?</h2>
+    </blockquote>
+    <div class="cluster">
+        <img class="profile" src="/assets/images/content/Betty-Lyons-2020-150x150.jpg" alt="Executive director of the American Indian Law Alliance, Betty Hill (neé Lyons)">
+        <cite>Betty Hill (neé Lyons) - Executive Director</cite>
+    </div>
+   </div>
+   </section>
+
+   <section class="region full">
+    <div class="center | flow">
+      <h2>Stay engaged with our work</h2>
+      <p>Visit our contact page to connect with our team directly.</p>
+      <div class="cluster">
+        <a class="button" href="/contact">Contact</a>
+        <a class="button" href="/links">Resources</a>
+      </div>
+    </div>
+   </section>
 </div>

@@ -15,6 +15,10 @@
     {
       "name": "yellow",
       "value": "#f3ed24"
+    },
+    {
+      "name": "Teal",
+      "value": "#52c2c3"
     }
   ],
   "light_dark": [

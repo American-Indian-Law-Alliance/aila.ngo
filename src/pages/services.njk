@@ -1,0 +1,91 @@
+---
+layout: base
+title: "Our Services"
+description: "We provide culturally grounded legal services for Indigenous peoples. We partner with Indigenous nations
+and organizations globally to advance sovereignty, human rights, and social justice through advocacy, research, and
+capacity-building."
+date: 2023-11-21
+serviceCards:
+  - title: "Archival Work"
+    link: "/contact/"
+    description:
+      The American Indian Law Alliance (AILA) documents and preserves Indigenous peoples’
+      participation in international forums such as the United Nations Permanent Forum on Indigenous
+      Issues (UNPFII) by digitizing records, testimonies, and media through digital platforms
+      safeguarded for future generations, while honoring community protocols for stewardship and
+      guardianship.
+  - title: "Cultural Renewal & Mutual Aid"
+    link: "/programs/cultural-renewal/"
+    description:
+      AILA supports cultural renewal and mutual aid by strengthening community ties and ensuring
+      cultural traditions are passed on to future generations. This includes elders’ luncheons,
+      intergenerational learning spaces, family food boxes, coat and gift giveaways, and
+      back‑to‑school programs—embodying a gift economy rooted in reciprocity and balance.
+  - title: "Missing and Murdered Indigenous Relatives"
+    link: "/programs/mmiw/"
+    description:
+      The crisis of Missing and Murdered Indigenous Women, Girls, and Two‑Spirit relatives
+      (MMIW/MMIR) is rooted in colonization and worsened by systemic failures. Many cases are
+      misclassified, never entered into national databases, or lost between jurisdictions, leaving
+      families with slow or no response and limited media attention.
+  - title: "Language Classes"
+    link: "/contact/"
+    description:
+      Through Haudenosaunee language classes, AILA fosters the preservation and revitalization of
+      Indigenous languages as central to identity and governance.
+---
+
+<div class="wrapper">
+    <header class="grid | region" data-layout='50-50'>
+        <div class="flow stack">
+            <h1>{{ title }}</h1>
+            <p>
+                {{ description }}
+            </p>
+            <div class="cluster">
+            <a class="button" data-button-variant="secondary" href="/about/">About us</a>
+            <a class="button" data-button-variant="secondary" href="/blog/">News</a>
+        </div>
+        </div>
+        <figure class="frame | rounded-medium" data-frame-border style="--frame-width: 3; --frame-height: 2;">
+            <img src="/assets/images/content/tina-thomas-central-current-1024x977.jpg" alt="Tina Thomas: To the Onondaga Nation, the arrival of nesting eagles at Onondaga Lake is a manifestation of
+            thanksgiving. Credit: Mike Greenlar | Central Current">
+        </figure>
+    </header>
+
+<section class="sidebar region | flow">
+    <header class="sticky-header">
+        <h2>Supporting Indigenous Sovereignty through education and healing.</h2>
+    </header>
+    <div class="grid" data-rows="masonry" data-layout="50-50">
+        {% asyncEach item in serviceCards %}
+            {% include "partials/card.njk" %}
+        {% endeach %}
+    </div>
+</section>
+
+<section class="region full" style="background: var(--color-teal-600); color: var(--color-light)">
+   <div class="center | flow">
+      <blockquote>
+        <h2 style="font-size: var(--size-step-6)">Value change for survival.</h2>
+    </blockquote>
+   <cite>~ Faithkeeper Oren Lyons</cite>
+   </div>
+</section>
+
+<section class="grid | region" data-layout='50-50'>
+    <figure class="frame rounded-medium" data-frame-border><img src="/assets/images/content/Lax20.jpg" alt="Lacrosse on the Lake"></figure>
+    <article class="wrapper | region | prose flow ontop">
+        <h2>Our work</h2>
+        <p>
+        We are committed to fulfilling its purpose and vision as it strives to defend Mother Earth and leave behind a better world for the next seven generations. In our struggle for sovereignty, human rights, and social justice, we remain committed to upholding the principles and values handed down through the generations by our ancestors.
+        </p>
+        <p>Sovereignty, balance, social justice, and environmental justice are not separate spheres for us. Instead, we understand them to be all interrelated components of the same thing: honoring Mother Earth, following our ancestors’ teachings, and making the world a better place for the seven generations yet to come.
+        </p>
+        <div class="cluster">
+            <a class="button" data-button-variant="secondary" href="/contact/">Contact us</a>
+            <a class="button" data-button-variant="secondary" href="/links/">Links and Resources</a>
+        </div>
+    </article>
+</section>
+</div>

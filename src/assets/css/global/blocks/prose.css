@@ -1,5 +1,10 @@
 /* Based on Andy Bell, https://github.com/Andy-set-studio/personal-site-eleventy */
 
+.text-cap.prose :is(p, li, dl, blockquote) {
+  max-inline-size: 60ch;
+  text-wrap: pretty;
+}
+
 .prose {
   --flow-space: var(--space-m-l);
   --wrapper-width: 64rem;

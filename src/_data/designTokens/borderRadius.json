@@ -10,6 +10,10 @@
     {
       "name": "Medium",
       "value": "0.3rem"
+    },
+    {
+      "name": "full",
+      "value": "calc(infinity * 1px)"
     }
   ]
 }

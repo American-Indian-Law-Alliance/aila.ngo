@@ -96,7 +96,7 @@ custom-card[clickable] {
 custom-card[clickable] a:after {
   bottom: 0;
   content: '';
-  left: 0;
+  /* left: 0; */
   position: absolute;
   right: 0;
   top: 0;

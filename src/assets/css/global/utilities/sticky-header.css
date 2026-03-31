@@ -1,0 +1,9 @@
+.sticky-header {
+  position: relative;
+}
+
+.sticky-header > * {
+  position: sticky;
+  top: 0;
+  padding: 0.5em;
+}

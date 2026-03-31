@@ -81,6 +81,12 @@ svg {
   height: var(--icon-height, 1em);
 }
 
+.profile {
+  width: var(--profile-width, 3em);
+  height: var(--profile-height, 3em);
+  border-radius: calc(infinity * 1px);
+}
+
 b,
 strong {
   font-weight: var(--font-bold);

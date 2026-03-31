@@ -1,0 +1,23 @@
+.frame {
+  --frame-width: 16;
+  --frame-height: 9;
+  aspect-ratio: var(--frame-width) / var(--frame-height);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.frame > img,
+.frame > video {
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+}
+
+.frame[data-frame-border] {
+  --frame-border-color: var(--color-primary);
+  --frame-border-size: 0.5rem;
+  --frame-border-type: solid;
+  border: var(--frame-border-size) var(--frame-border-type) var(--frame-border-color);
+}

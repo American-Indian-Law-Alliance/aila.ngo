@@ -111,6 +111,42 @@
       "value": "#1d1600"
     },
     {
+      "name": "Teal 100",
+      "value": "#e4f6f6"
+    },
+    {
+      "name": "Teal 200",
+      "value": "#c9f5f5"
+    },
+    {
+      "name": "Teal 300",
+      "value": "#91e2e2"
+    },
+    {
+      "name": "Teal 400",
+      "value": "#60c0c1"
+    },
+    {
+      "name": "Teal 500",
+      "value": "#19999a"
+    },
+    {
+      "name": "Teal 600",
+      "value": "#007476"
+    },
+    {
+      "name": "Teal 700",
+      "value": "#005d5f"
+    },
+    {
+      "name": "Teal 800",
+      "value": "#004a4c"
+    },
+    {
+      "name": "Teal 900",
+      "value": "#001d1e"
+    },
+    {
       "name": "Teal",
       "value": "#52c2c3"
     },
@@ -127,11 +163,11 @@
       "value": "#6e3680"
     },
     {
-      "name": "yellow",
+      "name": "Yellow",
       "value": "#f3ed24"
     },
     {
-      "name": "yellow Subdued",
+      "name": "Yellow Subdued",
       "value": "#f0ec67"
     }
   ]
