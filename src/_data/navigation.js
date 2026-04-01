@@ -91,6 +91,10 @@ export default {
           url: "/blog/"
         },
         {
+          text: "Newsletter",
+          url: "/email/"
+        },
+        {
           text: "Events",
           url: "/category/events/"
         },

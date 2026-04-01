@@ -7,6 +7,10 @@ export const siteType = 'Organization'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
 export const skipContent = 'Skip to content';
+// Stores the endpoint url of the Form
+export const forms = {
+  contactFormUrl: "example.com/formspree",
+}
 export const author = {
   name: 'American Indian Law Alliance', // i.e. Lene Saile - page / blog author's name. Must be set.
   avatar: '/icon-512x512.png', // path to the author's avatar. In this case just using a favicon.

@@ -1,0 +1,18 @@
+/*
+STACK UTILITY
+Every Layout stack: https://every-layout.dev/layouts/stack/
+*/
+
+.stack {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.stack * {
+  margin-block: 0;
+}
+
+.stack * + * {
+  margin-block-start: var(--stack-space, 1em);
+}

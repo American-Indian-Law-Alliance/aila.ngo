@@ -1,0 +1,23 @@
+<form action="{{ meta.form.contactFormUrl }}" class="form | stack" data-form="contact">
+    <div class="grid">
+        <div class="stack">
+            <div class="stack">
+                <label for="name">Name:</label>
+                <input type="text" name="Name" placeholder="Name" id="name" required>
+            </div>
+            <div class="stack">
+                <label for="email">Email Address:</label>
+                <input type="email" name="email" id="email" placeholder="email@example.com">
+            </div>
+            <div class="stack">
+                <label for="phone">Phone Number:</label>
+                <input type="tel" name="phone-number" id="phone" placeholder="Phone Number">
+            </div>
+        </div>
+        <div class="stack">
+            <label for="textarea">Message</label>
+            <textarea name="message" id="textarea" cols="20" rows="10" placeholder="Answer here"></textarea>
+        </div>
+    </div>
+    <button type="submit" class="button no-indicator" style="align-self: start;">Submit</button>
+</form>

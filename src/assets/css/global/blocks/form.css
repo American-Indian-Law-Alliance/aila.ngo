@@ -1,0 +1,8 @@
+.form input {
+    padding: var(--space-s);
+}
+
+.form[data-form="contact"] {
+    /* Specific Style exception for the Contact Form */
+    inline-size: 60ch;
+}
