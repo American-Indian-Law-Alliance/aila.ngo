@@ -37,15 +37,15 @@ serviceCards:
 
 <div class="wrapper">
     <header class="grid | region" data-layout='50-50'>
-        <div class="flow stack">
+        <div class="flow">
             <h1>{{ title }}</h1>
             <p>
                 {{ description }}
             </p>
             <div class="cluster">
-            <a class="button" data-button-variant="secondary" href="/about/">About us</a>
+            <a class="button" data-button-variant="primary" href="/about/">About us</a>
             <a class="button" data-button-variant="secondary" href="/blog/">News</a>
-        </div>
+            </div>
         </div>
         <figure class="frame | rounded-medium" data-frame-border style="--frame-width: 3; --frame-height: 2;">
             <img src="/assets/images/content/tina-thomas-central-current-1024x977.jpg" alt="Tina Thomas: To the Onondaga Nation, the arrival of nesting eagles at Onondaga Lake is a manifestation of
@@ -54,8 +54,8 @@ serviceCards:
     </header>
 
 <section class="sidebar region | flow">
-    <header class="sticky-header">
-        <h2>Supporting Indigenous Sovereignty through education and healing.</h2>
+    <header class="sticky-container">
+        <h2 class="sticky-content">Supporting Indigenous Sovereignty through education and healing.</h2>
     </header>
     <div class="grid" data-rows="masonry" data-layout="50-50">
         {% asyncEach item in serviceCards %}
@@ -84,7 +84,7 @@ serviceCards:
         </p>
         <div class="cluster">
             <a class="button" data-button-variant="secondary" href="/contact/">Contact us</a>
-            <a class="button" data-button-variant="secondary" href="/links/">Links and Resources</a>
+            <a class="button" data-button-variant="tertiary" href="/links/">Links and Resources</a>
         </div>
     </article>
 </section>

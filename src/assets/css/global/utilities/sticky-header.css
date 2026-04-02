@@ -1,9 +1,11 @@
-.sticky-header {
+.sticky-container {
   position: relative;
 }
 
-.sticky-header > * {
+.sticky-content {
   position: sticky;
   top: 0;
   padding: 0.5em;
+  /* For stacking on mobile */
+  z-index: -1;
 }

@@ -8,8 +8,7 @@
   align-items: center;
 }
 
-.frame > img,
-.frame > video {
+.frame:has(:is(img, video, picture)){
   inline-size: 100%;
   block-size: 100%;
   object-fit: cover;

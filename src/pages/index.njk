@@ -48,13 +48,29 @@ advocating:
     description: "The Haudenosaunee have participated in international diplomacy dating back to at least the League of Nations."
     linkText: "United Nations"
     link: "/about/our-history/league-of-nations-united-nations-participation/"
+serviceSections:
+  - title: "United Nations"
+    services:
+      - Global Indigenous Women’s Caucus.
+      - Global Indigenous Peoples Caucus.
+      - Indigenous Craft Fair.
+    image: "/assets/images/content/nils-huenerfuerst-fqzMMzpoUs4-unsplash-1024x683.jpg"
+    imageAlt: "United Nations HQ Photo by Nils Huenerfuerst on Unsplash"
+
+  - title: "Social Services"
+    services:
+      - Language Courses.
+      - Elders Lunch.
+      - Food Boxes.
+    image: "/assets/images/content/THE-WOMENS-ROAD-TO-HEALING-instagram.png"
+    imageAlt: "Banner for The Women's Road to Healing"
 ---
 
 
 
 <div class="wrapper">
-  <header class="full | section" style="--spot-color: --color-bg">
-    <div class="section__inner | wrapper flow region | text-center" style="--region-space: var(--space-xl);">
+  <header class="section">
+    <div class="section__inner | wrapper flow region | text-center" style="--region-space: var(--space-2xl); --spot-color: none;">
         <h1 style="font-size: var(--size-step-5);">An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)</h1>
         <p>The American Indian Law Alliance (AILA) was founded in 1989; it is an Indigenous, non-profit, non-partisan organization that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples.</p>
       <div class="cluster" style="--cluster-horizontal-alignment: center;">
@@ -65,14 +81,12 @@ advocating:
     </div>
   </header>
 
-  <section class="region full">
-    <img class="center" src="/assets/images/content/2.png" alt="Banner that says: Our Right to Sovereignty is non-negotiable">
-  </section>
-
-  <section class="region full | bg-purple-subdued text-gray-100" style="--flow-space: var(--space-m);">
+  <section class="region full" style="--flow-space: var(--space-m); background: var(--color-purple-subdued); color: var(--color-gray-100);">
     <div class="wrapper flow">
-      <h2>A passion for sovereignty & healing all our relations</h2>
-      <p>Advocating for Indigenous sovergnty and living in right and proper relationship with all living beings and our Mother the Earth.</p>
+      <article class="prose">
+        <h2>A passion for sovereignty & healing all our relations</h2>
+        <p>Advocating for Indigenous sovergnty and living in right and proper relationship with all living beings and our Mother the Earth.</p>
+      </article>
         <ul class="grid" data-layout="thirds" role="list">
       	{% asyncEach item in advocating %}
         		<li>{% include "partials/card.njk" %}</li>
@@ -81,39 +95,34 @@ advocating:
     </div>
   </section>
 
+  <section>
+    <figure class="frame"><img src="/assets/images/content/2.png" alt="Banner that says: Our Right to Sovereignty is non-negotiable"></figure>
+  </section>
+
   <section class="region | flow" style="--flow-space: var(--space-m);">
     <article class="center | flow | text-center">
       <h2>Scope of Work</h2>
       <p>Protecting the Rights of Mother Earth, Empowering Indigenous Women & Children, Dismantling the Doctrine of Discovery, Advancing the Rights of Indigenous Peoples, and Public Education.</p>
+      <a href="/services/" class="button">See All Services</a>
     </article>
-  <div class="region flow">
-      <div class="repel">
-        <article>
+  <div class="region stack">
+    {% for section in serviceSections %}
+      <div class="region | repel | sticky-container" style="--repel-vertical-alignment: start;" {% if (loop.index % 2 === 0) %}
+        data-row-reverse
+      {% endif %}>
+        <article class="sticky-content hr-border">
           <h3>
-            United Nations
+            {{ section.title }}
           </h3>
           <ul class="flow" role="list" style="--gutter: 0.5em">
-            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Global Indigenous Women’s Caucus.</li>
-            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Global Indigenous Peoples Caucus.</li>
-            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Indigenous Craft Fair.</li>
+            {% for service in section.services %}
+              <li class="cluster"><i class="icon | fa-solid fa-check"></i>{{ service }}</li>
+            {% endfor %}
           </ul>
         </article>
-        <img src="/assets/images/content/nils-huenerfuerst-fqzMMzpoUs4-unsplash-1024x683.jpg" alt="United Nations HQ Photo by Nils Huenerfuerst on Unsplash" class="rounded-medium" eleventy:widths="400, 600">
+        <img src={{ section.image }} alt={{ section.imageAlt }} class="rounded-medium" eleventy:widths="400, 600">
       </div>
-      <div class="region flow">
-      <div class="repel">
-        <article>
-          <h3>
-            Social Services
-          </h3>
-          <ul class="flow" role="list" style="--gutter: 0.5em">
-            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Language Courses.</li>
-            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Elders Lunch.</li>
-            <li class="cluster"><i class="icon | fa-solid fa-check"></i>Food Boxes.</li>
-          </ul>
-        </article>
-        <img src="/assets/images/content/THE-WOMENS-ROAD-TO-HEALING-instagram.png" alt="Banner for The Women's Road to Healing" class="rounded-medium" eleventy:widths="400, 600">
-      </div>
+    {% endfor %}
   </div>
   </section>
 
@@ -129,8 +138,8 @@ advocating:
    </div>
    </section>
 
-   <section class="region full">
-    <div class="center | flow">
+   <article class="region">
+    <div class="center | flow | text-center">
       <h2>Stay engaged with our work</h2>
       <p>Visit our contact page to connect with our team directly.</p>
       <div class="cluster">
@@ -138,5 +147,5 @@ advocating:
         <a class="button" data-button-variant='primary' href="/email/">Newsletter</a>
       </div>
     </div>
-   </section>
+   </article>
 </div>

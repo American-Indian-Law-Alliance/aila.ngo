@@ -1,11 +1,8 @@
-email: hola@somemail.com
+email: aila@aila.ngo
 address: |-
-  Organization name
-  Your street
-  12345, city
-  Tel: +34 928231911
+  American Indian Law Alliance
+  P.O. Box 336
+  DeWitt, New York 13214-9211 USA
 platforms:
-  github: 'https://github.com/madrilene/eleventy-excellent'
-  mastodon: 'https://front-end.social/@lene'
-  bluesky: 'https://bsky.app/profile/lenesaile.com'
-  kofi: 'https://ko-fi.com/lenesaile'
+  instagram: 'https://www.instagram.com/americanindianlawalliance'
+  facebook: 'https://www.facebook.com/americanindianlawalliance'

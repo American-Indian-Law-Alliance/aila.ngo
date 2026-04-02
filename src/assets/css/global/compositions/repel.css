@@ -22,3 +22,7 @@ Can be any acceptable flexbox alignment value.
 .repel[data-nowrap] {
   flex-wrap: nowrap;
 }
+
+.repel[data-row-reverse] {
+  flex-direction: row-reverse;
+}

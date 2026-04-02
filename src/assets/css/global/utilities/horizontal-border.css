@@ -1,0 +1,4 @@
+.hr-border {
+  border-bottom: var(--border-size, 0.15em) var(--border-style, solid)
+    var(--border-color, var(--color-primary));
+}
