@@ -80,17 +80,19 @@ export const themeSwitch = {
   light: 'light',
   dark: 'dark'
 };
-export const greenweb = {
-  // https://carbontxt.org/
-  disclosures: [
-    {
-      docType: 'sustainability-page',
-      url: `${url}/sustainability/`,
-      domain: domain
-    }
-  ],
-  services: [{domain: 'netlify.com', serviceType: 'cdn'}]
-};
+
+// export const greenweb = {
+//   // https://carbontxt.org/
+//   disclosures: [
+//     {
+//       docType: 'sustainability-page',
+//       url: `${url}/sustainability/`,
+//       domain: domain
+//     }
+//   ],
+//   services: [{domain: 'netlify.com', serviceType: 'cdn'}]
+// };
+
 export const tests = {
   pa11y: {
     // keep customPaths empty if you want to test all pages

@@ -27,9 +27,9 @@
 <!-- Links to information about the author(s) of the document -->
 <link rel="author" href="humans.txt" />
 
-{% if personal.platforms.mastodon %}
+{% if organization.platforms.mastodon %}
   <!-- Mastodon verified site -->
-  <link rel="me" href="{{ personal.platforms.mastodon }}" />
+  <link rel="me" href="{{ organization.platforms.mastodon }}" />
 {% endif %}
 
 {% if meta.author.fediverse %}

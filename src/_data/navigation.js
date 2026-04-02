@@ -125,18 +125,7 @@ export default {
       url: "https://store.aila.ngo/"
     },
     {
-      social: [
-        {
-          text: "Facebook",
-          icon: "fa-brands fa-facebook",
-          url: "https://www.facebook.com/americanindianlawalliance"
-        },
-        {
-          text: "Instagram",
-          icon: "fa-brands fa-instagram",
-          url: "https://www.instagram.com/americanindianlawalliance"
-        }
-      ]
+      social: true // pulls in values from _data/organization.yaml
     },
     {
       text: "Give",
@@ -149,25 +138,24 @@ export default {
       url: "/search/",
       button: {
         variant: "secondary"
-    }
+      }
     }
   ],
   bottom: [
+    /*
+    NOTE: Can discuss having the Style Guide be public
     {
       text: 'Style guide',
       url: '/styleguide/'
     },
+    */
     {
       text: 'Imprint',
       url: '/imprint/'
     },
     {
       text: 'Privacy',
-      url: '/privacy/'
+      url: '/privacy-policy/'
     },
-    {
-      text: 'Accessibility',
-      url: '/accessibility/'
-    }
   ]
 };

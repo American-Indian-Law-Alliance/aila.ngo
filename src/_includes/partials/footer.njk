@@ -1,10 +1,11 @@
 <footer class="site-footer mt-l-xl p-s-m">
   <div class="wrapper">
+    {% include 'partials/theme-switch.njk' %}
     <div class="cluster gutter-xs">
       <nav class="cluster text-step-0" aria-label="{{ meta.navigation.ariaBottom }}">
         &copy; {% year %}
         <a href="/" {{ indicateActiveHome }}
-          ><span class="font-display">{{ meta.siteName }}</span> <small>{{ pkg.version }}</small>
+          ><span class="font-display">{{ meta.siteName }}</span>
         </a>
 
         {% for item in navigation.bottom %}
@@ -34,28 +35,16 @@
           {% svg "misc/rss" %}
         </a>
 
-        {% for key, value in personal.platforms %}
+        {% for key, value in organization.platforms %}
           {% if value != "" %}
             <!-- regular platforms -->
             <a class="no-indicator button" data-icon href="{{ value }}" rel="me">
               <span class="visually-hidden">{{ key | capitalize }}</span>
-              {% svg 'platform/' + key %}
+              <i class="icon fa-brands fa-{{ key }}"></i>
             </a>
           {% endif %}
         {% endfor %}
       </nav>
     </div>
-
-    {% include 'partials/theme-switch.njk' %}
-
-    <aside class="creator | cluster gutter-2xs text-step-min-1 mt-xl">
-      Made with <span class="visually-hidden">love</span> <span>{% svg "misc/heart" %}</span> and
-      <a class="no-indicator" href="https://www.11ty.dev/">
-        <span class="visually-hidden">Eleventy</span>
-        {% svg "misc/11ty" %}
-      </a>
-      by
-      <a href="{{ meta.creator.website }}">{{ meta.creator.name }}</a>
-    </aside>
   </div>
 </footer>

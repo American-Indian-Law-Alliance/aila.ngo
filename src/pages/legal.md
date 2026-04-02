@@ -7,5 +7,5 @@ description: Legal Imprint information for the American Indian Law Alliance
 layout: page
 ---
 
-{{ personal.address }}
-{{ personal.email }}
+{{ organization.address }}
+{{ organization.email }}

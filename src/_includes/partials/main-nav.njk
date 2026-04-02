@@ -42,16 +42,15 @@
       {% elseif item.social %}
       <li>
       <ul class="cluster" style="--cluster-horizontal-alignment: center;">
-        {% for social in item.social %}
-          <a class="no-indicator" href="{{ social.url }}">
-            {% if social.icon %}
-            <i class="icon {{ social.icon }}"></i>
-            <p class="visually-hidden">{{ social.text }}</p>
-              {% else %}
-              {{ item.text }}
-            {% endif %}
+        {% for key, value in organization.platforms %}
+          {% if value != "" %}
+            <!-- regular platforms -->
+            <a class="no-indicator" href="{{ value }}" rel="me">
+              <span class="visually-hidden">{{ key | capitalize }}</span>
+              <i class="icon fa-brands fa-{{ key }}"></i>
             </a>
-        {% endfor %}
+          {% endif %}
+        {% endfor %}  
       </ul>
       </li>
       {%else %}
