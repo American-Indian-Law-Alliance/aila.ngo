@@ -52,7 +52,7 @@
 />
 <meta
   property="og:image"
-  content="{%- if layout == 'post' -%}
+  content="{%- if meta.OPENGRAPHGEN and layout == 'post' -%}
     {{- meta.url -}}/assets/og-images/{{ title | slugify }}-preview.jpeg
   {%- else -%}
     {{- meta.url -}}{{- meta.opengraph_default -}}

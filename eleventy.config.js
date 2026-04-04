@@ -69,7 +69,7 @@ export default async function (eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(plugins.eleventyImageTransformPlugin, {
-    formats: ['webp', 'jpeg'],
+    formats: ['auto'],
     widths: ['auto'],
     htmlOptions: {
       imgAttributes: {
@@ -104,10 +104,9 @@ export default async function (eleventyConfig) {
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
   // --------------------- Events: after build
-  // Temporarily turn off OG images JPEG build to speed up dev server until eventually tackling OG images 
-  // https://github.com/adamdjbrett/aila-ngo-v2/issues/19
-  const OPENGRAPH = false;
-  if (process.env.ELEVENTY_RUN_MODE === 'serve' && OPENGRAPH !== false) {
+  // !important OG images off by default
+  // Configure via OPENGRAPHGEN env variable in package.json `build` script
+  if (process.env.OPENGRAPHGEN && (process.env.ELEVENTY_RUN_MODE === 'build' || process.env.ELEVENTY_RUN_MODE === 'serve')) {
     eleventyConfig.on('eleventy.after', events.svgToJpeg);
   }
 
