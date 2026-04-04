@@ -106,7 +106,7 @@ export default async function (eleventyConfig) {
   // --------------------- Events: after build
   // !important OG images off by default
   // Configure via OPENGRAPHGEN env variable in package.json `build` script
-  if (process.env.OPENGRAPHGEN && (process.env.ELEVENTY_RUN_MODE === 'build' || process.env.ELEVENTY_RUN_MODE === 'serve')) {
+  if ((process.env.OPENGRAPHGEN === true) && (process.env.ELEVENTY_RUN_MODE === 'build' || process.env.ELEVENTY_RUN_MODE === 'serve')) {
     eleventyConfig.on('eleventy.after', events.svgToJpeg);
   }
 
