@@ -41,15 +41,16 @@ schema: BlogPosting
     {{ content | safe }}
 
 <hr />
-<div class="cluster">
+ {% include "partials/share.njk" %}
+  <div class="cluster">
     {% if tags.length > 1 %}
           <!-- tags -->
           {% for tag in tags %}{% if tag != "posts" %}
             <a class="button" href="/tag/{{ tag | slugify }}/" data-small-button> {{ tag }} </a>
           {% endif %}{% endfor %}
         {% endif %}
- </div>
   </div>
+</div>
 
   <!--  h-card infos: https://indieweb.org/authorship -->
   <div hidden class="h-entry">

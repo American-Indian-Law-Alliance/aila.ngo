@@ -5,5 +5,4 @@ categories:
   - "news"
 ---
 
-[Oren Lyons Testimonial  
-80th Birthday Celebration – New York City – June 17, 2010](/assets/documents/Oren-Lyons-Testimonial-II-0-NYC-20101.pdf)
+[Oren Lyons Testimonial 80th Birthday Celebration – New York City – June 17, 2010](/assets/documents/Oren-Lyons-Testimonial-II-0-NYC-20101.pdf)

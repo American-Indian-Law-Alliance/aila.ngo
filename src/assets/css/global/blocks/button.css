@@ -66,8 +66,8 @@
 
 .button[data-button-variant='secondary'] {
   --button-bg: var(--color-secondary);
-  --button-color: var(--color-light);
-  --button-color: color-mix(in oklab, var(--color-secondary) 5%, var(--color-light));
+  --button-color: var(--color-dark);
+  --button-color: color-mix(in oklab, var(--color-secondary) 5%, var(--color-dark));
 }
 
 .button[data-button-variant='tertiary'] {

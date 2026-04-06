@@ -37,3 +37,17 @@ to change how empty grid tracks are handled */
   --grid-placement: auto-fit;
   --grid-min-item-size: clamp(16rem, 33%, 20rem);
 }
+
+/* Masonry breakout used on the /links/ page */
+
+.masonry-breakout {
+  --card-bg: var(--color-primary);
+  --card-color: var(--color-light);
+}
+
+@media screen(md) {
+  .masonry-breakout {
+    grid-column: 1 / 3;
+    row-gap: var(--space-m);
+  }
+}

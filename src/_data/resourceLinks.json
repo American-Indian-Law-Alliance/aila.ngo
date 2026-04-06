@@ -13,7 +13,8 @@
     {
       "text": "UN Declaration on the Rights of Indigenous Peoples (UNDRIP)",
       "url": "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples",
-      "description": ""
+      "description": "",
+      "breakout": "true"
     },
     {
       "text": "Onondaga Naiton",

@@ -5,14 +5,14 @@ a[href^='http']:not([href*='localhost:8080']):not([href*='eleventy-excellent.net
   padding-inline-end: 0.8em;
 }
 
-a[href^='http']:not([href*='localhost:8080']):not([href*='aila.ngo']):not(
-    .no-indicator
-  )::after,
+a[href^='http']:not([href*='localhost:8080']):not([href*='aila.ngo']):not(.no-indicator)::after,
 .indicator::after {
   display: inline-block;
   inline-size: 1em;
   block-size: 1em;
-  background-image: url('/assets/images/template/external.svg');
+  background-image:
+    var(--external-link-bg, url('/assets/images/template/external.svg')),
+    url('/assets/images/template/external.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 60% auto;
@@ -21,4 +21,9 @@ a[href^='http']:not([href*='localhost:8080']):not([href*='aila.ngo']):not(
   overflow: hidden;
   white-space: nowrap;
   text-indent: 1em; /* the width of the icon */
+}
+
+.external-favicon::after {
+  /* Fallback SVG is still seen with transparent favicons - this background color adds an extra layer of contrast */
+  background-color: rgba(255, 255, 255, 0.5);
 }

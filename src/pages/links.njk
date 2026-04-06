@@ -1,8 +1,9 @@
 ---
 layout: page
+title: 'Resources & Links'
+date: 2010-09-27
 ---
-
-{{ content | safe }}
+<p>Here are some important Resources for learning more about Indigenous issues:</p>
 
 {% if resourceLinks.ailaResources.length %}
   <section class="region | stack flow">
@@ -25,16 +26,17 @@ layout: page
 {% if resourceLinks.externalResources.length %}
   <section class="region | stack flow">
   <h2 class="hr-border">External Links and Resources</h2>
+  
   <custom-masonry>
       {% for item in resourceLinks.externalResources %}
-            <custom-card clickable>
+        <custom-card clickable class="{% if item.sidebar %}masonry-breakout{% endif %}" style="--external-link-bg: url('https://v1.indieweb-avatar.11ty.dev/{{ item.url | baseDomain | urlencode }}/')">
             <h3 slot="headline" class="text-step-2">
-              <a href="{{ item.url | url }}">{{ item.text }}</a>
+              <a class="external-favicon" href="{{ item.url | url }}">{{ item.text }}</a>
             </h3>
             {% if item.description %}
               <p slot="content">{{ item.description }}</p>
             {% endif %}
-          </custom-card>
+        </custom-card>
       {% endfor %}
   </custom-masonry>
 </section>
