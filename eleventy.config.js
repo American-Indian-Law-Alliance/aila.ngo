@@ -7,6 +7,9 @@
  * @returns {Object} -
  */
 
+import path from "node:path";
+import fs from "node:fs";
+
 // register dotenv for process.env.* variables to pickup
 import dotenv from 'dotenv';
 dotenv.config();
@@ -15,7 +18,7 @@ dotenv.config();
 import yaml from 'js-yaml';
 
 //  config import
-import {getAllPosts, showInSitemap, tagList, categoriesList, categoriesPages, tagPages} from './src/_config/collections.js';
+import { getAllPosts, showInSitemap, tagList, categoriesList, categoriesPages, tagPages } from './src/_config/collections.js';
 import events from './src/_config/events.js';
 import filters from './src/_config/filters.js';
 import plugins from './src/_config/plugins.js';
@@ -25,9 +28,9 @@ import shortcodes from './src/_config/shortcodes.js';
 import { generateExcerpt } from './src/_config/utils/generate-excerpt.js';
 
 export default async function (eleventyConfig) {
-    eleventyConfig.setFrontMatterParsingOptions({
-	excerpt: generateExcerpt,
-});
+  eleventyConfig.setFrontMatterParsingOptions({
+    excerpt: generateExcerpt,
+  });
 
   // --------------------- Events: before build
   eleventyConfig.on('eleventy.before', async () => {
@@ -68,21 +71,11 @@ export default async function (eleventyConfig) {
     components: ['./src/_includes/webc/**/*.webc'],
     useTransform: true
   });
-
-  eleventyConfig.addPlugin(plugins.eleventyImageTransformPlugin, {
-    formats: ['auto'],
-    widths: ['auto'],
-    htmlOptions: {
-      imgAttributes: {
-        loading: 'lazy',
-        decoding: 'async'
-      },
-      pictureAttributes: {}
-    }
-  });
+  
+  eleventyConfig.addPlugin(plugins.eleventyImageTransformPlugin, plugins.eleventyImgOptions);
 
   // ---------------------  bundle
-  eleventyConfig.addBundle('css', {hoist: true});
+  eleventyConfig.addBundle('css', { hoist: true });
 
   // 	--------------------- Library and Data
   eleventyConfig.setLibrary('md', plugins.markdownLib);
@@ -111,6 +104,13 @@ export default async function (eleventyConfig) {
   if ((process.env.OPENGRAPHGEN === true) && (process.env.ELEVENTY_RUN_MODE === 'build' || process.env.ELEVENTY_RUN_MODE === 'serve')) {
     eleventyConfig.on('eleventy.after', events.svgToJpeg);
   }
+
+    // Load Images from Cache
+    eleventyConfig.on("eleventy.after", () => {
+      fs.cpSync(".cache/@11ty/img/", path.join(eleventyConfig.directories.output, "/assets/images/content/"), {
+        recursive: true
+      });
+    });
 
   // --------------------- Passthrough File Copy
 
