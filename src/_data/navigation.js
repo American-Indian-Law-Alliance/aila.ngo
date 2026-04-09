@@ -32,21 +32,7 @@ export default {
         },
         {
           text: 'Contact',
-          url: '/contact/',
-          submenu: [
-            {
-              text: 'Request a Speaker',
-              url: 'https://forms.gle/1RCkLGfSyBnnmLBr5'
-            },
-            {
-              text: 'Join our email list',
-              url: '/email/'
-            },
-            {
-              text: 'Support Us',
-              url: '/support-us/'
-            }
-          ]
+          url: '/contact/'
         },
       ]
     },
@@ -108,11 +94,11 @@ export default {
         },
         {
           text: "Request a Speaker",
-          url: "https://forms.gle/1RCkLGfSyBnnmLBr5"
+          url: "/request-a-speaker"
         },
         {
           text: "What else can you do?",
-          url: "http://aila.ngo/what-else-can-you-do/"
+          url: "/what-else-can-you-do/"
         }
       ]
     },

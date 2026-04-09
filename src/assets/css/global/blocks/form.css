@@ -1,8 +1,10 @@
-.form input {
-    padding: var(--space-s);
+.form[data-form="contact"] {
+  /* Specific Style exception for the Contact Form */
+  inline-size: 60ch;
 }
 
-.form[data-form="contact"] {
-    /* Specific Style exception for the Contact Form */
-    inline-size: 60ch;
+.form[data-form="speaker"] fieldset legend {
+    background-color: var(--legend-bg-color, var(--color-primary));
+    color: var(--legend-color, var(--color-light));
+    border-radius: var(--border-radius-small);
 }

@@ -1,4 +1,4 @@
-<form action="{{ meta.form.contactFormUrl }}" class="form | stack" data-form="contact">
+<form method="POST" action="{{ meta.form.contactFormUrl }}" class="form | stack" data-form="contact">
     <div class="grid">
         <div class="stack">
             <div class="stack">
@@ -21,3 +21,7 @@
     </div>
     <button type="submit" class="button no-indicator" style="align-self: start;">Submit</button>
 </form>
+
+{% css "local" %}
+  {% include "css/forms.css" %}
+{% endcss %}

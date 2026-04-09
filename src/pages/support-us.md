@@ -1,4 +1,5 @@
 ---
+layout: give
 title: "Support Us"
 date: 2017-10-15
 ---

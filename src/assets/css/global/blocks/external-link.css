@@ -1,4 +1,4 @@
-a[href^='http']:not([href*='localhost:8080']):not([href*='eleventy-excellent.netlify.app']):not(.button):not(
+a[href^='http']:not([href*='localhost:8080']):not([href*='aila.ngo']):not(.button):not(
     .no-indicator
   ),
 .indicator {
