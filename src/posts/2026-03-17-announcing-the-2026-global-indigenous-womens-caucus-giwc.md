@@ -10,8 +10,8 @@ tags:
 coverImage: "/assets/images/content/2.png"
 ---
 
-Download the Flyers [EN](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-EN.pdf) | [ES](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-ES.pdf) | [FR](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-FR.pdf) | [PT](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-PR.pdf) | [RU](https://aila.ngo/wp-content/uploads/2026/03/2026-GIWC-Poster-RU.pdf)\
-Download the Agenda [EN](https://aila.ngo/wp-content/uploads/2026/03/GIWC-2026-EN.pdf) | [ES](https://aila.ngo/wp-content/uploads/2026/03/GIWC-2026-ES.pdf)
+Download the Flyers [EN](/assets/documents/2026/03/2026-GIWC-Poster-EN.pdf) | [ES](/assets/documents/2026/03/2026-GIWC-Poster-ES.pdf) | [FR](/assets/documents/2026/03/2026-GIWC-Poster-FR.pdf) | [PT](/assets/documents/2026/03/2026-GIWC-Poster-PR.pdf) | [RU](/assets/documents/2026/03/2026-GIWC-Poster-RU.pdf)\
+Download the Agenda [EN](/assets/documents/2026/03/GIWC-2026-EN.pdf) | [ES](/assets/documents/2026/03/GIWC-2026-ES.pdf)
 
 * * * * *
 
