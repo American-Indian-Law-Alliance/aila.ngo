@@ -4,9 +4,10 @@ pagination:
   data: collections.categoriesPages
   size: 1
   alias: category
-permalink: /category/{{ category.name }}/{% if category.pageNumber %}page/{{ category.pageNumber + 1 }}/{% endif %}
+permalink: /category/{{ category.slug }}/{% if category.pageNumber %}page/{{ category.pageNumber + 1 }}/{% endif %}
 eleventyComputed:
   title: '{{ meta.blog.categoriesSingle }}: {{ category.name }}'
+  description: '{% if category.description %}{{ category.description }}{% else %}""{% endif %}'
 ---
 
 <custom-masonry layout="thirds">
@@ -32,16 +33,16 @@ eleventyComputed:
   {% for category in collections.categoriesList %}
     <li>
       <a
-        href="/category/{{ category | slugify }}/"
+        href="/category/{{ category.slug | slugify }}/"
         class="button"
         {{
-          helpers.getLinkActiveState('/category/' + category | slugify + '/',
+          helpers.getLinkActiveState('/category/' + category.slug | slugify + '/',
           page.url)
           |
           safe
         }}
       >
-        {{ category }}
+        {{ category.title }}
       </a>
     </li>
   {% endfor %}

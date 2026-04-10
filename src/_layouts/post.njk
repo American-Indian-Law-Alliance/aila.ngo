@@ -30,10 +30,13 @@ schema: BlogPosting
        {% if categories %}
        <span>in</span>
           <!-- categories -->
-          {% for category in categories %}
-          {% if category != "posts" %}
-            <a href="/category/{{ category | slugify }}/"> {{ category | capitalize }} </a>
-          {% endif %}
+          {% for category in collections.categoriesList %}
+            {% for postCategory in categories %}
+              {% if postCategory == category.slug %}
+                <a href="/category/{{ category.slug | slugify }}/"> {{ category.title | capitalize }} </a>
+              {% endif %}
+            {% endfor %}
+            
           {% endfor %}
         {% endif %}
     </p>
