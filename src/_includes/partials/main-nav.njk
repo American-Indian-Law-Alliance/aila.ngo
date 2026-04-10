@@ -43,11 +43,13 @@
       <li>
       <ul class="cluster" style="--cluster-horizontal-alignment: center;">
         {% for platform in organization.platforms %}
-            <!-- platforms in _data/organization.yaml -->
-            <a class="no-indicator button" data-icon href="{{ platform.url }}" rel="me">
-              <span class="visually-hidden">{{ platform.name }}</span>
-              <i class="icon fa-brands fa-{{ platform.name | lower }}"></i>
-            </a>
+        <li>
+              <!-- platforms in _data/organization.yaml -->
+              <a class="button no-indicator " data-icon href="{{ platform.url }}" rel="me">
+                <span class="visually-hidden">{{ platform.name }}</span>
+                <i class="icon fa-brands fa-{{ platform.name | lower }}" style="--icon-vertical-align: center;"></i>
+              </a>
+        </li>
         {% endfor %}
       </ul>
       </li>

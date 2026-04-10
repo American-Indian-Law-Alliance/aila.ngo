@@ -117,7 +117,7 @@ body:has([data-drawer-toggle][aria-expanded='true']) {
   color: var(--nav-item-text-color);
   font-size: var(--nav-item-font-size);
   padding: var(--nav-item-padding);
-  display: block;
+  display: inline-flex;
   border-radius: var(--border-radius-medium);
   text-decoration-line: underline;
   text-decoration-color: var(--nav-item-decoration-color);

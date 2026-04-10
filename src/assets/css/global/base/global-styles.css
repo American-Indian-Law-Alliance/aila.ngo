@@ -76,7 +76,7 @@ svg {
 }
 
 .icon {
-  vertical-align: baseline;
+  vertical-align: var(--icon-vertical-align, baseline);
   width: var(--icon-width, 1em);
   height: var(--icon-height, 1em);
 }
