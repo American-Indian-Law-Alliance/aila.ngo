@@ -8,3 +8,5 @@ platforms:
     url: https://www.instagram.com/americanindianlawalliance
   - name: facebook
     url: https://www.facebook.com/americanindianlawalliance
+  - name: bluesky
+    url: https://bsky.app/profile/aila.social
