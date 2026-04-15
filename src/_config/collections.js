@@ -44,12 +44,14 @@ export const tagPages = collection => {
 /** All Categories from all posts as a collection */
 
 export const categoriesList = collection => {
-  const categoriesSet = new Set();
-  collection.getAll().forEach(item => {
-    if (!item.data.categories) return;
-    item.data.categories.forEach(category => categoriesSet.add(category));
+  const categories = Object.entries(collection.getAll()[0].data.pagesCMS.categories).map(category => {
+    return {
+      title: category[1].title,
+      slug: category[1].slug
+    }
   });
-  return Array.from(categoriesSet).sort();
+
+  return categories;
 };
 
 export const categoriesPages = collection => {
@@ -59,12 +61,13 @@ export const categoriesPages = collection => {
   // Thanks @zachleat - https://github.com/11ty/eleventy/issues/332#issuecomment-445236776
   let categoryMap = [];
   let categoriesArray = categoriesList(collection);
-  for (let categoryName of categoriesArray) {
-    let categoryItems = categoriesPages.filter((item) => item.data.categories.includes(categoryName));
+  for (let category of categoriesArray) {
+    let categoryItems = categoriesPages.filter((item) => item.data.categories.includes(category.slug));
     let pagedItems = chunk(categoryItems, paginationSize);
     for (let pageNumber = 0, max = pagedItems.length; pageNumber < max; pageNumber++) {
       categoryMap.push({
-        name: categoryName,
+        name: category.title,
+        slug: category.slug,
         type: "category",
         totalPages: (max - 1),
         pageNumber: pageNumber,

@@ -9,7 +9,8 @@ export const lang = 'en';
 export const skipContent = 'Skip to content';
 // Stores the endpoint url of the Form
 export const forms = {
-  contactFormUrl: "example.com/formspree",
+  contactFormUrl: "https://formspree.io/f/mykbnwoa",
+  speakerFormUrl: "https://formspree.io/f/mgopnkqe"
 }
 export const author = {
   name: 'American Indian Law Alliance', // i.e. Lene Saile - page / blog author's name. Must be set.

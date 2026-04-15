@@ -1,9 +1,9 @@
 ---
-title: "Purpose &amp; Vision"
+draft: false
+title: Purpose & Vision
 date: 2018-02-01
-coverImage: "/assets/images/content/cropped-AILA-new-circle-logo2.png"
+coverImage: /assets/images/content/cropped-AILA-new-circle-logo2.png
 ---
-
 **Our purpose** is to work with Indigenous Nations, communities, and organizations globally in our struggle for sovereignty, human rights, and social justice for our peoples while remaining committed to our original instructions handed down through our ancestors to preserve Indigenous traditions for the seventh generation yet to come.
 
 **Our vision** is to empower Indigenous communities by being the catalyst for the advancement of self-determination, to promote our social, economic, and cultural development. We do this through education, capacity building, and legal advocacy.

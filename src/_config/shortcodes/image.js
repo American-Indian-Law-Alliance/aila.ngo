@@ -1,6 +1,21 @@
 import Image from '@11ty/eleventy-img';
 import path from 'node:path';
 
+export const eleventyImgOptions = {
+    formats: ['webp', 'jpeg'],
+    widths: [320, 640, 1400],
+    urlPath: "/assets/images/content/",
+    outputDir: ".cache/@11ty/img/",
+    htmlOptions: {
+      imgAttributes: {
+        loading: 'lazy',
+        decoding: 'async'
+      },
+      pictureAttributes: {}
+    }
+  }
+
+
 const stringifyAttributes = attributeMap => {
   return Object.entries(attributeMap)
     .map(([attribute, value]) => {
@@ -23,9 +38,9 @@ const processImage = async options => {
     loading = 'lazy',
     containerClass,
     imageClass,
-    widths = [650, 960, 1400],
+    widths = eleventyImgOptions.widths,
     sizes,
-    formats = ['avif', 'webp', 'jpeg']
+    formats = eleventyImgOptions.formats
   } = options;
 
   // Set sizes based on loading (if not provided)
@@ -41,8 +56,8 @@ const processImage = async options => {
   const metadata = await Image(src, {
     widths: [...widths],
     formats: [...formats],
-    urlPath: '/assets/images/',
-    outputDir: './dist/assets/images/',
+    urlPath: eleventyImgOptions.urlPath,
+    outputDir: eleventyImgOptions.outputDir,
     filenameFormat: (id, src, width, format, options) => {
       const extension = path.extname(src);
       const name = path.basename(src, extension);

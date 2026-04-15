@@ -5,8 +5,27 @@
   {% include "css/pagefind-config.css" %}
 {% endcss %}
 
+<script type="module">
+let el = document.querySelector("#aila-search");
+await el.pagefind({
+	showImages: false,
+	debounceTimeoutMs: 100,
+	processTerm: function (term) {
+          history.replaceState({}, "", `?q=${encodeURIComponent(term)}`);
+          return term;
+    },
+});
+// Thanks @nhoizey!
+const params = new URLSearchParams(window.location.search);
+      if (params.has('q')) {
+        el.pagefindUI.triggerSearch(params.get('q'));
+      }
+
+// Use `el.pagefindUI` to access the PagefindUI instance
+</script>
+
 	<is-land on:visible on:save-data="false">
-		<pagefind-search id="aila-search">
+		<pagefind-search manual id="aila-search">
 			<!-- Fallback to DuckDuckGo search -->
 				<form action="https://google.com/" method="get" style="min-height: 3.2em;"><!-- min-height to reduce CLS -->
 					<label>

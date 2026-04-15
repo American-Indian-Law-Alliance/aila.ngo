@@ -1,0 +1,139 @@
+media:
+  - name: images
+    label: Images
+    input: src/assets/images/content
+    output: /assets/images/content
+    rename: safe
+    categories: [image]
+    commit:
+      templates:
+        create: 'chore(Images): add {filename}'
+        update: 'chore(Images): update {filename}'
+        delete: 'chore(Images): remove {filename}'
+        rename: 'chore(Images): rename {oldFilename} -> {newFilename}'
+  - name: docs
+    label: Documents
+    input: src/assets/documents
+    output: /assets/documents
+    categories: [document]
+    commit:
+      templates:
+        create: 'chore(Documents): add {filename}'
+        update: 'chore(Documents): update {filename}'
+        delete: 'chore(Documents): remove {filename}'
+        rename: 'chore(Documents): rename {oldFilename} -> {newFilename}'
+content:
+  - name: categories
+    label: Categories
+    type: collection
+    filename: '{fields.title}.json'
+    format: json
+    path: 'src/_data/pagesCMS/categories'
+    fields:
+      - name: title
+        label: Category Name
+        type: string
+      - name: slug
+        label: Category slug (e.g - aila.ngo/category/slug/)
+        type: string
+  - name: posts
+    label: Posts
+    type: collection
+    path: src/posts
+    view:
+      fields: [title, draft, date, categories, tags]
+    fields:
+      - name: draft
+        type: boolean
+        default: false
+        label: Draft
+      - name: title
+        type: string
+        label: Title
+      - name: description
+        type: text
+        label: Description
+      - name: date
+        type: date
+        label: Last Updated
+        default: ''
+        options:
+          format: yyyy-MM-dd
+      - name: coverImage
+        label: Cover Image
+        type: image
+        options:
+          categories: [image]
+      - name: categories
+        label: Categories
+        type: reference
+        options:
+          collection: categories
+          value: '{slug}'
+          label: '{title}'
+          multiple: true
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: body
+        type: rich-text
+        options:
+          format: markdown
+  - name: pages
+    label: Pages
+    type: collection
+    path: src/pages
+    filename: '{title}.md'
+    fields:
+      - name: draft
+        type: boolean
+        default: false
+        label: Draft
+      - name: title
+        type: string
+        label: Title
+      - name: description
+        type: text
+        label: Description
+      - name: date
+        type: date
+        label: Last Updated
+        default: ''
+        options:
+          format: yyyy-MM-dd
+      - name: coverImage
+        label: Cover Image
+        type: image
+        options:
+          categories: [image]
+      - name: body
+        type: rich-text
+        options:
+          format: markdown
+  - name: organization
+    label: Organization Information
+    type: file
+    path: 'src/_data/organization.yaml'
+    fields:
+      - name: email
+        label: Organization Email
+        type: string
+      - name: address
+        label: Organization Address
+        type: text
+      - name: platforms
+        label: Social Platforms
+        type: object
+        list: true
+        fields:
+          - name: name
+            label: Platform Name
+            type: string
+          - name: url
+            label: Platform Url
+            type: string
+actions:
+  - name: deploy-site
+    label: Deploy site
+    workflow: pages-cms-action.yml

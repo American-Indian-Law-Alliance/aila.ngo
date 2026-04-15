@@ -9,13 +9,13 @@
     "node": ">=20.x.x"
   },
   "scripts": {
-    "clean": "rimraf src/_includes/css src/_includes/scripts",
+    "clean": "rimraf dist src/_includes/css src/_includes/scripts",
     "clean:og": "rimraf src/assets/og-images",
     "favicons": "node ./src/_config/setup/generate-favicons.js",
     "colors": "node ./src/_config/setup/create-colors.js",
     "screenshots": "node ./src/_config/setup/generate-screenshots.js",
     "dev:11ty": "cross-env ELEVENTY_ENV=development OPENGRAPHGEN=false eleventy --serve",
-    "build:11ty": "cross-env ELEVENTY_ENV=production OPENGRAPHGEN=true eleventy",
+    "build:11ty": "cross-env ELEVENTY_ENV=production OPENGRAPHGEN=false eleventy",
     "start": "npm run dev:11ty",
     "build": "npm run clean && npm run build:11ty && npx -y pagefind --site dist",
     "pagefind": "npx -y pagefind --site dist",

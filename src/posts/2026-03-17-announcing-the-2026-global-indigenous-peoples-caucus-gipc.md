@@ -9,9 +9,9 @@ tags:
   - "unpfii"
 coverImage: "/assets/images/content/1.png"
 ---
-Download the Flyers [EN](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Poster-EN.pdf) | [ES](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Poster-ES.pdf) | [FR](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Poster-FR.pdf) | [PT](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Poster-PT.pdf) | [RU](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Poster-RU.pdf)
+Download the Flyers [EN](/assets/documents/2026/03/GIPC-2026-Poster-EN.pdf) | [ES](/assets/documents/2026/03/GIPC-2026-Poster-ES.pdf) | [FR](/assets/documents/2026/03/GIPC-2026-Poster-FR.pdf) | [PT](/assets/documents/2026/03/GIPC-2026-Poster-PT.pdf) | [RU](/assets/documents/2026/03/GIPC-2026-Poster-RU.pdf)
 
-Download the Agenda [EN](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Agenda-EN.pdf) | [ES](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Agenda-ES.pdf) | [FR](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Agenda-FR.pdf) | [PT](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Agenda-PT.pdf) | [RU](https://aila.ngo/wp-content/uploads/2026/03/GIPC-2026-Agenda-RU.pdf)
+Download the Agenda [EN](/assets/documents/2026/03/GIPC-2026-Agenda-EN.pdf) | [ES](/assets/documents/2026/03/GIPC-2026-Agenda-ES.pdf) | [FR](/assets/documents/2026/03/GIPC-2026-Agenda-FR.pdf) | [PT](/assets/documents/2026/03/GIPC-2026-Agenda-PT.pdf) | [RU](/assets/documents/2026/03/GIPC-2026-Agenda-RU.pdf)
 
 * * * * *
 

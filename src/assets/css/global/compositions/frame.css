@@ -8,13 +8,13 @@
   align-items: center;
 }
 
-.frame:has(:is(img, video, picture)){
+.frame:is(img, video, picture){
   inline-size: 100%;
   block-size: 100%;
   object-fit: cover;
 }
 
-.frame[data-frame-border] {
+.frame:has([data-frame-border]) {
   --frame-border-color: var(--color-primary);
   --frame-border-size: 0.5rem;
   --frame-border-type: solid;

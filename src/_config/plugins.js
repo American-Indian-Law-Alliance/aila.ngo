@@ -12,6 +12,7 @@ import {drafts} from './plugins/drafts.js';
 
 // Custom transforms
 import {htmlConfig} from './plugins/html-config.js';
+import { eleventyImgOptions } from './shortcodes/image.js';
 
 export default {
   EleventyRenderPlugin,
@@ -20,6 +21,7 @@ export default {
   syntaxHighlight,
   webc,
   eleventyImageTransformPlugin,
+  eleventyImgOptions,
   markdownLib,
   drafts,
   htmlConfig

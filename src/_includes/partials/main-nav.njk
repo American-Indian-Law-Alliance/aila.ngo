@@ -42,15 +42,15 @@
       {% elseif item.social %}
       <li>
       <ul class="cluster" style="--cluster-horizontal-alignment: center;">
-        {% for key, value in organization.platforms %}
-          {% if value != "" %}
-            <!-- regular platforms -->
-            <a class="no-indicator" href="{{ value }}" rel="me">
-              <span class="visually-hidden">{{ key | capitalize }}</span>
-              <i class="icon fa-brands fa-{{ key }}"></i>
-            </a>
-          {% endif %}
-        {% endfor %}  
+        {% for platform in organization.platforms %}
+        <li>
+              <!-- platforms in _data/organization.yaml -->
+              <a class="button no-indicator " data-icon href="{{ platform.url }}" rel="me">
+                <span class="visually-hidden">{{ platform.name }}</span>
+                <i class="icon fa-brands fa-{{ platform.name | lower }}" style="--icon-vertical-align: center;"></i>
+              </a>
+        </li>
+        {% endfor %}
       </ul>
       </li>
       {%else %}

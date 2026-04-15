@@ -9,7 +9,7 @@ tags:
   - "unpfii"
 coverImage: "/assets/images/content/3.png"
 ---
-Download the Flyers [EN](https://aila.ngo/wp-content/uploads/2026/03/2026-Craft-Fair-EN.pdf) | [ES](https://aila.ngo/wp-content/uploads/2026/03/2026-Craft-Fair-ES.pdf) | [FR](https://aila.ngo/wp-content/uploads/2026/03/2026-Craft-Fair-FR.pdf) | [PT](https://aila.ngo/wp-content/uploads/2026/03/2026-Craft-Fair-PT.pdf) | [RU](https://aila.ngo/wp-content/uploads/2026/03/2026-Craft-Fair-RU.pdf)
+Download the Flyers [EN](/assets/documents/2026/03/2026-Craft-Fair-EN.pdf) | [ES](/assets/documents/2026/03/2026-Craft-Fair-ES.pdf) | [FR](/assets/documents/2026/03/2026-Craft-Fair-FR.pdf) | [PT](/assets/documents/2026/03/2026-Craft-Fair-PT.pdf) | [RU](/assets/documents/2026/03/2026-Craft-Fair-RU.pdf)
 
 **English**
 -----------
