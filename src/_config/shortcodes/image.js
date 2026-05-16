@@ -4,6 +4,7 @@ import path from 'node:path';
 export const eleventyImgOptions = {
     formats: ['webp', 'jpeg'],
     widths: [320, 640, 1400],
+    transformOnRequest: false,
     urlPath: "/assets/images/content/",
     outputDir: ".cache/@11ty/img/",
     htmlOptions: {

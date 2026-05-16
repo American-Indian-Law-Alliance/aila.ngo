@@ -4,9 +4,45 @@ eleventyExcludeFromCollections: true
 excludeFromSitemap: true
 ---
 
-/* TEAM */ Developer: {{ meta.creator.name }} Contact: {{ meta.creator.email }} Site:
-{{ meta.creator.website }}
-{% if meta.creator.social %}
-  Find me on: {{ meta.creator.social }}
-{% endif %}
-/* SITE */ Doctype: HTML5
+/* WHO */
+
+Adam DJ Brett
+Website: adamdjbrett.com
+
+From: Syracuse, NY, USA
+
+GitHub contributors and co-authors:
+{%- for contributor in contributors %}
+
+{{ contributor.name }}
+{%- if contributor.github %}
+Github: @{{ contributor.github }}
+{%- endif %}
+Roles: {{ contributor.roles | join(", ") }}
+{%- endfor %}
+
+
+
+/* THANKS */
+
+Eleventy Creator: Zachleat
+Github: @zachleat
+
+/* Credits */
+
+Static Site Generator: Eleventy
+Twitter: @eleven_ty
+Website: 11ty.dev
+
+Eleventy Excellent
+Website: https://github.com/madrilene/eleventy-excellent/
+
+
+
+/* SITE */
+
+Last update: {{ page.date }}
+Language: English
+Generator: Eleventy
+Doctype: HTML5
+IDE: VS Code, Terminal

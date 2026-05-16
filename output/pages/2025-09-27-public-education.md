@@ -1,8 +1,0 @@
----
-title: "Public Education"
-date: 2025-09-27
----
-
-The American Indian Law Alliance (AILA) has made public education a central part of its mission. Through community forums, academic lectures, and interfaith dialogues, AILA fosters difficult yet necessary conversations about the Doctrine of Christian Discovery, treaties, and the history of U.S.–Haudenosaunee relations. Programs like _Treaty Talks_ explain how agreements made nation-to-nation remain legally and morally binding, even when ignored or broken by state and federal governments. Presentations on the Doctrine of Discovery expose how the church and state justified land theft, violence, and ongoing forms of dispossession. By connecting these histories to current struggles—such as land return, environmental protection, and justice for Indigenous women, girls, and Two-Spirit relatives—AILA equips audiences to see the continuity of colonial policies and to imagine pathways toward repair.
-
-Central to this work is Betty Lyons, President of AILA and a citizen of the Onondaga Nation. Betty is a powerful speaker who brings legal, cultural, and spiritual knowledge into dialogue with today’s urgent issues. She weaves together the history of treaties, Indigenous diplomacy, and Haudenosaunee teachings to show why these matters remain relevant for all of us. Suppose your university, community group, congregation, or organization is seeking to understand Indigenous sovereignty, environmental justice, or the legacy of the Doctrine of Discovery. In that case, we encourage you to book Betty as a speaker. Her talks not only educate but also inspire action grounded in responsibility and respect.

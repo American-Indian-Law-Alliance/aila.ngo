@@ -1,8 +1,12 @@
 export const drafts = eleventyConfig => {
+  const isUnpublished = data => data.published === false;
+  const isDraft = data => data.draft && !process.env.BUILD_DRAFTS;
+
   eleventyConfig.addGlobalData('eleventyComputed.permalink', function () {
     return data => {
-      // Always skip during non-watch/serve builds
-      if (data.draft && !process.env.BUILD_DRAFTS) {
+      // Only `published: false` is hidden; missing `published` or `published: true` publishes normally.
+      // Drafts are hidden unless explicitly built.
+      if (isUnpublished(data) || isDraft(data)) {
         return false; // Ensure templates that use this handle it correctly
       }
       return data.permalink;
@@ -12,8 +16,9 @@ export const drafts = eleventyConfig => {
   // When `eleventyExcludeFromCollections` is true, the file is not included in any collections
   eleventyConfig.addGlobalData('eleventyComputed.eleventyExcludeFromCollections', function () {
     return data => {
-      // Always exclude from non-watch/serve builds
-      if (data.draft && !process.env.BUILD_DRAFTS) {
+      // Only `published: false` is excluded; missing `published` or `published: true` publishes normally.
+      // Drafts are excluded unless explicitly built.
+      if (isUnpublished(data) || isDraft(data)) {
         return true;
       }
 
