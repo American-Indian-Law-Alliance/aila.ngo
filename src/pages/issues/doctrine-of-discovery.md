@@ -20,7 +20,7 @@ In fact, [the Doctrine of Discovery](https://doctrineofdiscovery.org/) is the ba
 
 Presently more than 500 million Indigenous peoples around the globe live today with the effects of the Doctrine's oppressive racism.
 
-\[su\_button url="/assets/documents/Doctrine-of-Discovery-Booklet-rev3.1.pdf" target="blank" background="#000" size="6" center="yes" icon="icon: download" download="Doctrine of Discovery Booklet PDF Download"\]Download an educational booklet (PDF)\[/su\_button\]
+### [Doctrine of Discovery Booklet PDF Download](/assets/documents/Doctrine-of-Discovery-Booklet-rev3.1.pdf)
 
 ### [➞ Learn more about the Doctrine of Discovery at doctrineofdiscovery.org](https://doctrineofdiscovery.org/)
 
@@ -32,7 +32,6 @@ After the church and crown were bankrupt from the crusades and from killing thei
 
 In this process 12 million enslaved Africans were brought to Turtle Island (David Stannard, _American Holocaust_). Europeans Christians saw Indigenous Africans as a expendable and exploitable commodity and the 12 million Indigenous peoples of Turtle Island as terranullus. Therefore the genocides Indigenous peoples of Turtle Island was no different than clearing the land for extraction.
 
- 
 
 ### **The Doctrine of Discovery and the Sullivan Clinton Campaign**
 
@@ -59,9 +58,7 @@ _Prepared and presented by Tonya Gonnella Frichner North American Regional Speci
 
 The "Preliminary study on the impact on indigenous peoples of the international legal construct known as the Doctrine of Discovery" (E/C.19/2010/13) presented at the Ninth Session authored by Tonya Gonnella Frichner, Esq. (Onondaga Nation), former North American Representative to the UN Permanent Forum on Indigenous Issues. We recognize the legal construct known as the [Doctrine of Discovery](/issues/doctrine-of-discovery/) has global implications. As established in the preliminary study and reaffirmed in the more recent study, as mentioned above, the Doctrine of Discovery has been invoked as a justification for the ongoing exploitation of our lands, territories and resources which violates [UNDRIP Article 7](https://web.archive.org/web/20241126141121/https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf), the collective right to live in freedom and shall not be subjected to any act of genocide or violence including forcibly removing children of the group to another group. 
 
-\[su\_button url="/assets/documents/DOD5.pdf" target="blank" background="#000" size="6" center="yes" icon="icon: download" download="Preliminary Report PDF Download"\] Read the Preliminary Report (PDF)\[/su\_button\]
-
- 
+[Read the Preliminary Report (PDF)](/assets/documents/DOD5.pdf)
 
 The installation of the Carlisle Indian Industrial School in Pennsylvania was a US government initiative focused on “Killing the Indian to save the man” a theory and practice advanced by Brigadier General Richard Henry Pratt to exterminate over 12 million Indigenous peoples. 
 
