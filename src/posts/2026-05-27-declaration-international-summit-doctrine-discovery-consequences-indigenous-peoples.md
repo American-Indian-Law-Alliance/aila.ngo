@@ -1,6 +1,6 @@
 ---
 title: "Declaration Of The International Summit On The Doctrine Of Discovery And Its Consequences For Indigenous Peoples"
-date: 2026-05-27
+date: 2026-05-26
 categories: 
   - news
 tags: 
