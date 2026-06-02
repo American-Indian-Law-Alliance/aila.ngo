@@ -1,6 +1,6 @@
 ---
 title: "Annoucing the 11th annual Haudenosaunee Wooden Stick Festival"
-date: 2026-05-12
+date: 2026-06-01
 categories: 
   - "events"
   - "festival"
@@ -11,13 +11,12 @@ tags:
   - "onondaga-lake"
   - laxweekend
 coverImage: "/assets/images/content/WSF-and-Restore-Our-Lake.png"
-published: false
 ---
 The Restore Our Sacred Lake 5K and Haudenosaunee Wooden Stick Festival Weekend September 12<sup>th</sup> and 13<sup>th</sup> at Onondaga Lake Park
 
 [![2026 Event Flyer](/assets/images/content/2026-wsf.jpg)](/assets/images/content/2026-wsf.jpg)
 
-## Restore Our Sacred Lake 5K
+## [Restore Our Sacred Lake 5K](https://restoreoursacredlake.itsyourrace.com/)
 
 We follow the Thanksgiving Address by protecting Mother Earth. The eagle has returned to Onondaga Lake for the first time in over 200 years. We invite runners and walkers to come to Onondaga Lake for a day of celebration. This event will raise awareness of the importance of the lake and the urgency of furthering the cleanup efforts.
 
@@ -30,25 +29,21 @@ We follow the Thanksgiving Address by protecting Mother Earth. The eagle has ret
 
 - Race begins at 8:00 a.m.
 
-- Cost: Free
-
-- Contact us
+- Cost: Free Early Registration, then $5 and then $10.00 day of the race.
 
 - Please join us for the Wooden Stick Festival immediately following
 
+### [Register for the Race Now](https://restoreoursacredlake.itsyourrace.com/)
+
 * * *
 
-## **Haudenosaunee Wooden Stick Festival**
+## Haudenosaunee Wooden Stick Festival & Randy Hall Masters Wood Stick Lacrosse 
+*Come and Play where Lacrosse Originated*
 
-### & Randy Hall Masters Wood Stick Lacrosse
+### Deyhontsigwa'ehs: The Creator's Game, Lacrosse Weekend 2026
+*Onondaga Lake Park, 106 Lake Dr, Liverpool, NY 13088, located in the heart of Onondaga Nation Territory*
 
-### **Come and Play where Lacrosse Originated**
-
-#### **Deyhontsigwa'ehs: The Creator's Game, Lacrosse Weekend 2026**
-
-##### **Onondaga Lake Park, 106 Lake Dr, Liverpool, NY 13088, located in the heart of Onondaga Nation Territory**
-
-### **The Annual Haudenosaunee Wooden Stick Festival**
+### **The Annual Haudenosaunee Wooden Stick Festival Tenative Schedule**
 
 ### **(10:00 AM - 5:00 PM)**
 
@@ -80,7 +75,7 @@ Craft vendor registration opens (as of June 1, 2026).
 
 ## Smoke Dance Details
 
-[![](/assets/images/content/2025-Smoke-Dance-update-819x1024.jpg)](/assets/documents/2025-Smoke-Dance-update.jpg)
+[![Smoke Dancer Dancing superimposed over a photo of Onondaga Lake](/assets/images/content/2025-Smoke-Dance-update-819x1024.jpg)](/assets/documents/2025-Smoke-Dance-update.jpg)
 
 ### Team and Vendor Fees
 
@@ -101,10 +96,11 @@ The Haudenosaunee Wooden Stick Festival is a collaboration between the [American
 Special thanks to our Sponsors:
 
 - [**American Indian Law Alliance**](http://aila.ngo/)
+- *If you would like to be a sponsor [contact us today](/contact/).*
 
 
 
-### **Fourth Annual Randy Hall Masters Wooden Stick Lacrosse Tournament**
+### **The Annual Randy Hall Masters Wooden Stick Lacrosse Tournament**
 
 There will be referees, a tent for changing, and a box-sized field marked out on the grass with 4x4 nets by Onondaga Lake. Players will be responsible for helmets, gloves, and wooden sticks. Teams will be responsible for their jerseys. Wooden sticks are preferred but not required.
 
@@ -143,22 +139,18 @@ There will be referees, a tent for changing, and a box-sized field marked out on
 ### **Get Involved**
 <!-- Update Section-->
 
-- Volunteer
+- Volunteer - email <aila@aila.ngo>
 
-- Craft Vendor
+- Craft Vendor - email Patricia Vogt <office@aila.ngo>
 
-- Team Registration
+- Team Registration - email Melisa Rank <mrank@aila.ngo>
 
-- Be a Sponsor
+- Be a Sponsor - eamil <aila@aila.ngo>
 
 #### **About Randy Hall**
 
 Thomas Randall “Randy” Hall, Akwesasne Mohawk Wolf Clan, passed away on January 18, 2018. He served in Vietnam with the US Army (1965-68) and participated in the 1972 AIM take-over of the Bureau of Indian Affairs in Washington, D.C. He loved sports and was deeply involved with the Onondaga Athletic Club, where he played and coached lacrosse and basketball. One of Randy’s favorite things to do was to travel and play in tournaments. In his memory, the Haudenosaunee Wooden Stick Festival honors Randy by naming the Wooden Stick tournament after him. The inaugural Haudenosaunee Wooden Stick Festival was held at Onondaga Lake in 2013. Previously, the game was only played exclusively on Haudenosaunee Nation territories. So in 2013, Randy Hall asked Philip P. Arnold and Sandy Bigtree for help to bring the game back to Onondaga Lake––its place of origin. The Peacemaker arrived at Onondaga Lake well over 1,000 years ago to bring peace to five warring nations. Few realize that Deyhontsigwa’ehs, the Creator’s Game, was an integral part of this peacemaking process. This ancient game is still played ceremonially among the Haudenosaunee. It is played hard, but always played to foster good relationships between human beings and the natural world.
 
-<!-- Update Section image and flyer-->
-[![](/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-1-819x1024.png)](/assets/documents/Copy-of-2025-WSF-5K-Vertical-Randy-1.png) 
-
-[Download Flyer](/assets/documents/Copy-of-2025-WSF-5K-Vertical-Randy-1.png)
 
 ## Alfie Jacques Ambassador Award Dinner
 [The Alife Jacques Ambassador Award Dinner](https://www.alfieaward.com/) will be held the day before on September 11<sup>th</sup>.  The Alfie Jacques Ambassador Award Dinner is a ticketed event. [You can purchase tickets online](https://alfieaward.com/).
