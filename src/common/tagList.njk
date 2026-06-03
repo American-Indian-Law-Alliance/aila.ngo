@@ -4,13 +4,13 @@ pagination:
   data: collections.tagPages
   size: 1
   alias: tag
-permalink: /tag/{{ tag.name }}/{% if tag.pageNumber %}page/{{ tag.pageNumber + 1 }}/{% endif %}
+permalink: /tag/{{ tag.slug }}/{% if tag.pageNumber %}page/{{ tag.pageNumber + 1 }}/{% endif %}
 eleventyComputed:
   title: '{{ meta.blog.tagSingle }}: {{ tag.name }}'
 ---
 
 <custom-masonry layout="thirds">
-  {% set itemList = tag.pageData | reverse %}
+  {% set itemList = tag.pageData %}
   {% asyncEach item in itemList %}
      {% include "partials/card-blog.njk" %}
   {% endeach %}
@@ -21,7 +21,7 @@ eleventyComputed:
  <!-- set target pagination settings in meta.js -->
   {% set metaKey = "blog" %}
   <!-- if the number of items in the collection is greater than the number of items shown on one page -->
-  {% if category.totalPages !== 0 %}
+  {% if tag.totalPages !== 0 %}
     <!-- include pagination -->
     {% set keyAlias = tag %}
     {% include 'partials/category-pagination.njk' %}
