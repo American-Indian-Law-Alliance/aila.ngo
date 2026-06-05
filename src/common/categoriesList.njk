@@ -11,7 +11,7 @@ eleventyComputed:
 ---
 
 <custom-masonry layout="thirds">
-  {% set itemList = category.pageData | reverse %}
+  {% set itemList = category.pageData %}
   {% asyncEach item in itemList %}
      {% include "partials/card-blog.njk" %}
   {% endeach %}

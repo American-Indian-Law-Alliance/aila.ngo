@@ -1,4 +1,9 @@
 import chunk from "lodash.chunk";
+import {slugifyString} from './filters/slugify.js';
+
+const sortNewestFirst = items => {
+  return [...items].sort((a, b) => b.date - a.date);
+};
 
 /** All blog posts as a collection. */
 export const getAllPosts = collection => {
@@ -26,11 +31,12 @@ export const tagPages = collection => {
   let tagMap = [];
   let tagsArray = tagList(collection);
   for (let tagName of tagsArray) {
-    let tagItems = collection.getFilteredByTag(tagName);
+    let tagItems = sortNewestFirst(collection.getFilteredByTag(tagName));
     let pagedItems = chunk(tagItems, paginationSize);
     for (let pageNumber = 0, max = pagedItems.length; pageNumber < max; pageNumber++) {
       tagMap.push({
         name: tagName,
+        slug: slugifyString(tagName),
         type: "tag",
         totalPages: (max - 1),
         pageNumber: pageNumber,
@@ -62,7 +68,7 @@ export const categoriesPages = collection => {
   let categoryMap = [];
   let categoriesArray = categoriesList(collection);
   for (let category of categoriesArray) {
-    let categoryItems = categoriesPages.filter((item) => item.data.categories.includes(category.slug));
+    let categoryItems = sortNewestFirst(categoriesPages.filter((item) => item.data.categories.includes(category.slug)));
     let pagedItems = chunk(categoryItems, paginationSize);
     for (let pageNumber = 0, max = pagedItems.length; pageNumber < max; pageNumber++) {
       categoryMap.push({
@@ -77,4 +83,3 @@ export const categoriesPages = collection => {
   }
   return categoryMap;
 };
-

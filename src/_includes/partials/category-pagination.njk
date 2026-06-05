@@ -42,9 +42,9 @@
     {% endif %}
 
   {% if loop.index <= 1 %}
-    {% set url = '/' + keyAlias.type + '/' + keyAlias.name + '/' %}
+    {% set url = '/' + keyAlias.type + '/' + keyAlias.slug + '/' %}
       {% else %}
-        {% set url = '/' + keyAlias.type + '/' + keyAlias.name + '/page/' + loop.index + '/' %}
+        {% set url = '/' + keyAlias.type + '/' + keyAlias.slug + '/page/' + loop.index + '/' %}
   {% endif %}
 
     {% if loop.index0 <= totalPages %}
