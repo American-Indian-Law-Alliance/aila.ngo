@@ -64,12 +64,15 @@ All sponsors, vendors, lacrosse teams, and lacrosse players must submit a signed
 Craft vendor registration opens (as of June 1, 2026).
 
 ### **Craft Vendors**
+*we are still lookign for craft vendors*
 
 1. [Submit the form](https://forms.gle/HS6J6ton1pDV2Dph9)
 
 3. [Pay online](http://aila.li/pay)
 
 5. [Print or email us your signed hold harmless](/assets/documents/2024-hold-harmless-rev3.pdf)
+
+**Thank you for your interest the food vendor application is now closed.**
 
 * * *
 
