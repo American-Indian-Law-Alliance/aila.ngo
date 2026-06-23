@@ -59,7 +59,7 @@
     "html-minifier-terser": "^7.2.0",
     "js-yaml": "^4.1.1",
     "lodash.chunk": "^4.2.0",
-    "markdown-it": "^14.1.1",
+    "markdown-it": "^14.2.0",
     "markdown-it-abbr": "^2.0.0",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-attrs": "^4.3.1",
@@ -85,5 +85,8 @@
     "slugify": "^1.6.6",
     "svgo": "^4.0.0"
   },
-  "packageManager": "npm@11.14.0"
+  "packageManager": "npm@11.14.0",
+  "overrides": {
+    "undici": "~7.28.0"
+  }
 }
