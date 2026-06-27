@@ -97,11 +97,11 @@
 <meta property="zotero:itemType" content="blogPost" />
 <meta property="dc:title" content="{{ title | escape }}" />
 <meta property="dc:creator" content="{{ meta.author.name | escape }}" />
-{% if date %}<meta property="dc:date" content="{{ date | date('Y-m-d') }}" />{% endif %}
+{% if date %}<meta property="dc:date" content="{{ date | formatDate('YYYY-MM-DD') }}" />{% endif %}
 <meta property="dc:language" content="{{ meta.lang }}" />
 <meta property="dc:identifier" content="{{ meta.url }}{{ page.url }}" />
 <meta name="citation_author" content="{{ meta.author.name | escape }}" />
-{% if date %}<meta name="citation_publication_date" content="{{ date | date('Y-m-d') }}" />{% endif %}
+{% if date %}<meta name="citation_publication_date" content="{{ date | formatDate('YYYY-MM-DD') }}" />{% endif %}
 <meta name="citation_public_url" content="{{ meta.url }}{{ page.url }}" />
 <meta name="citation_language" content="{{ meta.lang }}" />
 {% if doi %}<meta name="citation_doi" content="{{ doi | escape }}" />{% endif %}
