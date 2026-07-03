@@ -1,7 +1,7 @@
 ---
 layout: give
 title: "Give"
-date: 2018-03-01
+date: 2026-07-02
 ---
 
 Please consider giving to the American Indian Law Alliance (AILA) in order to assist us in our work.
