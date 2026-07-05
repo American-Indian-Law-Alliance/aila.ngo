@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": {{ (post_jsonld_url ~ "#article") | dump | safe }},
+  "name": {{ post_jsonld_title | dump | safe }},
+  "headline": {{ post_jsonld_title | dump | safe }},
+  "description": {{ post_jsonld_description | dump | safe }},
+  "url": {{ post_jsonld_url | dump | safe }},
+  "inLanguage": {{ (post_jsonld_language or meta.lang or "en") | dump | safe }},
+  "datePublished": {{ post_jsonld_date_published | dump | safe }},
+  "dateModified": {{ post_jsonld_date_modified | dump | safe }},
+  "image": {{ post_jsonld_image | dump | safe }},
+  "author": {
+    "@type": "Organization",
+    "@id": {{ (meta.url ~ "/#organization") | dump | safe }},
+    "name": {{ meta.author.name | dump | safe }},
+    "url": {{ meta.url | dump | safe }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": {{ (meta.url ~ "/#organization") | dump | safe }},
+    "name": {{ meta.siteName | dump | safe }},
+    "url": {{ meta.url | dump | safe }}
+  },
+  "isPartOf": {
+    "@type": "Blog",
+    "@id": {{ (meta.url ~ "/blog/") | dump | safe }},
+    "name": {{ (meta.blog.name or meta.siteName) | dump | safe }},
+    "url": {{ (meta.url ~ "/blog/") | dump | safe }}
+  }{% if post_jsonld_citations and post_jsonld_citations.length %},
+  "citation": {{ post_jsonld_citations | dump | safe }}{% endif %}
+}

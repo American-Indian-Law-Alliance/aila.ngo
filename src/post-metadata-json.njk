@@ -1,0 +1,20 @@
+---
+pagination:
+  data: collections.allPosts
+  size: 1
+  alias: post
+permalink: "{{ post.url }}metadata.json"
+layout: null
+eleventyExcludeFromCollections: true
+---
+{% set postData = post.data %}
+{% set post_jsonld_title = postData.title or meta.siteName %}
+{% set post_jsonld_description = postData.description or post.templateContent | striptags | truncate(220) or meta.siteDescription %}
+{% set post_jsonld_url = postData.canonical_url or (meta.url ~ post.url) %}
+{% set post_jsonld_image = (postData.coverImage or postData.image or meta.opengraph_default) | url %}
+{% if "http" not in post_jsonld_image %}{% set post_jsonld_image = meta.url ~ post_jsonld_image %}{% endif %}
+{% set post_jsonld_date_published = postData.date | formatDate('YYYY-MM-DD') %}
+{% set post_jsonld_date_modified = (postData.updated or postData.date) | formatDate('YYYY-MM-DD') %}
+{% set post_jsonld_language = postData.language or meta.lang %}
+{% set post_jsonld_citations = postData.citations %}
+{% include "schemas/PostMetadata.njk" %}

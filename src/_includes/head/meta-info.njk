@@ -9,6 +9,7 @@
     {{- meta.siteDescription -}}
   {%- endif -%}
 {% endset %}
+{% set isPost = layout == 'post' %}
 
 <meta name="description" content="{{ metaDescription }}" />
 <meta name="theme-color" content="{{ meta.themeDark }}" media="(prefers-color-scheme: dark)" />
@@ -26,6 +27,13 @@
 <link rel="canonical" href="{{ meta.url }}{{ page.url }}" />
 <!-- Links to information about the author(s) of the document -->
 <link rel="author" href="humans.txt" />
+{% if isPost %}
+<link rel="cite-as" href="{{ meta.url }}{{ page.url }}" />
+<link rel="type" href="https://schema.org/BlogPosting" />
+<link rel="describedby" type="application/ld+json" profile="https://schema.org/" href="{{ page.url }}metadata.json" />
+{% else %}
+<link rel="describedby" type="application/ld+json" profile="https://schema.org/" href="/metadata.json" />
+{% endif %}
 
 {% if organization.platforms.mastodon %}
   <!-- Mastodon verified site -->
@@ -92,7 +100,6 @@
 <link rel="manifest" href="{{ '/site.webmanifest' | url }}" />
 
 {# Zotero / Highwire / PRISM — makes posts harvestable as Blog Post type #}
-{% set isPost = layout == 'post' %}
 {% if isPost %}
 <meta property="zotero:itemType" content="blogPost" />
 <meta property="dc:title" content="{{ title | escape }}" />

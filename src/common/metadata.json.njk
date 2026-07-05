@@ -1,0 +1,23 @@
+---
+permalink: /metadata.json
+layout: null
+eleventyExcludeFromCollections: true
+---
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "{{ meta.url }}/#organization",
+  "name": {{ meta.siteName | dump | safe }},
+  "description": {{ meta.siteDescription | dump | safe }},
+  "url": {{ meta.url | dump | safe }},
+  "email": {{ meta.author.email | dump | safe }},
+  "inLanguage": {{ meta.lang | dump | safe }},
+  "sameAs": [
+    "https://www.facebook.com/americanindianlawalliance",
+    "https://bsky.app/profile/aila.social",
+    "https://doctrineofdiscovery.org/",
+    "https://podcast.doctrineofdiscovery.org/",
+    "https://lakeback.org/",
+    "https://www.sullivanclinton.com/"
+  ]
+}
