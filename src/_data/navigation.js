@@ -115,7 +115,7 @@ export default {
     },
     {
       text: "Give",
-      url: "https://givebutter.com/aila",
+      url: "/give/",
       button: true
     },
     {
