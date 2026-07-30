@@ -1,4 +1,9 @@
-# Eleventy Excellent
+[![Deploy Eleventy to XMIT](https://github.com/American-Indian-Law-Alliance/aila.ngo/actions/workflows/xmit-deploy.yml/badge.svg)](https://github.com/American-Indian-Law-Alliance/aila.ngo/actions/workflows/xmit-deploy.yml)
+# AILA.NGO
+built with 11ty
+deploys to [🛰️ xmit.co](https://xmit.co)
+
+## Eleventy Excellent
 
 Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [buildexcellentwebsit.es](https://buildexcellentwebsit.es/).
 
