@@ -4,16 +4,10 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
-    inputs:
-      site:
-        description: "XMIT site/domain override (e.g. example.com)"
-        required: false
-        type: string
 
 concurrency:
   group: deploy-xmit-${{ github.ref }}
-  # Never cancel a deploy mid-upload; let the in-flight bundle finish.
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: read
@@ -23,7 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:
-      XMIT_SITE: ${{ inputs.site || vars.XMIT_SITE || 'aila.ngo' }}
+      XMIT_PRIMARY_SITE: aila.ngo
+      XMIT_PARALLEL_SITE: aila.ong
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -34,13 +29,20 @@ jobs:
           node-version: 24
           cache: npm
 
+      - name: Restore Eleventy image cache
+        uses: actions/cache@v6
+        with:
+          path: .cache/@11ty/img
+          key: eleventy-images-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          restore-keys: eleventy-images-${{ runner.os }}-
+
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --no-audit --no-fund
 
       - name: Build Eleventy site
         run: npm run build
         env:
-          URL: https://${{ env.XMIT_SITE }}
+          URL: https://${{ env.XMIT_PRIMARY_SITE }}
 
       - name: Verify build output
         run: |
@@ -48,7 +50,7 @@ jobs:
             echo "::error::dist is missing required xmit deployment files"
             exit 1
           fi
-          grep -q "https://$XMIT_SITE/" dist/index.html || {
+          grep -q "https://$XMIT_PRIMARY_SITE/" dist/index.html || {
             echo "::error::Production URL is missing from dist/index.html"
             exit 1
           }
@@ -61,32 +63,24 @@ jobs:
             echo "::error::XMIT_KEY secret is not set"
             exit 1
           fi
-          if [ -z "$XMIT_SITE" ]; then
-            echo "::error::XMIT site/domain not provided. Set repo variable XMIT_SITE or pass the workflow_dispatch site input."
-            exit 1
-          fi
-          # `xmit DOMAIN [DIR]` uploads. The DOMAIN@ID form is download-only.
-          case "$XMIT_SITE" in
-            *@*)
-              echo "::error::XMIT_SITE must be a bare domain, got '$XMIT_SITE'. The DOMAIN@ID form is only valid for 'xmit download'."
+          for site in "$XMIT_PRIMARY_SITE" "$XMIT_PARALLEL_SITE"; do
+            deployed=false
+            echo "Deploying dist to $site on xmit team 389"
+            for attempt in 1 2 3; do
+              if ./node_modules/.bin/xmit "$site@389" dist; then
+                echo "$site deploy succeeded on attempt $attempt"
+                deployed=true
+                break
+              fi
+              echo "::warning::$site deploy attempt $attempt failed"
+              sleep $((attempt * 15))
+            done
+            if [ "$deployed" != true ]; then
+              echo "::error::$site deploy failed after 3 attempts"
               exit 1
-              ;;
-          esac
-
-          echo "Deploying dist to $XMIT_SITE via XMIT CLI"
-          # Chunk uploads can fail on transient TLS errors; retry before giving up.
-          for attempt in 1 2 3; do
-            if ./node_modules/.bin/xmit "$XMIT_SITE" dist; then
-              echo "Deploy succeeded on attempt $attempt"
-              exit 0
             fi
-            echo "::warning::XMIT deploy attempt $attempt failed"
-            sleep $((attempt * 15))
           done
-          echo "::error::XMIT deploy failed after 3 attempts"
-          exit 1
 
       - name: Post-deploy summary
         run: |
-          echo "Deployed $XMIT_SITE" >> "$GITHUB_STEP_SUMMARY"
-          echo "Visit: https://$XMIT_SITE" >> "$GITHUB_STEP_SUMMARY"
+          echo "Deployed https://$XMIT_PRIMARY_SITE and https://$XMIT_PARALLEL_SITE" >> "$GITHUB_STEP_SUMMARY"
