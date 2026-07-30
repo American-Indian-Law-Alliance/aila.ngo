@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:
-      XMIT_SITE: ${{ inputs.site || vars.XMIT_SITE || 'originalfreenations.com' }}
+      XMIT_SITE: ${{ inputs.site || vars.XMIT_SITE || 'aila.ngo' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -39,14 +39,19 @@ jobs:
 
       - name: Build Eleventy site
         run: npm run build
+        env:
+          URL: https://${{ env.XMIT_SITE }}
 
       - name: Verify build output
         run: |
-          if [ ! -d _site ]; then
-            echo "::error::_site directory missing after build"
+          if [ ! -f dist/index.html ] || [ ! -f dist/404.html ] || [ ! -f dist/xmit.toml ]; then
+            echo "::error::dist is missing required xmit deployment files"
             exit 1
           fi
-          ls -1 _site | head -n 20
+          grep -q "https://$XMIT_SITE/" dist/index.html || {
+            echo "::error::Production URL is missing from dist/index.html"
+            exit 1
+          }
 
       - name: Deploy to XMIT (CLI)
         env:
@@ -68,10 +73,10 @@ jobs:
               ;;
           esac
 
-          echo "Deploying _site to $XMIT_SITE via XMIT CLI"
+          echo "Deploying dist to $XMIT_SITE via XMIT CLI"
           # Chunk uploads can fail on transient TLS errors; retry before giving up.
           for attempt in 1 2 3; do
-            if ./node_modules/.bin/xmit "$XMIT_SITE" _site; then
+            if ./node_modules/.bin/xmit "$XMIT_SITE" dist; then
               echo "Deploy succeeded on attempt $attempt"
               exit 0
             fi
