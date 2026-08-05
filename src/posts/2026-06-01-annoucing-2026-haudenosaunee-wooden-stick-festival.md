@@ -84,7 +84,7 @@ Craft vendor registration opens (as of June 1, 2026).
 
 - [Vendor Payment](https://aila.li/vendor)
 
-- [Team Payment](https://aila.li/teams)
+- [Team Payment](https://aila.li/team)
 
 ### **Background to the event**
 
