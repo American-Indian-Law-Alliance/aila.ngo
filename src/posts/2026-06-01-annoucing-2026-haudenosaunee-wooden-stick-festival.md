@@ -68,7 +68,7 @@ Craft vendor registration opens (as of June 1, 2026).
 
 1. [Submit the form](https://forms.gle/HS6J6ton1pDV2Dph9)
 
-3. [Pay online](http://aila.li/pay)
+3. [Pay online](https://aila.li/vendor)
 
 5. [Print or email us your signed hold harmless](/assets/documents/2026-hold-harmless-rev3.pdf)
 
@@ -82,9 +82,9 @@ Craft vendor registration opens (as of June 1, 2026).
 
 ### Team and Vendor Fees
 
-- [Vendor Payment](https://givebutter.com/SzZifm)
+- [Vendor Payment](https://aila.li/vendor)
 
-- [Team Payment](https://givebutter.com/5HkbL)
+- [Team Payment](https://aila.li/teams)
 
 ### **Background to the event**
 
