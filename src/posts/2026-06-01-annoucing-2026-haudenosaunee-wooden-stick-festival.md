@@ -70,7 +70,7 @@ Craft vendor registration opens (as of June 1, 2026).
 
 3. [Pay online](http://aila.li/pay)
 
-5. [Print or email us your signed hold harmless](/assets/documents/2024-hold-harmless-rev3.pdf)
+5. [Print or email us your signed hold harmless](/assets/documents/2026-hold-harmless-rev3.pdf)
 
 **Thank you for your interest the food vendor application is now closed.**
 
