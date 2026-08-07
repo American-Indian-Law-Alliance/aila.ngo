@@ -64,7 +64,7 @@ All sponsors, vendors, lacrosse teams, and lacrosse players must submit a signed
 Craft vendor registration opens (as of June 1, 2026).
 
 ### **Craft Vendors**
-*we are still lookign for craft vendors*
+*we are still looking for craft vendors*
 
 1. [Submit the form](https://forms.gle/HS6J6ton1pDV2Dph9)
 
