@@ -1,4 +1,11 @@
 {
+    "redirects": [
+      {
+        "source": "/news/",
+        "destination": "/blog/",
+        "permanent": true
+      }
+    ],
     "headers": [
       {
         "source": "/(.*)",

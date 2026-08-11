@@ -21,6 +21,11 @@ package = "netlify-plugin-cache"
   status = 301
 
 [[redirects]]
+  from = "/news/"
+  to = "/blog/"
+  status = 301
+
+[[redirects]]
   from = "/wp-content/uploads/2010/09/DOD5.pdf"
   to = "/assets/documents/Doctrine-of-Discovery-Booklet-rev3.1.pdf"
   status = 301
