@@ -94,6 +94,9 @@ The Haudenosaunee (Called "Iroquois" by colonists) are the originators and keepe
 
 The Haudenosaunee Wooden Stick Festival is a collaboration between the [American Indian Law Alliance](http://aila.ngo) and the [Indigenous Values Initiative](https://indigenousvalues.org/). We have always been proud to collaborate on such an important event. One of the many lessons that we can all learn from Deyhontsigwa'ehs (lacrosse) is the importance of collaboration and working together. This year, the American Indian Law Alliance is taking the lead on the Wooden Stick Festival and letting our dear friends at the Indigenous Values Initiative get some well-deserved rest.
 
+## Become a Sponsor
+[Would you like to sponsor the festival?](https://aila.li/wsf-sponsor)
+
 ### **Our Sponsors**
 
 Special thanks to our Sponsors:
@@ -148,7 +151,7 @@ There will be referees, a tent for changing, and a box-sized field marked out on
 
 - Team Registration - email Melisa Rank <mrank@aila.ngo>
 
-- Be a Sponsor - eamil <aila@aila.ngo>
+- Be a Sponsor - email <aila@aila.ngo>
 
 #### **About Randy Hall**
 
