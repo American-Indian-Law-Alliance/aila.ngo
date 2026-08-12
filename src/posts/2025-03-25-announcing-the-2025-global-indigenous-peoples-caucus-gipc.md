@@ -13,7 +13,7 @@ tags:
 coverImage: "/assets/images/content/1.png"
 ---
 
-## [English](#en) |  [Español](#es) | [Français](fr) | [Russian](http://aila.ngo/announcing-the-2025-global-indigenous-peoples-caucus-gipc/#ru)
+## [English](#en) |  [Español](#es) | [Français](#fr) | [Russian](http://aila.ngo/announcing-the-2025-global-indigenous-peoples-caucus-gipc/#ru)
 
 [![](/assets/images/content/2025-GIPC-POSTER-EN-768x1024.png)](/assets/documents/2025-GIPC-POSTER-EN.pdf)
 

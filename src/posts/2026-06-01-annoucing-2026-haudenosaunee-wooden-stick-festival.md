@@ -78,7 +78,7 @@ Craft vendor registration opens (as of June 1, 2026).
 
 ## Smoke Dance Details
 
-[![Smoke Dancer Dancing superimposed over a photo of Onondaga Lake](/assets/images/content/2025-Smoke-Dance-update-819x1024.jpg)](/assets/documents/2025-Smoke-Dance-update.jpg)
+[![Smoke Dancer Dancing superimposed over a photo of Onondaga Lake](/assets/images/content/2025-Smoke-Dance-update-819x1024.jpg)](/assets/images/content/2025-Smoke-Dance-update.jpg)
 
 ### Team and Vendor Fees
 

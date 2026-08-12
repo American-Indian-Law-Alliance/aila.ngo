@@ -38,6 +38,11 @@ export default async function (eleventyConfig) {
     await events.buildAllJs();
   });
 
+  // --------------------- dev server
+  // Serve passthrough files from where they already are instead of copying
+  // them into dist on every rebuild. src/assets/documents alone is ~370 MB.
+  eleventyConfig.setServerPassthroughCopyBehavior('passthrough');
+
   // --------------------- custom watch targets
   eleventyConfig.addWatchTarget('./src/assets/**/*.{css,js,svg,png,jpeg}');
   eleventyConfig.addWatchTarget('./src/_includes/**/*.{webc}');
@@ -63,7 +68,6 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPlugin(plugins.htmlConfig);
   eleventyConfig.addPlugin(plugins.drafts);
 
-  eleventyConfig.addPlugin(plugins.EleventyRenderPlugin);
   eleventyConfig.addPlugin(plugins.rss);
   eleventyConfig.addPlugin(plugins.syntaxHighlight);
 
@@ -75,7 +79,12 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPlugin(plugins.eleventyImageTransformPlugin, plugins.eleventyImgOptions);
 
   // ---------------------  bundle
-  eleventyConfig.addBundle('css', { hoist: true });
+  // Bundles are written to content-hashed files under /assets/bundle/ and
+  // linked (not inlined), so the same CSS is downloaded once and cached across
+  // every page instead of being duplicated into all 434 documents. The hashed
+  // filename lets those files be served `immutable` — see src/xmit.toml.
+  eleventyConfig.addBundle('css', { hoist: true, toFileDirectory: 'assets/bundle' });
+  eleventyConfig.addBundle('js', { toFileDirectory: 'assets/bundle' });
 
   // 	--------------------- Library and Data
   eleventyConfig.setLibrary('md', plugins.markdownLib);
@@ -84,13 +93,13 @@ export default async function (eleventyConfig) {
   // --------------------- Filters
   eleventyConfig.addFilter('toIsoString', filters.toISOString);
   eleventyConfig.addFilter('formatDate', filters.formatDate);
-  eleventyConfig.addFilter('markdownFormat', filters.markdownFormat);
   eleventyConfig.addFilter('splitlines', filters.splitlines);
   eleventyConfig.addFilter('striptags', filters.striptags);
   eleventyConfig.addFilter('shuffle', filters.shuffleArray);
   eleventyConfig.addFilter('alphabetic', filters.sortAlphabetically);
   eleventyConfig.addFilter('slugify', filters.slugifyString);
   eleventyConfig.addFilter('baseDomain', filters.getBaseDomain)
+  eleventyConfig.addFilter('limit', filters.limit);
 
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);
@@ -101,16 +110,36 @@ export default async function (eleventyConfig) {
   // --------------------- Events: after build
   // !important OG images off by default
   // Configure via OPENGRAPHGEN env variable in package.json `build` script
-  if ((process.env.OPENGRAPHGEN === true) && (process.env.ELEVENTY_RUN_MODE === 'build' || process.env.ELEVENTY_RUN_MODE === 'serve')) {
+  // Compared against the string 'true': env vars are never booleans, so the
+  // previous `=== true` could never match and this step was unreachable.
+  const openGraphGen = process.env.OPENGRAPHGEN === 'true';
+
+  if (openGraphGen && (process.env.ELEVENTY_RUN_MODE === 'build' || process.env.ELEVENTY_RUN_MODE === 'serve')) {
     eleventyConfig.on('eleventy.after', events.svgToJpeg);
   }
 
-    // Load Images from Cache
-    eleventyConfig.on("eleventy.after", () => {
-      fs.cpSync(".cache/@11ty/img/", path.join(eleventyConfig.directories.output, "/assets/images/content/"), {
-        recursive: true
-      });
+  // The OG source SVGs only exist to be converted to JPEG by the step above.
+  // With that off, rendering 160 of them produced 640 KB of output nothing
+  // referenced.
+  if (!openGraphGen) {
+    eleventyConfig.ignores.add('src/common/og-images.njk');
+  }
+
+  // Copy eleventy-img output into the site. eleventy-img writes to .cache so
+  // the derivatives survive between builds, which is why this runs after the
+  // build rather than as a passthrough (the files do not all exist yet when
+  // passthrough copy runs).
+  //
+  // `force: false` leaves already-copied files alone: the derivatives are
+  // content-hashed, so a file that exists is already correct. Without it every
+  // watch rebuild rewrote all ~840 files (53 MB) of the cache.
+  eleventyConfig.on('eleventy.after', () => {
+    fs.cpSync('.cache/@11ty/img/', path.join(eleventyConfig.directories.output, '/assets/images/content/'), {
+      recursive: true,
+      force: false,
+      errorOnExist: false
     });
+  });
 
   // --------------------- Passthrough File Copy
 
@@ -121,10 +150,7 @@ export default async function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({
     // -- to root
-    'src/assets/images/favicon/*': '/',
-
-    // -- node_modules
-    'node_modules/lite-youtube-embed/src/lite-yt-embed.{css,js}': `assets/components/`
+    'src/assets/images/favicon/*': '/'
   });
 
   // ----------------------  ignore test files

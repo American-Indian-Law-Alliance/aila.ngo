@@ -13,13 +13,13 @@ tags:
 coverImage: "/assets/images/content/3.png"
 ---
 
-## [English](#en) |  [Español](#es) | [Français](fr) | [Russian](http://aila.ngo/announcing-the-2025-indigenous-craft-fair/#ru) .
+## [English](#en) |  [Español](#es) | [Français](#fr) | [Russian](http://aila.ngo/announcing-the-2025-indigenous-craft-fair/#ru) .
 
 ## English
 
 ## **Indigenous Craft Fair**
 
-[![](/assets/images/content/2025-Craft-Poster-EN-768x1024.png)](/assets/documents/2025-Craft-Poster-EN.png)
+[![](/assets/images/content/2025-Craft-Poster-EN-768x1024.png)](/assets/images/content/2025-Craft-Poster-EN.png)
 
 We invite everyone to visit the Indigenous Peoples Craft Fair on Wednesday April 23, 2025 from 9:00 AM to 6:00 PM on the Second Floor of the Church Center of the United Nations (CCUN) located at 777 United Nations Plaza, New York, NY 10017.
 
@@ -33,7 +33,7 @@ If you have questions, email **aila@aila.ngo**
 
 ## Spanish
 
-[![](/assets/images/content/2025-Craft-Poster-ES-768x1024.png)](/assets/documents/2025-Craft-Poster-ES.png)
+[![](/assets/images/content/2025-Craft-Poster-ES-768x1024.png)](/assets/images/content/2025-Craft-Poster-ES.png)
 
 ## **Art Fair**
 
@@ -49,7 +49,7 @@ Si tienen alguna pregunta, pónganse en contacto con **aila@aila.ngo**
 
 ## **March of the Artisans**
 
-[![](/assets/images/content/2025-Craft-Poster-FR-768x1024.png)](/assets/documents/2025-Craft-Poster-FR.png)
+[![](/assets/images/content/2025-Craft-Poster-FR-768x1024.png)](/assets/images/content/2025-Craft-Poster-FR.png)
 
 Nous vous invitons toutes et tous à visiter le marché de l'artisanat autochtone qui se tiendra le mercredi 23 avril de 9 h à 18 h au 2 e  étage du Church Center of the United Nations (CCUN), situé au 777 United Nations Plaza, New York, NY 10017.
 
@@ -63,7 +63,7 @@ Pour toute question, merci d'envoyer un e-mail à **aila@aila.ngo**
 
 ## **Craft Fair**
 
-[![](/assets/images/content/2025-Craft-Poster-RU-768x1024.png)](/assets/documents/2025-Craft-Poster-RU.png)
+[![](/assets/images/content/2025-Craft-Poster-RU-768x1024.png)](/assets/images/content/2025-Craft-Poster-RU.png)
 
 - Everyone is invited to attend the Indigenous Crafts Fair on April 23, 2024 from 9:00 a.m. to 6:00 p.m. on the second floor of the Church Center for the United Nations (CCUN), 777 United Nations Plaza, New York, NY 10017.Booths for selling goods are available to representatives of Indigenous Peoples on a first come, first served basis. Only representatives of Indigenous Peoples participating in the PFKN session may present their goods at the craft fair.The Craft Fair accepts cash only.Please contact us with any questions by email **at aila@aila.ngo** .
 

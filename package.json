@@ -22,10 +22,10 @@
     "serve": "sirv dist --host 0.0.0.0 --port ${PORT:-8080}",
     "build": "npm run clean && npm run build:11ty && pagefind --site dist",
     "pagefind": "pagefind --site dist",
-    "pa11y:build": "node -e \"console.log('pa11y temporarily disabled')\"",
-    "pa11y:test": "node -e \"console.log('pa11y temporarily disabled')\"",
-    "pa11y:serve": "node -e \"console.log('pa11y temporarily disabled')\"",
-    "test:a11y": "node -e \"console.log('pa11y temporarily disabled')\""
+    "perf": "cross-env ELEVENTY_ENV=production OPENGRAPHGEN=false DEBUG=Eleventy:*Benchmark* eleventy",
+    "perf:file": "npm run perf > perf-output.txt 2>&1",
+    "docs:dedup": "node ./scripts/dedup-documents.mjs",
+    "docs:check": "node ./scripts/dedup-documents.mjs --check"
   },
   "keywords": [],
   "repository": {
@@ -41,9 +41,7 @@
     "@11ty/eleventy-plugin-webc": "0.12.0-beta.7",
     "@11ty/font-awesome": "1.0.1",
     "@11ty/is-land": "5.0.1",
-    "@awesome.me/buildawesome": "4.0.0-alpha.10",
     "@zachleat/pagefind-search": "^1.0.3",
-    "lite-youtube-embed": "^0.3.4",
     "sirv-cli": "3.0.1",
     "tailwindcss": "^3.4.17"
   },
@@ -70,12 +68,10 @@
     "markdown-it-link-attributes": "^4.0.1",
     "markdown-it-mark": "^4.0.0",
     "markdown-it-prism": "^3.0.1",
-    "netlify-plugin-cache": "^1.0.3",
     "node-addon-api": "8.7.0",
     "node-gyp": "12.3.0",
     "pagefind": "1.5.2",
     "postcss": "^8.5.6",
-    "postcss-cli": "^11.0.1",
     "postcss-import": "^16.1.1",
     "postcss-import-ext-glob": "^2.1.1",
     "postcss-js": "^5.1.0",

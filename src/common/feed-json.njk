@@ -16,8 +16,8 @@ excludeFromSitemap: true
     }
   ],
   "items": [
-		{%- set postslist = collections.posts -%}
-		{%- for post in postslist | reverse -%}
+		{%- set postslist = collections.posts | reverse | limit(meta.blog.feedLimit) -%}
+		{%- for post in postslist -%}
 		{%- set absolutePostUrl = post.url | absoluteUrl(meta.url) -%}
     {
       "id": "{{ absolutePostUrl }}",

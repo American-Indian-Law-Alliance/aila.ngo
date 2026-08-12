@@ -13,4 +13,4 @@ date: 2010-09-24
 
 ## Join our Email List
 
-<script src="https://actionnetwork.org/widgets/v5/form/subscribe-to-our-newsletter-45?format=js&amp;source=widget"></script>
+{% include "partials/newsletter-form.njk" %}

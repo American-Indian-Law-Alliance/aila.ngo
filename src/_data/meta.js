@@ -23,7 +23,12 @@ export const pathToSvgLogo = 'src/assets/images/org/logo/AILA-new-circle-logo2.p
 export const themeColor = '#dd4462'; // used in manifest, for example primary color value
 export const themeLight = '#f8f8f8'; // used for meta tag theme-color, if light colors are prefered. best use value set for light bg
 export const themeDark = '#2e2e2e'; // used for meta tag theme-color, if dark colors are prefered. best use value set for dark bg
-export const OPENGRAPHGEN = process.env.OPENGRAPHGEN;
+// Coerced to a real boolean: env vars are always strings, so the string
+// 'false' read as truthy in templates. That made every post advertise an
+// og:image at /assets/og-images/<slug>-preview.jpeg while the SVG-to-JPEG
+// step stayed switched off — so every post's social preview 404'd instead of
+// falling back to opengraph_default below.
+export const OPENGRAPHGEN = process.env.OPENGRAPHGEN === 'true';
 export const opengraph_default = '/assets/images/template/opengraph-default.png'; // fallback/default meta image
 export const opengraph_default_alt =
   "The American Indian Law Alliance - An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)"; // alt text for default meta image"
@@ -31,6 +36,11 @@ export const blog = {
   // RSS feed
   name: 'American Indian Law Alliance',
   description: 'An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)',
+  // How many recent posts each feed carries. Full post HTML is included per
+  // entry, and every entry costs a renderTransforms() pass over that post at
+  // build time — emitting all 161 produced a 748 KB feed.xml and a 612 KB
+  // feed.json. Readers fetch these on a poll; the archive lives on the site.
+  feedLimit: 20,
   // feed links are looped over in the head. You may add more to the array.
   feedLinks: [
     {

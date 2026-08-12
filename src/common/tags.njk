@@ -7,7 +7,8 @@ eleventyComputed:
 
 <div class="taglist | mt-s-m cluster">
   {% for tag in collections.tagList %}
-    <a href="/tags/{{ tag | slugify }}/" class="button"> {{ tag }} </a>
+    {# Route is /tag/<slug>/ (singular) — see the tagPages collection. #}
+    <a href="/tag/{{ tag | slugify }}/" class="button"> {{ tag }} </a>
   {% endfor %}
 </div>
 
@@ -15,6 +16,9 @@ eleventyComputed:
   {% set itemlist = collections.posts %}
   {% for item in itemlist %}
 
-		{% include "partials/card-tag.njk" %}
+		{# Lean card: this page renders every post, so no images or tag chips. #}
+		{% set showImage = false %}
+		{% set showTags = false %}
+		{% include "partials/card-blog.njk" %}
   {% endfor %}
 </custom-masonry>

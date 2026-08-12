@@ -12,7 +12,7 @@ tags:
 coverImage: "/assets/images/content/2.png"
 ---
 
-## [English](#en) |  [Español](#es) | [Français](fr) | [Russian](http://aila.ngo/announcing-the-2025-global-indigenous-womens-caucus-giwc/#ru)
+## [English](#en) |  [Español](#es) | [Français](#fr) | [Russian](http://aila.ngo/announcing-the-2025-global-indigenous-womens-caucus-giwc/#ru)
 
 [![GIWC Poster](/assets/images/content/2025-GIWC-POSTER-EN-768x1024.png)](/assets/documents/2025-GIWC-POSTER-EN.pdf) Download Flyer [EN](/assets/documents/2025-GIWC-POSTER-EN.pdf) , [ES](/assets/documents/2025-GIWC-POSTER-ES.pdf) , [FR](/assets/documents/2025-GIWC-POSTER-FR.pdf) , [RU](/assets/documents/2025-GIWC-POSTER-RU.pdf)
 

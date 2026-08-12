@@ -1,0 +1,83 @@
+{#
+  Pagination nav, shared by the blog index and the tag/category listings.
+  These were two partials (blog-pagination.njk, category-pagination.njk) with
+  the same markup, label lookups and stylesheet, differing only in how page
+  URLs are derived.
+
+  Blog pages paginate a plain collection, so Eleventy's own `pagination.hrefs`
+  are correct. Tag and category pages paginate the custom tagPages/categoriesPages
+  maps, where Eleventy's hrefs point at the wrong pages — the "double pagination"
+  issue — so URLs are rebuilt from `keyAlias`.
+  See https://github.com/11ty/eleventy/discussions/3987 (thanks @MWDelaney).
+
+  `keyAlias` being defined is what selects the second mode.
+#}
+{% set usesKeyAlias = keyAlias is defined and keyAlias %}
+
+<section class="region">
+  <nav role="navigation" aria-labelledby="pagination_label">
+    <span id="pagination_label" hidden>{{ meta[metaKey].paginationLabel }}</span>
+    <span id="prefix" hidden>{{ meta[metaKey].paginationPage }}</span>
+
+    {% if usesKeyAlias %}
+      {% set showPrevious = keyAlias.pageNumber !== 0 %}
+      {% set showNext = keyAlias.pageNumber != keyAlias.totalPages %}
+    {% else %}
+      {% set showPrevious = true %}
+      {% set showNext = true %}
+    {% endif %}
+
+    <ol class="pagination | cluster" role="list">
+      {% if showPrevious %}
+        <li>
+          {% if pagination.href.previous %}
+            <a href="{{ pagination.href.previous }}"> {{ meta[metaKey].paginationPrevious }} </a>
+          {% else %}
+            {{ meta[metaKey].paginationPrevious }}
+          {% endif %}
+        </li>
+      {% endif %}
+
+      {% if meta[metaKey].paginationNumbers %}
+        {%- for pageEntry in pagination.pages -%}
+          {% if usesKeyAlias %}
+            {% if loop.index <= 1 %}
+              {% set url = '/' + keyAlias.type + '/' + keyAlias.slug + '/' %}
+            {% else %}
+              {% set url = '/' + keyAlias.type + '/' + keyAlias.slug + '/page/' + loop.index + '/' %}
+            {% endif %}
+          {% else %}
+            {% set url = pagination.hrefs[ loop.index0 ] %}
+          {% endif %}
+
+          {% if not usesKeyAlias or loop.index0 <= keyAlias.totalPages %}
+            <li>
+              <a
+                href="{{ url }}"
+                id="link_{{ loop.index }}"
+                aria-labelledby="prefix link_{{ loop.index }}"
+                {% if page.url == url %}aria-current="page"{% endif %}
+              >
+                {{ loop.index }}</a
+              >
+            </li>
+          {% endif %}
+        {%- endfor -%}
+      {% endif %}
+
+      {% if showNext %}
+        <li>
+          {% if pagination.href.next %}
+            <a href="{{ pagination.href.next }}">{{ meta[metaKey].paginationNext }}</a>
+          {% else %}
+            {{ meta[metaKey].paginationNext }}
+          {% endif %}
+        </li>
+      {% endif %}
+    </ol>
+  </nav>
+</section>
+
+{% css "local" %}
+  {% include "css/pagination.css" %}
+{% endcss %}

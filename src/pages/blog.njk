@@ -33,6 +33,6 @@ permalink: 'blog/{% if pagination.pageNumber >=1 %}page/{{ pagination.pageNumber
   <!-- if the number of items in the collection is greater than the number of items shown on one page -->
   {% if collectionToPaginate.length > pagination.size %}
     <!-- include pagination -->
-    {% include 'partials/blog-pagination.njk' %}
+    {% include 'partials/pagination.njk' %}
   {% endif %}
 </div>

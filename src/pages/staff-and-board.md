@@ -11,7 +11,7 @@ permalink: /staff-and-board/index.html
 
 #### President & Executive Director
 
-[![Betty Hill (neé Lyons) / Betty Lyons](/assets/images/content/Betty-Lyons-2020-225x300.jpg)](/assets/documents/Betty-Lyons-2020-scaled.jpg)
+[![Betty Hill (neé Lyons) / Betty Lyons](/assets/images/content/Betty-Lyons-2020-225x300.jpg)](/assets/images/content/Betty-Lyons-2020-scaled.jpg)
 
 Betty Lyons, President & Executive Director of the American Indian Law Alliance (AILA), is an Indigenous and environmental activist and citizen of the Onondaga Nation. Betty has worked for the Onondaga Nation for over 20 years. Ms. Lyons serves as a member of the Haudenosaunee External Relations Committee and has been an active participant at the annual United Nations Permanent Forum on Indigenous Issues (UNPFII) since the first session in 2001 as a delegate of the Onondaga Nation. Betty attended Cazenovia College and is a Bryant Stratton College Graduate of the Paralegal Program. In 2023 she received an honorary degree from Onondaga Community College (OCC) in honor of her advocacy. In 2024 she received a lifetime achievement award from the NYC Bar Association for her work advocating for Indigenous nations and peoples.
 
@@ -33,7 +33,7 @@ Matthew also has a published work in the Suffolk University Law School Transnati
 
 #### Operations Manager & International Research Associate
 
-[![Adam DJ Brett profile photo](/assets/images/content/AdamDJBrett-scaled-e1705700661150-300x300.jpg)](/assets/documents/AdamDJBrett-scaled-e1705700661150.jpg)
+[![Adam DJ Brett profile photo](/assets/images/content/AdamDJBrett-scaled-e1705700661150-300x300.jpg)](/assets/images/content/AdamDJBrett-scaled-e1705700661150.jpg)
 
 [Adam DJ Brett](https://www.adamdjbrett.com/) has been involved with the American Indian Law Alliance since 2016. He earned his Ph.D. in religion at Syracuse University, where he studied religion, media, and culture in the United States. As a student of religion, he is interested in the impact of the [Doctrine of Discovery](https://doctrineofdiscovery.org/), religious freedom, and how religion gets understood through law. Through his deep love of technology, Adam facilitates conference discussions and panels. Adam is an integral part of AILA, he is dedicated to forwarding the advancement of sovereignty and self-determination for Indigenous nations and peoples. 
 
@@ -41,7 +41,7 @@ Matthew also has a published work in the Suffolk University Law School Transnati
 
 #### Program Coordinator and Caseworker
 
-[![Patricia Vogt](/assets/images/content/Patty-Gabriel-300x300.jpg)](/assets/documents/Patty-Gabriel.jpg)
+[![Patricia Vogt](/assets/images/content/Patty-Gabriel-300x300.jpg)](/assets/images/content/Patty-Gabriel.jpg)
 
 Patricia Vogt is the Program Coordinator and Caseworker for the Executive Director of the American Indian Law Alliance. She is a descendant and daughter of an enrolled citizen of the Onondaga Nation, specifically from the Snipe clan. Patricia has worked for the Onondaga Nation for over 20 years in many capacities and has served as a supervisor for several of their programs. Ms. Vogt volunteers and serves as the co-treasurer of the Onondaga Nation Ladies Fire Department Auxiliary. 
 
@@ -54,7 +54,7 @@ Patricia works in her capacity at the American Indian Law Alliance to defend Ind
 
 #### Executive Assistant and Event Specialist
 
-[![Melissa Rank Profile photo](/assets/images/content/Melissa-Rank-300x296.jpg)](/assets/documents/Melissa-Rank.jpg)
+[![Melissa Rank Profile photo](/assets/images/content/Melissa-Rank-300x296.jpg)](/assets/images/content/Melissa-Rank.jpg)
 
 Melissa Rank is the Executive Assistant and Event Specialist to the Executive Director of the American Indian Law Alliance. She is an enrolled Wolf Clan Citizen of the Akwesasne Mohawk Nation. Melissa’s maternal grandfather was an Onondaga Chief, and her paternal grandmother was an Oneida Clan Mother. Melissa worked for the Native American Service Agency as a family court liaison and community program director before attending Onondaga Community College and graduating in 2006. 
 

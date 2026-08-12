@@ -1,0 +1,22 @@
+{#
+  Action Network newsletter signup.
+
+  This markup was copy-pasted across four pages. Three of those copies had only
+  the <script> tag and no #can-form-area-* target div, so the widget had nowhere
+  to render — the third-party script loaded and produced no form. This partial
+  is the complete embed, wrapped in is-land so nothing is requested until the
+  form scrolls into view.
+
+  Widget id lives in one place now; changing the Action Network form means
+  editing the two ids below together.
+#}
+<is-land on:visible>
+  <link rel="stylesheet" href="https://actionnetwork.org/css/style-embed-v3.css">
+  <section class="region | center">
+    <script src="https://actionnetwork.org/widgets/v5/form/subscribe-to-our-newsletter-45?format=js&source=widget"></script>
+    {# No indicator class added for embed link #}
+    <div id="can-form-area-subscribe-to-our-newsletter-45" class="no-indicator" style="width: 100%;">
+      <!-- this div is the target for our HTML insertion -->
+    </div>
+  </section>
+</is-land>

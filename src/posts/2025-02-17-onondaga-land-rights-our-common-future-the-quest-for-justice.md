@@ -13,7 +13,7 @@ coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
 
 ## Onondaga Land Rights & Our Common Future: The Quest For Justice
 
-[![](/assets/images/content/2025-OLRCF-1-663x1024.png)](/assets/documents/2025-OLRCF-1.png)
+[![](/assets/images/content/2025-OLRCF-1-663x1024.png)](/assets/images/content/2025-OLRCF-1.png)
 
 **Onondaga Land Rights and Our Common Future:**  **The Quest for Justice**
 

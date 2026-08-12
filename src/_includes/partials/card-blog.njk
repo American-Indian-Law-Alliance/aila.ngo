@@ -1,9 +1,22 @@
+{#
+  Post card. Covers both the rich listing card (blog, tag/category listings,
+  discovery) and the lean variant used by /tags/, which previously lived in a
+  near-identical card-tag.njk.
+
+  Callers may set:
+    showImage   default true  — cover image
+    showTags    default true  — tag chips
+    showContent default true  — description/excerpt paragraph
+#}
 {% set headingLevel = headingLevel | default("h2") %}
 {% set definedDate = definedDate | default(item.date) %}
 {% set showTags = showTags | default(true) %}
+{% set showImage = showImage | default(true) %}
+{% set showContent = showContent | default(true) %}
+{% set cardContent = item.data.description or item.data.page.excerpt %}
 
-<custom-card clickable img-square>
-  {% if item.data.coverImage  %}
+<custom-card clickable {% if showImage %}img-square{% endif %}>
+  {% if showImage and item.data.coverImage %}
   {%
         imageKeys {
           "src": item.data.coverImage,
@@ -27,7 +40,11 @@
       {% endfor %}
     </div>
   {% endif %}
-  <p slot="content">{{ item.data.description or item.data.page.excerpt | safe }}</p>
+  {# Only emit the paragraph when there is something to put in it — the lean
+     variant used to ship an empty <p> on every card. #}
+  {% if showContent and cardContent %}
+    <p slot="content">{{ cardContent | safe }}</p>
+  {% endif %}
 </custom-card>
 
 {% css "local" %}

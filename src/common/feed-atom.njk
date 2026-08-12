@@ -4,6 +4,9 @@ eleventyExcludeFromCollections: true
 excludeFromSitemap: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
+{# Set before first use: <updated> below reads postslist, which used to be
+   assigned further down the template and so was always undefined there. #}
+{%- set postslist = collections.posts | reverse | limit(meta.blog.feedLimit) -%}
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ meta.lang or page.lang }}" xml:base="{{ meta.url }}/">
   <title>{{ meta.blog.name }}</title>
   <subtitle>{{ meta.blog.description }}</subtitle>
@@ -14,8 +17,7 @@ excludeFromSitemap: true
   <author>
     <name>{{ meta.author.name }}</name>
   </author>
-	{% set postslist = collections.posts %}
-  {%- for post in postslist | reverse -%}
+  {%- for post in postslist -%}
   {%- set absolutePostUrl = post.url | absoluteUrl(meta.url) -%}
     <entry>
       <title>{{ post.data.title }}</title>

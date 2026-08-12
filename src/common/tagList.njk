@@ -24,7 +24,7 @@ eleventyComputed:
   {% if tag.totalPages !== 0 %}
     <!-- include pagination -->
     {% set keyAlias = tag %}
-    {% include 'partials/category-pagination.njk' %}
+    {% include 'partials/pagination.njk' %}
   {% endif %}
 
 <ul class="taglist | my-s-m cluster gutter-s" role="list">

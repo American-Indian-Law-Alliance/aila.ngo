@@ -8,4 +8,4 @@ You can support the American Indian Law Alliance (AILA) by assisting us in our d
 
 [Give Now](http://aila.ngo/give/)![](/assets/images/content/pixel.gif)
 
-<script src="https://actionnetwork.org/widgets/v5/form/subscribe-to-our-newsletter-45?format=js&amp;source=widget"></script>
+{% include "partials/newsletter-form.njk" %}

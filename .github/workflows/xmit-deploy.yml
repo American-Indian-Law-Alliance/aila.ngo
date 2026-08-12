@@ -29,11 +29,14 @@ jobs:
           node-version: 24
           cache: npm
 
+      # Keyed on the image sources themselves: the previous key hashed
+      # package-lock.json, which never changes when an image is added and
+      # needlessly discarded the cache whenever a dependency moved.
       - name: Restore Eleventy image cache
         uses: actions/cache@v6
         with:
           path: .cache/@11ty/img
-          key: eleventy-images-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          key: eleventy-images-${{ runner.os }}-${{ hashFiles('src/assets/images/**') }}
           restore-keys: eleventy-images-${{ runner.os }}-
 
       - name: Install dependencies
