@@ -165,11 +165,11 @@ Thomas Randall “Randy” Hall, Akwesasne Mohawk Wolf Clan, passed away on Janu
 
 **Hampton Inn Syracuse Clay** 
 
-Wooden Stick Festival. [hilton.com](https://(hilton.com)
+Wooden Stick Festival. [hilton](https://(hilton.com)
 
 **Hampton Inn & Suites Carrier Circle**
 
-Wooden Stick Festival [hilton.com](https://(hilton.com)
+Wooden Stick Festival [hilton](https://(hilton.com)
 
 
 ## Press Release
