@@ -86,6 +86,10 @@ Craft vendor registration opens (as of June 1, 2026).
 
 - [Team Payment](https://aila.li/team)
 
+### Community Cleanup event
+Join us for a community clean up of shores of Onondaga lake during the Haudenosaunee Wooden Stick Lacrosse Festival! Open to adults and kids of all ages. Gloves and bags to be provided.
+![Clean up flyer](/assets/images/content/cleanup-flyer.png)
+
 ### **Background to the event**
 
 The Haudenosaunee (Called "Iroquois" by colonists) are the originators and keepers of the game known today as "lacrosse." Deyhontsigwa'ehs ("They Bump Hips," in the Onondaga Language) goes back millennia and is also known as "The Creator's Game" and the "Medicine Game" The Onondaga Nation is the "Central Fire" of the Haudenosaunee Confederacy of six nations (Mohawk, Onondaga, Oneida, Cayuga, Seneca, and Tuscarora). The Haudenosaunee Confederacy originated on the shore of Onondaga Lake––now called Syracuse, NY. Over 1000 years ago, Deyhontsigwa'ehs had an integral role in establishing "The Great Law of Peace." Today, throughout Haudenosaunee territories, the "Medicine Game" is still played in ceremony. We are dedicated and committed to re-establishing a Haudenosaunee presence here at Onondaga Lake where Deyhontsigwa’ehs was originally played.
