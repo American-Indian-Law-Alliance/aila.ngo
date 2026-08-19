@@ -66,7 +66,7 @@ Craft vendor registration opens (as of June 1, 2026).
 ### **Craft Vendors**
 *we are still looking for craft vendors*
 
-1. [Submit the form](https://forms.gle/HS6J6ton1pDV2Dph9)
+1. [Submit the form](https://forms.gle/dWtU2FNckQaNdqAG6)
 
 3. [Pay online](https://aila.li/vendor)
 
