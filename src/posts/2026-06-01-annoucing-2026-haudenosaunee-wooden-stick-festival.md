@@ -43,7 +43,7 @@ We follow the Thanksgiving Address by protecting Mother Earth. The eagle has ret
 ### Deyhontsigwa'ehs: The Creator's Game, Lacrosse Weekend 2026
 *Onondaga Lake Park, 106 Lake Dr, Liverpool, NY 13088, located in the heart of Onondaga Nation Territory*
 
-### [↓ **The Annual Haudenosaunee Wooden Stick Festival Tenative Schedule**](/assets/documents/2026_wooden_stick_festival_program.pdf)
+### [⤓ The Annual Haudenosaunee Wooden Stick Festival Tenative Schedule (PDF)](/assets/documents/2026_wooden_stick_festival_program.pdf)
 
 ### **(10:00 AM - 5:00 PM)**
 
