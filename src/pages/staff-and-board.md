@@ -52,11 +52,11 @@ Patricia works in her capacity at the American Indian Law Alliance to defend Ind
 ### Melissa (Missey) Rank  
 **(Mohawk Nation, Wolf Clan)**
 
-#### Executive Assistant and Event Specialist
+#### Archivist and Event Specialist
 
-[![Melissa Rank Profile photo](/assets/images/content/Melissa-Rank-300x296.jpg)](/assets/images/content/Melissa-Rank.jpg)
+[![Melissa Rank Profile photo](/assets/images/content/Melissa-Rank-300x296.jpg)](/assets/images/content/Melissa-Rank-300x296.jpg)
 
-Melissa Rank is the Executive Assistant and Event Specialist to the Executive Director of the American Indian Law Alliance. She is an enrolled Wolf Clan Citizen of the Akwesasne Mohawk Nation. Melissa’s maternal grandfather was an Onondaga Chief, and her paternal grandmother was an Oneida Clan Mother. Melissa worked for the Native American Service Agency as a family court liaison and community program director before attending Onondaga Community College and graduating in 2006. 
+Melissa Rank is the Archivist and Event Specialist at the American Indian Law Alliance. She is an enrolled Wolf Clan Citizen of the Akwesasne Mohawk Nation. Melissa’s maternal grandfather was an Onondaga Chief, and her paternal grandmother was an Oneida Clan Mother. Melissa worked for the Native American Service Agency as a family court liaison and community program director before attending Onondaga Community College and graduating in 2006. 
 
 Melissa’s strong sense of community and Haudenosaunee values brought her back to the Onondaga Nation, where she worked for 12 years as the Athletic Director of the Onondaga Athletic Club. She served on many Boards of Directors for different sports organizations in the US and Canada as the secretary and registrar. She helped the organizations grow and expand, and she was the creator of many constitutions and by-laws. She also helped facilitate the necessary training and clinics to have the coaches and referees carded in the US and Canada.
 
