@@ -49,8 +49,8 @@ Patricia graduated from Onondaga Community College in 2025 with an Associate's d
 
 Patricia works in her capacity at the American Indian Law Alliance to defend Indigenous Peoples, Mother Earth, and all that inhabits her. Through the teachings of her family, she has developed a strong sense of responsibility to uphold and support the Haudenosaunee Confederacy. 
 
-### **Melissa (Missey) Rank  
-(Mohawk Nation, Wolf Clan)**
+### Melissa (Missey) Rank  
+**(Mohawk Nation, Wolf Clan)**
 
 #### Executive Assistant and Event Specialist
 
