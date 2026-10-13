@@ -37,7 +37,7 @@ Matthew also has a published work in the Suffolk University Law School Transnati
 
 [Adam DJ Brett](https://www.adamdjbrett.com/) has been involved with the American Indian Law Alliance since 2016. He earned his Ph.D. in religion at Syracuse University, where he studied religion, media, and culture in the United States. As a student of religion, he is interested in the impact of the [Doctrine of Discovery](https://doctrineofdiscovery.org/), religious freedom, and how religion gets understood through law. Through his deep love of technology, Adam facilitates conference discussions and panels. Adam is an integral part of AILA, he is dedicated to forwarding the advancement of sovereignty and self-determination for Indigenous nations and peoples. 
 
-### **Patricia (Patty) Gabriel (Onondaga Decent)**
+### **Patricia (Patty) Vogt (Onondaga Decent)**
 
 #### Program Coordinator and Caseworker
 
