@@ -10,3 +10,7 @@ platforms:
     url: https://www.facebook.com/americanindianlawalliance
   - name: bluesky
     url: https://bsky.app/profile/aila.social
+  - name: linkedin
+    url: https://www.linkedin.com/company/american-indian-law-alliance
+  - name: x-twitter
+    url: https://x.com/ailanyc
