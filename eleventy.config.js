@@ -12,7 +12,7 @@ import fs from "node:fs";
 
 // register dotenv for process.env.* variables to pickup
 import dotenv from 'dotenv';
-dotenv.config();
+dotenv.config({ quiet: true });
 
 // add yaml support
 import yaml from 'js-yaml';

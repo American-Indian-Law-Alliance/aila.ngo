@@ -8,7 +8,7 @@ layout: base
     {% if coverImage or image %}
       {%
         imageKeys {
-          "src": coverImage,
+          "src": coverImage or image,
           "alt": alt or "",
           "credit": credit,
           "loading": "eager",
