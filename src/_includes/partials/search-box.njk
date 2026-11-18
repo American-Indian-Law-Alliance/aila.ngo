@@ -6,6 +6,9 @@
 {% endcss %}
 
 <script type="module">
+await customElements.whenDefined('is-land');
+await document.querySelector('#aila-search').closest('is-land').wait();
+await customElements.whenDefined('pagefind-search');
 let el = document.querySelector("#aila-search");
 await el.pagefind({
 	showImages: false,
