@@ -16,7 +16,7 @@ alt: "Purple flyer with the Hiawatha Belt at the top, framed by asters, cedar, a
 
 # A Community Gathering for Indigenous Families at Skä•noñh
 
-Indigenous families in the Syracuse City School District, you are invited. Join us on **Sunday, December 6, at 11:00 AM** for a community gathering at the Skä•noñh – Great Law of Peace Center in Liverpool. Come to learn, connect, and get involved. Bring your children, your elders, and your questions.
+Indigenous families in the Syracuse City School District, you are invited. Join us on **Sunday, December 6, at 11:00 AM** for a community gathering at the Skä•noñh Great Law of Peace Center in Liverpool. Come to learn, connect, and get involved. Bring your children, your elders, and your questions.
 
 Families will come for different reasons. You may want to know what cultural programs exist for your kids. You may want to meet other families who share your ties to this land. You may want a warm place to spend a winter Sunday morning. Any of those is reason enough to come.
 
@@ -24,7 +24,7 @@ Families will come for different reasons. You may want to know what cultural pro
 
 - **What:** Community Gathering for Indigenous families in the Syracuse City School District
 - **When:** Sunday, December 6, 2026, at 11:00 AM
-- **Where:** Skä•noñh – Great Law of Peace Center, 6680 Onondaga Lake Parkway, Liverpool, NY 13088
+- **Where:** Skä•noñh Great Law of Peace Center, 6680 Onondaga Lake Parkway, Liverpool, NY 13088
 - **RSVP:** By **Monday, November 30**, to Tina at **315-901-2611**
 
 Please RSVP so we can plan food and activities for everyone in your group.
