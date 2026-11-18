@@ -61,8 +61,19 @@ https://eleventy-excellent.netlify.app/
 
 ### Install dependencies
 
+Use Node 24 and npm 11 (the pinned versions are in `.nvmrc` and `package.json`).
+
 ```
-npm install
+npm ci
+```
+
+Approved dependency install scripts are pinned in `package.json` under
+`allowScripts`. After upgrading a dependency, review pending scripts with
+`npm install-scripts ls`. To approve the reviewed build and deployment tools:
+
+```
+npm install-scripts approve @xmit.co/xmit esbuild fsevents
+npm rebuild @xmit.co/xmit esbuild fsevents
 ```
 
 ### Working locally
@@ -70,7 +81,7 @@ npm install
 Starts watch tasks to compile when changes detected
 
 ```
-npm start
+npm run dev
 ```
 
 ### Creating a production build
@@ -80,6 +91,8 @@ Minify JS, CSS and HTML.
 ```
 npm run build
 ```
+
+Run regression checks with `npm test`.
 
 ## Built with Eleventy Excellent
 
