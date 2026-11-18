@@ -3,11 +3,11 @@ title: "Happy Birthday Oren Lyons"
 date: 2021-03-05
 categories: 
   - "events"
-tags: 
+tags:
   - "birthday"
   - "haudenosaunee"
   - "onondaga"
-  - "oren-lyons"
+  - "oren lyons"
 coverImage: "/assets/images/content/Oren-Lyons-Birthday.png"
 ---
 

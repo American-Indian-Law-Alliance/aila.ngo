@@ -4,10 +4,10 @@ date: 2023-04-25
 categories: 
   - "events"
   - "gipc"
-tags: 
-  - "indigenous-peoples"
+tags:
+  - "indigenous peoples"
   - "un"
-  - "united-nations"
+  - "united nations"
 coverImage: "/assets/images/content/1.png"
 ---
 

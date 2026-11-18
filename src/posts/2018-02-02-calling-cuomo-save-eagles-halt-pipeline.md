@@ -3,11 +3,11 @@ title: "Calling on Cuomo to save Eagles and halt pipeline"
 date: 2018-02-02
 categories: 
   - "news"
-tags: 
-  - "bald-eagles"
-  - "eco-justice"
-  - "mother-earth"
-  - "new-york-state"
+tags:
+  - "bald eagles"
+  - "eco justice"
+  - "mother earth"
+  - "new york state"
   - "pipeline"
 coverImage: "/assets/images/content/halt-pipeline-protect-bald-eagles.jpg"
 ---

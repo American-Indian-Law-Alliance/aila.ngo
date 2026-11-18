@@ -5,12 +5,12 @@ categories:
   - "events"
   - "giwc"
   - "united-nations"
-tags: 
+tags:
   - "indigenous"
   - "sovereignty"
   - "un"
-  - "united-nations"
-  - "womens-rights"
+  - "united nations"
+  - "womens rights"
 coverImage: "/assets/images/content/GIWC-2020-Poster.jpeg"
 ---
 

@@ -3,11 +3,11 @@ title: "Onondaga Lake restoration is far from finished"
 date: 2025-08-12
 categories: 
   - "news"
-tags: 
+tags:
   - "environment"
   - "lake"
   - "onondaga"
-  - "onondaga-lake"
+  - "onondaga lake"
 coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
 ---
 

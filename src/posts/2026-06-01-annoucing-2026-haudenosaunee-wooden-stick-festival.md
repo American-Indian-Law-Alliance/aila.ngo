@@ -4,12 +4,12 @@ date: 2026-06-01
 categories: 
   - "events"
   - "festival"
-tags: 
+tags:
   - "haudenosaunee"
   - "lacrosse"
   - "onondaga"
-  - "onondaga-lake"
-  - laxweekend
+  - "onondaga lake"
+  - "laxweekend"
 coverImage: "/assets/images/content/WSF-and-Restore-Our-Lake.png"
 ---
 The Restore Our Sacred Lake 5K and Haudenosaunee Wooden Stick Festival Weekend September 12<sup>th</sup> and 13<sup>th</sup> at Onondaga Lake Park

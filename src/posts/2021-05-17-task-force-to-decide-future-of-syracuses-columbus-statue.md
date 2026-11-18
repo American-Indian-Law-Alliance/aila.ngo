@@ -3,10 +3,10 @@ title: "Task force to decide future of Syracuse's Columbus statue"
 date: 2021-05-17
 categories: 
   - "news"
-tags: 
+tags:
   - "columbus"
   - "haudenosaunee"
-  - "indigenous-peoples"
+  - "indigenous peoples"
 coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
 ---
 

@@ -3,11 +3,11 @@ title: "Sean Kirst: For Oren Lyons and Roy Simmons Jr., Alfie Jacques Award all 
 date: 2025-09-01
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
   - "lacrosse"
   - "onondaga"
-  - "onondaga-lake"
+  - "onondaga lake"
 coverImage: "/assets/images/content/diptych-03-web.jpg"
 ---
 

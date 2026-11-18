@@ -3,10 +3,10 @@ title: "Harvest Arts &amp; Crafts Market"
 date: 2025-10-15
 categories: 
   - "events"
-tags: 
+tags:
   - "fall"
   - "haudenosaunee"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "onondaga"
 coverImage: "/assets/images/content/Fall-Festival-Flyer-scaled.png"
 ---

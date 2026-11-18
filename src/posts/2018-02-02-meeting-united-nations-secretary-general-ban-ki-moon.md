@@ -4,10 +4,10 @@ date: 2018-02-02
 categories: 
   - "news"
   - "united-nations"
-tags: 
-  - "eco-justice"
+tags:
+  - "eco justice"
   - "haudenosaunee"
-  - "hero-image"
+  - "hero image"
   - "water"
 coverImage: "/assets/images/content/un-hero-image-chevron.jpg"
 ---

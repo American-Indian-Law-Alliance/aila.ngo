@@ -3,9 +3,9 @@ title: "Indigenous Women of the Americas Protecting Mother Earth"
 date: 2019-04-09
 categories: 
   - "events"
-tags: 
+tags:
   - "haudenosaunee"
-  - "mother-earth"
+  - "mother earth"
   - "sovereignty"
   - "un"
   - "unpfii18"

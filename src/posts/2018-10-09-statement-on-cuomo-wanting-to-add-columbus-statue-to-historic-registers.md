@@ -3,9 +3,9 @@ title: "Statement on Cuomo wanting to add Columbus statue to historic registers"
 date: 2018-10-09
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "sovereignty"
 coverImage: "/assets/images/content/Highline-College-Celebrate-Indigenous-Peoples-Day.jpg"
 ---

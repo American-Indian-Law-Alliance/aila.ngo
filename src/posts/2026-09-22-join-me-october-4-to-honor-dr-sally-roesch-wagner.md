@@ -5,11 +5,11 @@ date: 2026-09-22
 categories: 
   - "events"
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
   - "onondaga"
-  - "matilda-joslyn-gage"
-  - "sally-roesch-wagner"
+  - "matilda joslyn gage"
+  - "sally roesch wagner"
   - "suffrage"
   - "women"
 coverImage: "/assets/images/content/gage-award-ceremony-2026.webp"

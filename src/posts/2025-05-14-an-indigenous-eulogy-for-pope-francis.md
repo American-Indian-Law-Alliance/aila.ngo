@@ -3,10 +3,10 @@ title: "An Indigenous Eulogy For Pope Francis"
 date: 2025-05-14
 categories: 
   - "news"
-tags: 
+tags:
   - "catholics"
-  - "doctrine-of-discovery"
-  - "indigenous-peoples"
+  - "doctrine of discovery"
+  - "indigenous peoples"
 coverImage: "/assets/images/content/ashwin-vaswani-55k45BgfUF8-unsplash-scaled.jpg"
 ---
 

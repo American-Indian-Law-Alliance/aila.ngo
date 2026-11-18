@@ -3,9 +3,9 @@ title: "From Land Acknowledgement to Land Back"
 date: 2021-04-21
 categories: 
   - "events"
-tags: 
+tags:
   - "haudenosaunee"
-  - "land-acknowledgement"
+  - "land acknowledgement"
   - "landback"
   - "sovereignty"
 coverImage: "/assets/images/content/PAT_S21_NYC-FromLandAcknowledgment-IG-Feed-1.jpg"

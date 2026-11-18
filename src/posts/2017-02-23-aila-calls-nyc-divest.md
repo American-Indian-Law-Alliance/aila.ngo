@@ -3,10 +3,10 @@ title: "AILA calls on NYC to Divest"
 date: 2017-02-23
 categories: 
   - "news"
-tags: 
+tags:
   - "divest"
   - "haudenosaunee"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "nodapl"
   - "nyc"
 coverImage: "/assets/images/content/mayor-de-blasio-support-NODAPL-water-life.jpg"

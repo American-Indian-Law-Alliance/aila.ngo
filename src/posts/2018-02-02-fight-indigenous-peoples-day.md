@@ -3,12 +3,12 @@ title: "The Fight for Indigenous Peoples Day"
 date: 2018-02-02
 categories: 
   - "news"
-tags: 
-  - "doctrine-of-discovery"
+tags:
+  - "doctrine of discovery"
   - "haudenosaunee"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "indigenouspeoplesday"
-  - "native-americans"
+  - "native americans"
   - "notmyhero"
 coverImage: "/assets/images/content/abolish-columbus-day.png"
 ---

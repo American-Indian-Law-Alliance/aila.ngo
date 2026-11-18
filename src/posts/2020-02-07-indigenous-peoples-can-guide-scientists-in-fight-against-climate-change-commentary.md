@@ -3,11 +3,11 @@ title: "Indigenous peoples can guide scientists in fight against climate change 
 date: 2020-02-07
 categories: 
   - "news"
-tags: 
+tags:
   - "ecology"
   - "environment"
   - "haudenosaunee"
-  - "mother-earth"
+  - "mother earth"
 coverImage: "/assets/images/content/1024px-Braided_Sweet_Grass.jpg"
 ---
 

@@ -5,8 +5,8 @@ categories:
   - "events"
   - "giwc"
   - "united-nations"
-tags: 
-  - "indigenous-peoples"
+tags:
+  - "indigenous peoples"
   - "unpfii"
   - "women"
 coverImage: "/assets/images/content/2.png"

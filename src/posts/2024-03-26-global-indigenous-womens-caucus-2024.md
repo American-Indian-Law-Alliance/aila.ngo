@@ -5,10 +5,10 @@ categories:
   - "events"
   - "giwc"
   - "united-nations"
-tags: 
+tags:
   - "gwic"
   - "un"
-  - "united-nations"
+  - "united nations"
   - "unpfii"
   - "women"
 coverImage: "/assets/images/content/2.png"

@@ -3,12 +3,12 @@ title: "We Remember the Stolen Generations"
 date: 2021-09-30
 categories: 
   - "news"
-tags: 
-  - "boarding-schools"
+tags:
+  - "boarding schools"
   - "everychildmatters"
   - "genocide"
-  - "mission-schools"
-  - "residential-schools"
+  - "mission schools"
+  - "residential schools"
   - "theywerechildren"
 coverImage: "/assets/images/content/They-were-Children-March-Mike-Greenlar.jpg"
 ---

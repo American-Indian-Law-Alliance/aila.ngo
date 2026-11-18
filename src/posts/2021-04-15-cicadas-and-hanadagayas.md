@@ -3,10 +3,10 @@ title: "Cicadas and Hanadaga’yas"
 date: 2021-04-15
 categories: 
   - "news"
-tags: 
+tags:
   - "cicada"
   - "haudenosaunee"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "locusts"
   - "onondaga"
 coverImage: "/assets/images/content/cicadas-Brood7-NYTimes-photo-5-videoSixteenByNineJumbo1600.jpg"

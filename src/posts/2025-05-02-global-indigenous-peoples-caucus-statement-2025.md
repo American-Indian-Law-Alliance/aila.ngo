@@ -4,11 +4,11 @@ date: 2025-05-02
 categories: 
   - "gipc"
   - "united-nations"
-tags: 
+tags:
   - "gipc"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "un"
-  - "united-nations"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/1.png"
 ---

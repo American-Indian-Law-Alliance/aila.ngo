@@ -4,12 +4,12 @@ date: 2025-04-11
 categories: 
   - "events"
   - "united-nations"
-tags: 
+tags:
   - "environment"
   - "event"
   - "land"
   - "un"
-  - "united-nations"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/unpfii-wecan.png"
 ---

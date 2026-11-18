@@ -98,6 +98,10 @@
   --button-text-transform: uppercase;
   --button-tracking: var(--tracking-wide);
 }
+.button[data-tag] {
+  --button-text-transform: none;
+}
+
 /* Radius variants */
 .button[data-button-radius='hard'] {
   --button-radius: 0;

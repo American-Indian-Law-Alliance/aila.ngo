@@ -3,9 +3,9 @@ title: "Onondaga Nation General Counsel on McGirt v. Oaklahoma"
 date: 2020-07-16
 categories: 
   - "news"
-tags: 
+tags:
   - "federal"
-  - "indian-law"
+  - "indian law"
   - "law"
 coverImage: "/assets/images/content/1024px-Springtime_at_SCOTUS_49661382628.jpg"
 ---

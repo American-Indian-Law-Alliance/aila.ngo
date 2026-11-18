@@ -4,14 +4,14 @@ date: 2024-03-26
 categories: 
   - "events"
   - "united-nations"
-tags: 
+tags:
   - "haudenosaunee"
   - "oas"
   - "onondaga"
   - "un"
-  - "united-nations"
+  - "united nations"
   - "unpfii"
-  - landback
+  - "landback"
 coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
 ---
 

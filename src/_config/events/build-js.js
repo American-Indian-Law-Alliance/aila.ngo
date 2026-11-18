@@ -3,11 +3,12 @@ import path from 'node:path';
 import fg from 'fast-glob';
 import esbuild from 'esbuild';
 
-export const buildJs = async (inputPath, outputPath) => {
+export const buildJs = async (inputPath, outputPath, format = 'iife') => {
   const result = await esbuild.build({
     target: 'es2020',
     entryPoints: [inputPath],
     bundle: true,
+    format,
     minify: true,
     write: false
   });
@@ -34,7 +35,7 @@ export const buildAllJs = async () => {
   for (const inputPath of componentFiles) {
     const baseName = path.basename(inputPath);
     const outputPath = `dist/assets/scripts/components/${baseName}`;
-    tasks.push(buildJs(inputPath, outputPath));
+    tasks.push(buildJs(inputPath, outputPath, 'esm'));
   }
 
   await Promise.all(tasks);

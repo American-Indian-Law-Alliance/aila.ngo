@@ -3,12 +3,12 @@ title: "At a sacred place, ‘mindblowing’ tale of the nesting eagles of Onond
 date: 2025-07-21
 categories: 
   - "news"
-tags: 
+tags:
   - "eagles"
   - "environment"
   - "haudenosaunee"
   - "lake"
-  - "onondaga-lake"
+  - "onondaga lake"
 coverImage: "/assets/images/content/tina-thomas-central-current.jpg"
 ---
 

@@ -3,12 +3,12 @@ title: "Haudenosaunee Women's Influence on The Women's Rights Movement"
 date: 2020-02-14
 categories: 
   - "events"
-tags: 
+tags:
   - "feminism"
   - "haudenosaunee"
   - "indigenous"
-  - "matilda-effect"
-  - "womens-suffrage"
+  - "matilda effect"
+  - "womens suffrage"
 coverImage: "/assets/images/content/Haudenosaunee-Womens-Influence-Facebook.png"
 ---
 

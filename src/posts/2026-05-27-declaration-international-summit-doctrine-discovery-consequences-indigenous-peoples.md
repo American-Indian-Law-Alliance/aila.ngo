@@ -3,10 +3,10 @@ title: "Declaration Of The International Summit On The Doctrine Of Discovery And
 date: 2026-05-27
 categories: 
   - news
-tags: 
-  - doctrine-of-discovery
-  - statement
-  - indigenous
+tags:
+  - "doctrine of discovery"
+  - "statement"
+  - "indigenous"
 coverImage: "/assets/images/content/2026-05-27-declaration-international-summit-doctrine-discovery-consequences-indigenous-peoples.jpg"
 ---
 **DECLARATION OF THE INTERNATIONAL SUMMIT ON THE DOCTRINE OF DISCOVERY AND ITS CONSEQUENCES FOR INDIGENOUS PEOPLES**

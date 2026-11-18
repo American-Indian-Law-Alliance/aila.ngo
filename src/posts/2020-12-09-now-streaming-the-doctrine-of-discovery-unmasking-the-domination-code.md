@@ -3,8 +3,8 @@ title: "Now Streaming: The Doctrine of Discovery: Unmasking the Domination Code"
 date: 2020-12-09
 categories: 
   - "news"
-tags: 
-  - "doctrine-of-discovery"
+tags:
+  - "doctrine of discovery"
 coverImage: "/assets/images/content/doctrine-of-discovery-unmasking-domination-code.jpg"
 ---
 

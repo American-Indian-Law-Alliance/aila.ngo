@@ -3,9 +3,9 @@ title: "Acknowledging the Doctrine of Christian Domination"
 date: 2021-07-28
 categories: 
   - "news"
-tags: 
+tags:
   - "columbus"
-  - "doctrine-of-discovery"
+  - "doctrine of discovery"
   - "law"
 coverImage: "/assets/images/content/Acknowledging-Doctrine-Christian-Domination-wordcloud.jpg"
 ---

@@ -3,12 +3,12 @@ title: "Saving a Sacred Lake: A Century of Pollution Haunts the Haudenosaunee"
 date: 2021-05-02
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
   - "lake"
-  - "mother-earth"
+  - "mother earth"
   - "onondaga"
-  - "onondaga-nation"
+  - "onondaga nation"
   - "pollution"
 coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
 ---

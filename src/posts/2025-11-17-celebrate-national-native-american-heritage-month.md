@@ -3,10 +3,10 @@ title: "Celebrate National Native American Heritage Month"
 date: 2025-11-17
 categories: 
   - "events"
-tags: 
-  - "craft-fair"
+tags:
+  - "craft fair"
   - "haudenosaunee"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "occ"
   - "onondaga"
 coverImage: "/assets/images/content/National-Native-American-Nov-24.jpg"

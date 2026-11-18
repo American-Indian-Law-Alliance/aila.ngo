@@ -35,7 +35,7 @@
     <div slot="tag" webc:nokeep>
       {% for tag in item.data.tags %}
         {% if tag != "posts" %}
-          <span class="button" data-small-button>{{ tag }}</span>
+          <span class="button" data-small-button data-tag>{{ tag | title }}</span>
         {% endif %}
       {% endfor %}
     </div>

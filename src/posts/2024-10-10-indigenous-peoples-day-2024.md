@@ -3,9 +3,9 @@ title: "Indigenous Peoples’ Day 2024"
 date: 2024-10-10
 categories: 
   - "events"
-tags: 
+tags:
   - "indigenous"
-  - "indigenous-peoples-day"
+  - "indigenous peoples day"
   - "ipd"
 coverImage: "/assets/images/content/FINAL-IPD-poster-11-x-8.5-in-1024x791-1.png"
 ---

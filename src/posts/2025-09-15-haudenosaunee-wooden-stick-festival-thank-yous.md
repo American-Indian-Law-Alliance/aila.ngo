@@ -4,11 +4,11 @@ date: 2025-09-15
 categories: 
   - "events"
   - "festival"
-tags: 
+tags:
   - "haudenosaunee"
   - "lacrosse"
   - "onondaga"
-  - "onondaga-lake"
+  - "onondaga lake"
 coverImage: "/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-1.png"
 ---
 

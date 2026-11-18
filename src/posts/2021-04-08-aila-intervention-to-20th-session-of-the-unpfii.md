@@ -4,9 +4,9 @@ date: 2021-04-08
 categories: 
   - "news"
   - "united-nations"
-tags: 
+tags:
   - "un"
-  - "united-nations"
+  - "united nations"
   - "upfii"
 coverImage: "/assets/images/content/the-new-york-public-library-yEauzeZU6xo-unsplash-960.jpg"
 ---

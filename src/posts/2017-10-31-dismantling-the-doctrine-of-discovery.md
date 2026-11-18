@@ -3,11 +3,11 @@ title: "Dismantling the Doctrine of Discovery"
 date: 2017-10-31
 categories: 
   - "news"
-tags: 
+tags:
   - "catholicism"
-  - "doctrine-of-discovery"
-  - "indigenous-peoples"
-  - "native-americans"
+  - "doctrine of discovery"
+  - "indigenous peoples"
+  - "native americans"
 coverImage: "/assets/images/content/doctrine-of-discovery.jpg"
 ---
 

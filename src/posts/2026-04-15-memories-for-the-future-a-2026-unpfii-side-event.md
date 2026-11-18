@@ -3,9 +3,9 @@ title: "Memories For The Future: A 2026 UNPFII Side Event"
 date: 2026-04-15
 categories: 
   - "events"
-tags: 
+tags:
   - "memories"
-  - "united-nations"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/2026-Memories-For-The-Future-Flyer.jpg"
 ---

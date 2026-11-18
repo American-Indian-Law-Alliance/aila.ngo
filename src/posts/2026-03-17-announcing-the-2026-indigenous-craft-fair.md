@@ -3,9 +3,9 @@ title: "Announcing the 2026 Indigenous Craft Fair"
 date: 2026-03-17
 categories: 
   - "craft-fair"
-tags: 
-  - "craft-fair"
-  - "united-nations"
+tags:
+  - "craft fair"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/3.png"
 ---

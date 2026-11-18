@@ -3,12 +3,12 @@ title: "Indigenous Education Now"
 date: 2021-04-27
 categories: 
   - "news"
-tags: 
+tags:
   - "education"
   - "family"
   - "indigenous"
   - "peoples"
-  - "united-nations"
+  - "united nations"
   - "unpfii"
   - "youth"
 coverImage: "/assets/images/content/indigenous-education-now.png"

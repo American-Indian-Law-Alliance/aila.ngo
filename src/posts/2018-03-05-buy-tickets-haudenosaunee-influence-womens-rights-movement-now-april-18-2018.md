@@ -3,13 +3,13 @@ title: "Buy tickets: Haudenosaunee Influence on Early Feminism"
 date: 2018-03-05
 categories: 
   - "events"
-tags: 
+tags:
   - "event"
   - "feminism"
   - "feminist"
   - "haudenosaunee"
   - "nyc"
-  - "womens-rights"
+  - "womens rights"
 coverImage: "/assets/images/content/Haudenosaunee-influence-womens-rights.png"
 ---
 

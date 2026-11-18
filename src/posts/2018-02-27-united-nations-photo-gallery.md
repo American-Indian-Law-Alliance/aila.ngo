@@ -3,10 +3,10 @@ title: "United Nations Photo Gallery"
 date: 2018-02-27
 categories: 
   - "events"
-tags: 
+tags:
   - "haudenosaunee"
-  - "indigenous-peoples"
-  - "united-nations"
+  - "indigenous peoples"
+  - "united nations"
 coverImage: "/assets/images/content/Ban-Ki-Moon-Haudenosaunee-2016-XL-min.jpg"
 ---
 

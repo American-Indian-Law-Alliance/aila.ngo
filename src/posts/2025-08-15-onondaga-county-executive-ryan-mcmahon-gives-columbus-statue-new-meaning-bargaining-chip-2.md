@@ -4,11 +4,11 @@ permalink: /onondaga-county-executive-ryan-mcmahon-gives-columbus-statue-new-mea
 date: 2025-08-15
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
   - "lacrosse"
   - "onondaga"
-  - "onondaga-lake"
+  - "onondaga lake"
 coverImage: "/assets/images/content/1024px-Columbus_circle_county_courthouse.jpg"
 ---
 

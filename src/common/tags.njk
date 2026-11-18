@@ -8,7 +8,7 @@ eleventyComputed:
 <div class="taglist | mt-s-m cluster">
   {% for tag in collections.tagList %}
     {# Route is /tag/<slug>/ (singular) — see the tagPages collection. #}
-    <a href="/tag/{{ tag | slugify }}/" class="button"> {{ tag }} </a>
+    <a href="/tag/{{ tag | slugify }}/" class="button"> {{ tag | title }} </a>
   {% endfor %}
 </div>
 

@@ -3,9 +3,9 @@ title: "The Original Cancel Culture"
 date: 2021-01-05
 categories: 
   - "news"
-tags: 
-  - "cancel-culture"
-  - "doctrine-of-discovery"
+tags:
+  - "cancel culture"
+  - "doctrine of discovery"
   - "indigenous"
   - "mascots"
 coverImage: "/assets/images/content/cancellation-4944727_1920.jpg"

@@ -3,13 +3,13 @@ title: "NYC, Wells Fargo, and the DAPL"
 date: 2018-02-02
 categories: 
   - "news"
-tags: 
+tags:
   - "banks"
-  - "mother-earth"
+  - "mother earth"
   - "nodapl"
   - "nyc"
   - "water"
-  - "wells-fargo"
+  - "wells fargo"
 coverImage: "/assets/images/content/No_Pipelines_Poster.png"
 ---
 

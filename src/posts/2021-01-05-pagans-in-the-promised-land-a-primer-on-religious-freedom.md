@@ -3,10 +3,10 @@ title: "Pagans in the Promised Land: a Primer on Religious Freedom"
 date: 2021-01-05
 categories: 
   - "news"
-tags: 
-  - "doctrine-of-discovery"
-  - "religious-freedom"
-  - "united-nations"
+tags:
+  - "doctrine of discovery"
+  - "religious freedom"
+  - "united nations"
 coverImage: "/assets/images/content/pagans-in-the-promise-land.jpg"
 ---
 

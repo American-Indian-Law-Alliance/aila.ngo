@@ -4,10 +4,10 @@ date: 2025-04-14
 categories: 
   - "events"
   - "united-nations"
-tags: 
-  - "indigenous-peoples"
+tags:
+  - "indigenous peoples"
   - "un"
-  - "united-nations"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/Memories-For-The-Future-Flyer-1.jpg"
 ---

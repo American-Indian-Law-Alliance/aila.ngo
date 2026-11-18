@@ -3,13 +3,13 @@ title: "Addressing the MMIR/MMIWG Crisis"
 date: 2023-08-25
 categories: 
   - "news"
-tags: 
+tags:
   - "mmir"
   - "mmiw"
   - "mmiwg"
   - "mmiwg2s"
   - "nilj"
-  - "press-release"
+  - "press release"
 coverImage: "/assets/images/content/cropped-AILA-new-circle-logo2.png"
 ---
 

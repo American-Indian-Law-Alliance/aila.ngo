@@ -3,9 +3,9 @@ title: "Announcing the 2026 Global Indigenous Women's Caucus (GIWC) Statement"
 date: 2026-05-10
 categories: 
   - "giwc"
-tags: 
-  - "indigenous-peoples"
-  - "united-nations"
+tags:
+  - "indigenous peoples"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/giwc.png"
 ---

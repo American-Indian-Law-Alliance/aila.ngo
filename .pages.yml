@@ -73,7 +73,7 @@ content:
           label: '{title}'
           multiple: true
       - name: tags
-        label: Tags
+        label: Tags (lowercase letters and numbers, spaces between words)
         type: string
         list: true
       - name: body

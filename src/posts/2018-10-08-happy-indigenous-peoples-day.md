@@ -4,10 +4,10 @@ date: 2018-10-08
 categories: 
   - "events"
   - "news"
-tags: 
+tags:
   - "columbus"
   - "haudenosaunee"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "sovereignty"
 coverImage: "/assets/images/content/Highline-College-Celebrate-Indigenous-Peoples-Day.jpg"
 ---

@@ -3,11 +3,11 @@ title: "Onondaga County Executive Ryan McMahon gives Columbus statue new meaning
 date: 2025-08-18
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
   - "lacrosse"
   - "onondaga"
-  - "onondaga-lake"
+  - "onondaga lake"
 coverImage: "/assets/images/content/1024px-Columbus_circle_county_courthouse.jpg"
 ---
 

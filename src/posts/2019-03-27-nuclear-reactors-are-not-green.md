@@ -3,11 +3,11 @@ title: "Nuclear Reactors are not \"Green\""
 date: 2019-03-27
 categories: 
   - "news"
-tags: 
+tags:
   - "environment"
   - "fracking"
   - "haudenosaunee"
-  - "mother-earth"
+  - "mother earth"
   - "nuclear"
   - "waterislife"
 coverImage: "/assets/images/content/nuclear-power-plant-3212365_1280.jpg"

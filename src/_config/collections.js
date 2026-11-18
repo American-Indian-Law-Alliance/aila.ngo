@@ -17,12 +17,12 @@ export const showInSitemap = collection => {
 
 /** All tags from all posts as a collection - excluding custom collections */
 export const tagList = collection => {
-  const tagsSet = new Set();
+  const tagsMap = new Map();
   collection.getAll().forEach(item => {
     if (!item.data.tags) return;
-    item.data.tags.filter(tag => !['posts', 'all'].includes(tag)).forEach(tag => tagsSet.add(tag));
+    item.data.tags.filter(tag => !['posts', 'all'].includes(tag)).forEach(tag => tagsMap.set(slugifyString(tag), tag));
   });
-  return Array.from(tagsSet).sort();
+  return Array.from(tagsMap.values()).sort();
 };
 
 export const tagPages = collection => {
@@ -31,7 +31,9 @@ export const tagPages = collection => {
   let tagMap = [];
   let tagsArray = tagList(collection);
   for (let tagName of tagsArray) {
-    let tagItems = sortNewestFirst(collection.getFilteredByTag(tagName));
+    let tagItems = sortNewestFirst(collection.getAll().filter(item =>
+      item.data.tags?.some(tag => slugifyString(tag) === slugifyString(tagName))
+    ));
     let pagedItems = chunk(tagItems, paginationSize);
     for (let pageNumber = 0, max = pagedItems.length; pageNumber < max; pageNumber++) {
       tagMap.push({

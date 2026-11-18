@@ -3,9 +3,9 @@ title: "Doctrine of Christian Discovery Podcast"
 date: 2024-02-27
 categories: 
   - "news"
-tags: 
-  - "doctrine-of-christian-discovery"
-  - "doctrine-of-discovery"
+tags:
+  - "doctrine of christian discovery"
+  - "doctrine of discovery"
   - "podcast"
 coverImage: "/assets/images/content/doctrine-christian-discovery.webp"
 ---

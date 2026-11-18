@@ -4,9 +4,9 @@ date: 2025-04-01
 categories: 
   - "events"
   - "united-nations"
-tags: 
-  - "indigenous-peoples"
-  - "side-event"
+tags:
+  - "indigenous peoples"
+  - "side event"
   - "un"
   - "unpfii"
 coverImage: "/assets/images/content/Haudenosaunee-Nationals-Event.png"

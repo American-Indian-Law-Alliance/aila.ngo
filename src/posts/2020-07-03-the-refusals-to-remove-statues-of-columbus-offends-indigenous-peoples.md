@@ -3,10 +3,10 @@ title: "The refusals to remove statues of Columbus offends Indigenous Peoples"
 date: 2020-07-03
 categories: 
   - "news"
-tags: 
+tags:
   - "catholicism"
   - "columbus"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "monuments"
 coverImage: "/assets/images/content/capitol-pressroom-CapPressroom_Featured.jpg"
 ---

@@ -3,11 +3,11 @@ title: "Roy Simmons Jr. didn’t just teach lacrosse. He showed others how to lo
 date: 2025-09-11
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
   - "lacrosse"
   - "onondaga"
-  - "onondaga-lake"
+  - "onondaga lake"
 coverImage: "/assets/images/content/diptych-03-web.jpg"
 ---
 

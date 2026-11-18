@@ -4,12 +4,12 @@ date: 2021-08-02
 categories: 
   - "events"
   - "news"
-tags: 
-  - "boarding-schools"
+tags:
+  - "boarding schools"
   - "everychildmatters"
   - "genocide"
-  - "mission-schools"
-  - "residential-schools"
+  - "mission schools"
+  - "residential schools"
   - "theywerechildren"
 coverImage: "/assets/images/content/They-were-Children-March-Mike-Greenlar.jpg"
 ---

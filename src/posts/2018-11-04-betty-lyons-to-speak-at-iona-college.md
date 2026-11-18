@@ -3,10 +3,10 @@ title: "Betty Lyons to Speak at Iona College"
 date: 2018-11-04
 categories: 
   - "events"
-tags: 
+tags:
   - "haudenosaunee"
-  - "indigenous-peoples"
-  - "native-americans"
+  - "indigenous peoples"
+  - "native americans"
   - "peacemaker"
   - "sovereignty"
 coverImage: "/assets/images/content/Iona_College_Hagan_School_of_Business.jpg"

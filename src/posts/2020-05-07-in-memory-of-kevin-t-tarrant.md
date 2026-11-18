@@ -4,9 +4,9 @@ date: 2020-05-07
 categories: 
   - "in-memorium"
   - "news"
-tags: 
+tags:
   - "aich"
-  - "american-indian-community-house"
+  - "american indian community house"
   - "nyc"
 coverImage: "/assets/images/content/kevin-tarrant.jpg"
 ---

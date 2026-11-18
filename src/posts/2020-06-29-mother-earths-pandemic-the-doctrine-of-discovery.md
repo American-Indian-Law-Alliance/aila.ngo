@@ -4,13 +4,13 @@ date: 2020-06-29
 categories: 
   - "events"
   - "news"
-tags: 
+tags:
   - "conference"
   - "docd"
   - "event"
   - "haudenosaunee"
-  - "indigenous-peoples"
-  - "mother-earth"
+  - "indigenous peoples"
+  - "mother earth"
 coverImage: "/assets/images/content/Broken-Treaties-Brandon-Lazore-Web-credit.jpg"
 ---
 

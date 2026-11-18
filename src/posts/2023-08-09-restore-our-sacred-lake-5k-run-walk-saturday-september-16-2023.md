@@ -4,11 +4,11 @@ date: 2023-08-09
 categories: 
   - "events"
   - "festival"
-tags: 
+tags:
   - "5k"
   - "eagles"
   - "onondaga"
-  - "onondaga-lake"
+  - "onondaga lake"
   - "run"
 coverImage: "/assets/images/content/run-logos.png"
 ---

@@ -3,8 +3,8 @@ title: "Protect ICWA"
 date: 2022-11-08
 categories: 
   - "news"
-tags: 
-  - "boarding-schools"
+tags:
+  - "boarding schools"
   - "icwa"
 coverImage: "/assets/images/content/unnamed.png"
 ---

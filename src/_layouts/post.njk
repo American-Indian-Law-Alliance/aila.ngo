@@ -49,7 +49,7 @@ schema: BlogPosting
     {% if tags.length > 1 %}
           <!-- tags -->
           {% for tag in tags %}{% if tag != "posts" %}
-            <a class="button" href="/tag/{{ tag | slugify }}/" data-small-button> {{ tag }} </a>
+            <a class="button" href="/tag/{{ tag | slugify }}/" data-small-button data-tag> {{ tag | title }} </a>
           {% endif %}{% endfor %}
         {% endif %}
   </div>

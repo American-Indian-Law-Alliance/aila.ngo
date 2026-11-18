@@ -3,12 +3,12 @@ title: "Inaugural event for the Two Row Wampum Renewal Campaign"
 date: 2017-10-31
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
-  - "indigenous-peoples"
-  - "native-americans"
+  - "indigenous peoples"
+  - "native americans"
   - "sovereignty"
-  - "two-row-wampum"
+  - "two row wampum"
 coverImage: "/assets/images/content/slider5.11.jpg"
 ---
 

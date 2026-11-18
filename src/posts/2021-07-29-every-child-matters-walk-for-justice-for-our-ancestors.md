@@ -3,11 +3,11 @@ title: "Every Child Matters: Walk for Justice for Our Ancestors"
 date: 2021-07-29
 categories: 
   - "events"
-tags: 
-  - "boarding-schools"
-  - "indigenous-nations"
-  - "indigenous-peoples"
-  - "residential-schools"
+tags:
+  - "boarding schools"
+  - "indigenous nations"
+  - "indigenous peoples"
+  - "residential schools"
   - "theywerechildren"
   - "wewerechildren"
 coverImage: "/assets/images/content/every-child-matters.jpg"

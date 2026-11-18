@@ -3,11 +3,11 @@ title: "Oren Lyons’ endless quest to preserve Indigenous values"
 date: 2025-09-11
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
   - "lacrosse"
   - "onondaga"
-  - "onondaga-lake"
+  - "onondaga lake"
 coverImage: "/assets/images/content/diptych-03-web.jpg"
 ---
 

@@ -3,9 +3,9 @@ title: "Water is Sacred"
 date: 2017-10-31
 categories: 
   - "news"
-tags: 
-  - "indigenous-peoples"
-  - "native-americans"
+tags:
+  - "indigenous peoples"
+  - "native americans"
   - "nodapl"
   - "water"
 coverImage: "/assets/images/content/No_Pipelines_Poster.png"

@@ -3,9 +3,9 @@ title: "Impact of new technologies for climate protection"
 date: 2023-02-23
 categories: 
   - "news"
-tags: 
+tags:
   - "tonatierra"
-  - "untied-nations"
+  - "untied nations"
 coverImage: "/assets/images/content/tonatierra-7Cuevas1.jpeg"
 ---
 

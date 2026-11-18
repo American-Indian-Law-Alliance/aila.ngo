@@ -3,10 +3,10 @@ title: "Op-Ed: Dreamers must be protected – as Indigenous Peoples were not"
 date: 2018-03-05
 categories: 
   - "news"
-tags: 
+tags:
   - "daca"
   - "dreamers"
-  - "indigenous-peoples"
+  - "indigenous peoples"
 coverImage: "/assets/images/content/hiawatha-belt-2500x625-min.png"
 ---
 

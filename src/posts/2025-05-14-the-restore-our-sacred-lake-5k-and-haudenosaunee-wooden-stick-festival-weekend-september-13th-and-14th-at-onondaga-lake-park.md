@@ -4,16 +4,16 @@ date: 2025-05-14
 categories: 
   - "events"
   - "festival"
-tags: 
+tags:
   - "laxweekend"
   - "laxweekend25"
   - "5k"
   - "haudenosaunee"
   - "lacrosse"
   - "race"
-  - "restore-sacred-lake"
+  - "restore sacred lake"
   - "run"
-  - "wooden-stick"
+  - "wooden stick"
 coverImage: "/assets/images/content/WSF-and-Restore-Our-Lake.png"
 ---
 

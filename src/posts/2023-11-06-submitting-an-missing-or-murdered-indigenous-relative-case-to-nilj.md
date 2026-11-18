@@ -3,8 +3,8 @@ title: "Submitting an Missing or Murdered Indigenous Relative Case to NILJ"
 date: 2023-11-06
 categories: 
   - "news"
-tags: 
-  - "indigenous-peoples"
+tags:
+  - "indigenous peoples"
   - "mmiw"
   - "mmiwg"
   - "mmiwg2s"

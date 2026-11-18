@@ -3,11 +3,11 @@ title: "Onondaga 'LakeBack' protest shades arrival of Seneca Chief with history 
 date: 2025-10-08
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
   - "lakeback"
   - "onondaga"
-  - "onondaga-lake"
+  - "onondaga lake"
 coverImage: "/assets/images/content/LakeBannerDrop1.jpg"
 ---
 

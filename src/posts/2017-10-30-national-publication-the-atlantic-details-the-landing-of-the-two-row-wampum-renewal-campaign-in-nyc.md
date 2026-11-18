@@ -3,11 +3,11 @@ title: "National publication, The Atlantic"
 date: 2017-10-30
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
-  - "native-americans"
+  - "native americans"
   - "sovereignty"
-  - "two-row-wampum"
+  - "two row wampum"
 coverImage: "/assets/images/content/slider6.jpg"
 ---
 

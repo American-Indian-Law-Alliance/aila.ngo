@@ -3,8 +3,8 @@ title: "Stopping Line 3 with Winona LaDuke"
 date: 2021-01-24
 categories: 
   - "news"
-tags: 
-  - "line-3"
+tags:
+  - "line 3"
   - "oil"
   - "pipeline"
   - "sovereignty"

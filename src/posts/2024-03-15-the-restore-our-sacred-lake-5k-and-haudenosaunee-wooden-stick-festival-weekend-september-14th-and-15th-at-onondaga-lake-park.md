@@ -4,14 +4,14 @@ date: 2024-03-15
 categories: 
   - "events"
   - "festival"
-tags: 
+tags:
   - "laxweekend"
   - "laxweekend24"
   - "5k"
   - "haudenosaunee"
   - "lacrosse"
   - "race"
-  - "wooden-stick"
+  - "wooden stick"
 coverImage: "/assets/images/content/WSF-and-Restore-Our-Lake.png"
 ---
 

@@ -3,9 +3,9 @@ title: "Iroquois Nationals Passport/Visa Dispute"
 date: 2010-09-26
 categories: 
   - "news"
-tags: 
+tags:
   - "haudenosaunee"
-  - "iroquois-nationals"
+  - "iroquois nationals"
   - "lacrosse"
   - "passports"
 coverImage: "/assets/images/content/CSlMIJCUYAAe9EA.png"

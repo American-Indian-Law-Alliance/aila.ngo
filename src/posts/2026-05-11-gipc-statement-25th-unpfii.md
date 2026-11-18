@@ -3,9 +3,9 @@ title: "Announcing the 2026 Global Indigenous Peoples' Caucus (GIPC) Statement"
 date: 2026-05-11
 categories: 
   - "gipc"
-tags: 
-  - "indigenous-peoples"
-  - "united-nations"
+tags:
+  - "indigenous peoples"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/gipc.png"
 ---

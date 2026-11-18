@@ -5,10 +5,10 @@ categories:
   - "events"
   - "gipc"
   - "united-nations"
-tags: 
+tags:
   - "gipc"
   - "un"
-  - "united-nations"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/1.png"
 ---

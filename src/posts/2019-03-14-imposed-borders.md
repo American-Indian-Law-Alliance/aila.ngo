@@ -3,11 +3,11 @@ title: "Imposed Borders"
 date: 2019-03-14
 categories: 
   - "events"
-tags: 
+tags:
   - "csw"
-  - "doctrine-of-discovery"
+  - "doctrine of discovery"
   - "haudenosaunee"
-  - "indigenous-peoples"
+  - "indigenous peoples"
   - "un"
 coverImage: "/assets/images/content/imposed-borders.jpg"
 ---

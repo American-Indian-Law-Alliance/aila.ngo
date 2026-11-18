@@ -5,8 +5,8 @@ categories:
   - "events"
   - "craft-fair"
   - "united-nations"
-tags: 
-  - "craft-fair"
+tags:
+  - "craft fair"
 coverImage: "/assets/images/content/3.png"
 ---
 

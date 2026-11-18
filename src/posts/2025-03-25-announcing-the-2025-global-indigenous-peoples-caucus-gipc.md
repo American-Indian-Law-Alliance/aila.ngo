@@ -6,9 +6,9 @@ categories:
   - "gipc"
   - "giwc"
   - "united-nations"
-tags: 
-  - "indigenous-peoples"
-  - "united-nations"
+tags:
+  - "indigenous peoples"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/1.png"
 ---

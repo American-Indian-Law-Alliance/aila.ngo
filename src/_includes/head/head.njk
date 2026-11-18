@@ -27,7 +27,6 @@
 <script>{% getBundle "js", "inline" %}</script>
 
 {%- js "inline" %}
-{% include "scripts/is-land.js" %}
 {% include "scripts/theme-toggle.js" %}
 {% endjs %}
 
@@ -74,6 +73,7 @@
 {% endif %}
 
 {# --- Deferred JS --------------------------------------------------------- #}
+<script src="/assets/scripts/components/is-land.js" type="module"></script>
 <script src="{% getBundleFileUrl "js", "defer" %}" type="module"></script>
 
 {# --- Meta, icons, Open Graph, citation metadata -------------------------- #}

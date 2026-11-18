@@ -3,9 +3,9 @@ title: "Alfie Jacques Ambassador Awardees: Oren Lyons and Roy Simmons Jr."
 date: 2025-05-23
 categories: 
   - "events"
-tags: 
+tags:
   - "lacrosse"
-  - "wooden-stick"
+  - "wooden stick"
 coverImage: "/assets/images/content/diptych-03-web.jpg"
 ---
 

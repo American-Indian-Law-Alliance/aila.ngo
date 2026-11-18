@@ -3,12 +3,12 @@ title: "UNPFII Side Event: Extractive Industries, Environmental Violence And Tra
 date: 2024-04-13
 categories: 
   - "events"
-tags: 
+tags:
   - "indigenous"
   - "mmiw"
   - "mmiwg2s"
   - "un"
-  - "united-nations"
+  - "united nations"
   - "unpfii"
 coverImage: "/assets/images/content/Screenshot-2024-04-13-at-9.51.53 AM.png"
 ---
