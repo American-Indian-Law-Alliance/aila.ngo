@@ -11,7 +11,7 @@ tags:
   - "global"
   - "indigenous"
   - "peoples"
-coverImage: "/assets/images/content/1.png"
+coverImage: "/assets/images/content/1.webp"
 ---
 
 [Télécharger le flyer en français](/assets/documents/FR-01-GIPC.pdf)

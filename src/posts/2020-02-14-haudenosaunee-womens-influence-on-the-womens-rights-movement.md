@@ -9,7 +9,7 @@ tags:
   - "indigenous"
   - "matilda effect"
   - "womens suffrage"
-coverImage: "/assets/images/content/Haudenosaunee-Womens-Influence-Facebook.png"
+coverImage: "/assets/images/content/Haudenosaunee-Womens-Influence-Facebook.webp"
 ---
 
 `Cancelled due to COVID-19 Concerns`
@@ -46,4 +46,4 @@ This event features Indigenous women leaders and non-Native feminist activists h
  
 
 - ➡︎ Visit Matilda Effect for more information.
-- [⬇︎ Download the event poster](/assets/documents/Haudenosaunee-women-influence-web.jpg)
+- [⬇︎ Download the event poster](/assets/documents/Haudenosaunee-women-influence-web.webp)

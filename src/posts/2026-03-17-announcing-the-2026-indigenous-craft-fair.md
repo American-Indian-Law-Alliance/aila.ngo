@@ -7,7 +7,7 @@ tags:
   - "craft fair"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/3.png"
+coverImage: "/assets/images/content/3.webp"
 ---
 Download the Flyers [EN](/assets/documents/2026/03/2026-Craft-Fair-EN.pdf) | [ES](/assets/documents/2026/03/2026-Craft-Fair-ES.pdf) | [FR](/assets/documents/2026/03/2026-Craft-Fair-FR.pdf) | [PT](/assets/documents/2026/03/2026-Craft-Fair-PT.pdf) | [RU](/assets/documents/2026/03/2026-Craft-Fair-RU.pdf)
 

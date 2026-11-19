@@ -7,7 +7,7 @@ date: 2010-12-29
 - October 2019, Saving, Protecting Mother Earth for the Seventh Generation unborn, a Syracuse University Law School panel with Betty Lyons and Jake Edwards
 - May 2019, Syracuse University Law School Panel with Tadodaho Sid Hill and Betty Lyons
 - April 2019, [Environmental Law Review Symposium Protecting Tribal Land, Water, and Resources. Fordham Law](https://go.activecalendar.com/FordhamUniversity/site/law/event/environmental-law-review-symposium-1/) Symposium.
-- March 26, 2019, [Leaders of Color Lunch Series SU Law](/assets/documents/leaders-of-color-lunch.jpg), hosted by Inclusion Initiative Committee, Student Affairs & Native American Law Student Association. Guest Speakers: Betty Lyons, Executive Director of the American Indian Law Alliance and Tadodaho Sidney Hill, Haudenosaunee Confederacy.
+- March 26, 2019, Leaders of Color Lunch Series SU Law, hosted by Inclusion Initiative Committee, Student Affairs & Native American Law Student Association. Guest Speakers: Betty Lyons, Executive Director of the American Indian Law Alliance and Tadodaho Sidney Hill, Haudenosaunee Confederacy.
 - March 2019, [Imposed Borders](/imposed-borders/).
 - March 2019, [The Women's Suffrage Movement by Academic Initiatives and Strategic Innovation](https://www.eventbrite.com/e/the-womens-suffrage-movement-tickets-57611840566?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=viewevent#).
 - January 2019, [Members of Diversity Council, Chancellor’s Workgroup and Sustainability Management Tour Great Law of Peace Center](https://news.syr.edu/blog/2019/01/15/members-of-diversity-council-chancellors-workgroup-and-sustainability-management-tour-great-law-of-peace-center/).

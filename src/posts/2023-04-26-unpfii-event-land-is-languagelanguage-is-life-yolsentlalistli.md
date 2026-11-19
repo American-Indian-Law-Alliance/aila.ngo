@@ -9,7 +9,7 @@ tags:
   - "life"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/568699001.jpg"
+coverImage: "/assets/images/content/568699001.webp"
 ---
 
 **land is language:language**  **is life /** _Yolsentlalistli_

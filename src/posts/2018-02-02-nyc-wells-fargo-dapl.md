@@ -10,7 +10,7 @@ tags:
   - "nyc"
   - "water"
   - "wells fargo"
-coverImage: "/assets/images/content/No_Pipelines_Poster.png"
+coverImage: "/assets/images/content/No_Pipelines_Poster.webp"
 ---
 
 Coverage of our efforts to get NYC to pull money from Wells Fargo over their funding of DAPL:

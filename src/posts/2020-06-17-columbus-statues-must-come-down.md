@@ -7,7 +7,7 @@ tags:
   - "colonization"
   - "columbus"
   - "statues"
-coverImage: "/assets/images/content/1024px-Columbus_circle_county_courthouse.jpg"
+coverImage: "/assets/images/content/1024px-Columbus_circle_county_courthouse.webp"
 ---
 
 > "Governor Cuomo’s eloquence in response to the anti-racism movement sparked by the murder of George Floyd apparently does not extend to the genocide and enslavement those first transatlantic voyages initiated and which continue to underpin the oppression of Indigenous peoples to this day," ~ Betty Lyons

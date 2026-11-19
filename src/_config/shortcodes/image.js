@@ -2,11 +2,11 @@ import Image from '@11ty/eleventy-img';
 import path from 'node:path';
 
 export const eleventyImgOptions = {
-    formats: ['webp', 'jpeg'],
+    formats: ['webp'],
     widths: [320, 640, 1400],
     transformOnRequest: false,
     urlPath: "/assets/images/content/",
-    outputDir: ".cache/@11ty/img/",
+    outputDir: ".cache/@11ty/img/webp/",
     htmlOptions: {
       imgAttributes: {
         loading: 'lazy',
@@ -59,14 +59,10 @@ const processImage = async options => {
     formats: [...formats],
     urlPath: eleventyImgOptions.urlPath,
     outputDir: eleventyImgOptions.outputDir,
-    filenameFormat: (id, src, width, format, options) => {
-      const extension = path.extname(src);
-      const name = path.basename(src, extension);
-      return `${name}-${width}w.${format}`;
-    }
+    filenameFormat: (id, src, width, format) => `${path.parse(src).name}-${width}w.${format}`
   });
 
-  const lowsrc = metadata.jpeg[metadata.jpeg.length - 1];
+  const lowsrc = Object.values(metadata).at(-1).at(-1);
 
   const imageSources = Object.values(metadata)
     .map(imageFormat => {

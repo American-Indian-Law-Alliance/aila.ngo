@@ -9,7 +9,7 @@ tags:
   - "maori"
   - "sovereignty"
   - "women"
-coverImage: "/assets/images/content/2019-doctrine-of-discovery-dialogue-sovereign-women.jpg"
+coverImage: "/assets/images/content/2019-doctrine-of-discovery-dialogue-sovereign-women.webp"
 ---
 
 _The truth, while spoken, never dies._ _It is a flame that may rest, smouldering in our bones._ _Perhaps for generations_ _Yet in these very lines it will rekindle_ _We are the flame that never died on battlegrounds of old_ _And for as long as I breathe my story_ _I am not vanquished_ _I am my fallen ancestors, risen again, each time our tale is told_ _Still here today, a laughing, dancing, love-making testament_ _against any notion of conquest,_ _Speaking our truth, singing of those who slipped between the privileged pages of history_ _Loving new generations into being_ _New bearers of the flame_ _That never dies_.

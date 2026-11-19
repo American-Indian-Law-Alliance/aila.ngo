@@ -2,7 +2,7 @@
 draft: false
 title: Purpose & Vision
 date: 2018-02-01
-coverImage: /assets/images/content/cropped-AILA-new-circle-logo2.png
+coverImage: /assets/images/content/cropped-AILA-new-circle-logo2.webp
 ---
 **Our purpose** is to work with Indigenous Nations, communities, and organizations globally in our struggle for sovereignty, human rights, and social justice for our peoples while remaining committed to our original instructions handed down through our ancestors to preserve Indigenous traditions for the seventh generation yet to come.
 

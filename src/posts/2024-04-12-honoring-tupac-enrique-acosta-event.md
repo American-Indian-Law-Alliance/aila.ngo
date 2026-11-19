@@ -8,20 +8,20 @@ tags:
   - "indigenous"
   - "memorial"
   - "unpfii"
-coverImage: "/assets/images/content/tupac-enrique-acosta-event.jpg"
+coverImage: "/assets/images/content/tupac-enrique-acosta-event.webp"
 ---
 
 UNPFII 23rd Session Side Event Honoring the Life and Legacy of Tupac Enrique Acosta (1952-2023)
 
 Tupac dedicated his life to working with Indigenous Nations and Peoples, and Organizations, advocating for the rights of Indigenous Peoples and the Territorial Integrity of Mother Earth. Join us as we remember Tupac and the impact he had on the Indigenous Peoples Movement.
 
-[![](/assets/images/content/TUPAC-EN-791x1024.jpg)](/assets/images/content/TUPAC-EN.jpg)
+[![](/assets/images/content/TUPAC-EN-791x1024.webp)](/assets/images/content/TUPAC-EN.webp)
 
-[![](/assets/images/content/TUPAC-ES-791x1024.jpg)](/assets/images/content/TUPAC-ES.jpg)
+[![](/assets/images/content/TUPAC-ES-791x1024.webp)](/assets/images/content/TUPAC-ES.webp)
 
-[![](/assets/images/content/TUPAC-RU-791x1024.jpg)](/assets/images/content/TUPAC-RU.jpg)
+[![](/assets/images/content/TUPAC-RU-791x1024.webp)](/assets/images/content/TUPAC-RU.webp)
 
-[![](/assets/images/content/TUPAC-FR-791x1024.jpg)](/assets/images/content/TUPAC-FR.jpg)
+[![](/assets/images/content/TUPAC-FR-791x1024.webp)](/assets/images/content/TUPAC-FR.webp)
 
 ### Event Details
 

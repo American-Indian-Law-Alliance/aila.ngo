@@ -8,7 +8,7 @@ tags:
   - "columbus"
   - "indigenous peoples"
   - "monuments"
-coverImage: "/assets/images/content/capitol-pressroom-CapPressroom_Featured.jpg"
+coverImage: "/assets/images/content/capitol-pressroom-CapPressroom_Featured.webp"
 ---
 
 Our Executive Director Gaeñ hia uh/Betty Lyons (Onondaga Nation, Snipe Clan) went on [WCNY Capital Pressroom](https://web.archive.org/web/20200807162451/https://www.wcny.org/july-2-2020-cuomos-resistance-on-columbus-statues-offends-nys-indigenous-community/) room with Tim Williams and provided context for the [Doctrine of Discovery](https://doctrineofdiscovery.org) and Christopher Columbus and the harm that has been done to Indigenous nations and peoples.

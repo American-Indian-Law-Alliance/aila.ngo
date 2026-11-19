@@ -6,7 +6,7 @@ categories:
 tags: 
   - "columbus"
   - "statues"
-coverImage: "/assets/images/content/1024px-Syracuse_NY_downtown.jpg"
+coverImage: "/assets/images/content/1024px-Syracuse_NY_downtown.webp"
 ---
 
 > "We want to thank the Mayor for having the courage to stand in truth and we know that is not an easy thing to do. Thank you for acknowledging the genocidal legacy of Christoper Columbus and how detrimental that has been to Indigenous nations and peoples." ~ [Betty Lyons](/staff-and-board/)

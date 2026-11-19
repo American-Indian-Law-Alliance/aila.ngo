@@ -10,11 +10,11 @@ tags:
   - "onondaga"
   - "onondaga lake"
   - "laxweekend"
-coverImage: "/assets/images/content/WSF-and-Restore-Our-Lake.png"
+coverImage: "/assets/images/content/WSF-and-Restore-Our-Lake.webp"
 ---
 The Restore Our Sacred Lake 5K and Haudenosaunee Wooden Stick Festival Weekend September 12<sup>th</sup> and 13<sup>th</sup> at Onondaga Lake Park
 
-[![2026 Event Flyer](/assets/images/content/2026-wsf.jpg)](/assets/images/content/2026-wsf.jpg)
+[![2026 Event Flyer](/assets/images/content/2026-wsf.webp)](/assets/images/content/2026-wsf.webp)
 
 ## [Restore Our Sacred Lake 5K](https://restoreoursacredlake.itsyourrace.com/)
 
@@ -78,7 +78,7 @@ Craft vendor registration opens (as of June 1, 2026).
 
 ## Smoke Dance Details
 
-[![Smoke Dancer Dancing superimposed over a photo of Onondaga Lake](/assets/images/content/2025-Smoke-Dance-update-819x1024.jpg)](/assets/images/content/2025-Smoke-Dance-update.jpg)
+[![Smoke Dancer Dancing superimposed over a photo of Onondaga Lake](/assets/images/content/2025-Smoke-Dance-update-819x1024.webp)](/assets/images/content/2025-Smoke-Dance-update.webp)
 
 ### Team and Vendor Fees
 
@@ -88,7 +88,7 @@ Craft vendor registration opens (as of June 1, 2026).
 
 ### Community Cleanup event
 Join us for a community clean up of shores of Onondaga lake during the Haudenosaunee Wooden Stick Lacrosse Festival! Open to adults and kids of all ages. Gloves and bags to be provided.
-![Clean up flyer](/assets/images/content/cleanup-flyer.png)
+![Clean up flyer](/assets/images/content/cleanup-flyer.webp)
 
 ### **Background to the event**
 

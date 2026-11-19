@@ -19,17 +19,17 @@ export const author = {
   website: 'https://www.aila.ngo', // i.e. https.://www.lenesaile.com - the personal site of the author
 };
 
-export const pathToSvgLogo = 'src/assets/images/org/logo/AILA-new-circle-logo2.png'; // used for favicon generation
+export const pathToSvgLogo = 'src/assets/images/org/logo/AILA-new-circle-logo2.webp'; // used for favicon generation
 export const themeColor = '#dd4462'; // used in manifest, for example primary color value
 export const themeLight = '#f8f8f8'; // used for meta tag theme-color, if light colors are prefered. best use value set for light bg
 export const themeDark = '#2e2e2e'; // used for meta tag theme-color, if dark colors are prefered. best use value set for dark bg
 // Coerced to a real boolean: env vars are always strings, so the string
 // 'false' read as truthy in templates. That made every post advertise an
-// og:image at /assets/og-images/<slug>-preview.jpeg while the SVG-to-JPEG
+// og:image at /assets/og-images/<slug>-preview.webp while the SVG-to-WebP
 // step stayed switched off — so every post's social preview 404'd instead of
 // falling back to opengraph_default below.
 export const OPENGRAPHGEN = process.env.OPENGRAPHGEN === 'true';
-export const opengraph_default = '/assets/images/template/opengraph-default.png'; // fallback/default meta image
+export const opengraph_default = '/assets/images/template/opengraph-default.webp'; // fallback/default meta image
 export const opengraph_default_alt =
   "The American Indian Law Alliance - An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)"; // alt text for default meta image"
 export const blog = {

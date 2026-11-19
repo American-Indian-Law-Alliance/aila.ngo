@@ -3,7 +3,7 @@ title: "‘The blood in our veins’: Onondagas reignite effort to win back Mapl
 date: 2025-03-25
 categories: 
   - "news"
-coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
+coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.webp"
 ---
 
 > > Onondaga Lake is a symbol of indigenous and American democracy.

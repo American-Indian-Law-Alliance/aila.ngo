@@ -7,7 +7,7 @@ tags:
   - "indigenous peoples"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/giwc.png"
+coverImage: "/assets/images/content/giwc.webp"
 ---
 ## Preliminary Remarks
 I submit this statement on behalf of the Global Indigenous Women's Caucus from our pre-meeting held on April 17, 2026 Madam Chair, having this meeting in conference room three is a continued intentional effort to further limit our full meaningful participation, and is a direct violation of the UN Declaration on the Rights of Indigenous Peoples, the Convention on Human Rights, Convention on the Elimination of All Forms of Discrimination Against Women, the Convention on the Rights of the Child and the Convention on the Rights of Persons with Disabilities, because as indigenous peoples, our mandate is to speak for peoples and living beings that can't speak for themselves. As Oren Lyons, a 96-year-old elder from my community whose work has helped with others to ensure that we gained a place at the UN to discuss issues affecting us, has previously stated on the floor here. He has always said, if you are not at the table, you are on the menu. The United Nations Permanent Forum on Indigenous Issues is the largest annual gathering of Indigenous peoples in the world and the highest-level advisory body to ECOSOC. And now we have agencies and member states that will take the majority of this precious time that we have left, with no interactive overflow room being provided, as our madam chair has stated, this is not how we treat our relatives, especially not in our own forum, this is unacceptable.

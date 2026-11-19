@@ -6,7 +6,7 @@ categories:
 tags:
   - "tonatierra"
   - "untied nations"
-coverImage: "/assets/images/content/tonatierra-7Cuevas1.jpeg"
+coverImage: "/assets/images/content/tonatierra-7Cuevas1.webp"
 ---
 
 The 29th Session of the advisory committee UNOHCHR The Human Rights Council Advisory Committee will hold its 29th session (20 to 24 February 2023) in Palais des Nations, Room XX.

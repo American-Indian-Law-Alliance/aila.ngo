@@ -9,7 +9,7 @@ tags:
   - "haudenosaunee"
   - "lake"
   - "onondaga lake"
-coverImage: "/assets/images/content/tina-thomas-central-current.jpg"
+coverImage: "/assets/images/content/tina-thomas-central-current.webp"
 ---
 
 > Tina Thomas had the chance to watch it from the start, four years ago. She’s been involved for years at Ska-nonh, now under the direction of Emerson Shenandoah — a cultural center developed through a collaboration between the Onondagas, the Onondaga Historical Association and Onondaga County. The goal is telling the story of the Indigenous people of the region, particularly the Onondagas — the firekeepers for the Haudenosaunee, or Six Nations, whose collective spiritual and political history begins on the shoreline.

@@ -9,7 +9,7 @@ tags:
   - "indigenous"
   - "un"
   - "unpfii"
-coverImage: "/assets/images/content/GIPC-save-the-date-flyer-2022-rev2.png"
+coverImage: "/assets/images/content/GIPC-save-the-date-flyer-2022-rev2.webp"
 ---
 
 ## English Invitation

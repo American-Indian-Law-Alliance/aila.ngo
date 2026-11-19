@@ -6,7 +6,7 @@ categories:
 tags: 
   - "immigration"
   - "trump"
-coverImage: "/assets/images/content/Border-Razor-Wire-1080x675-1.png"
+coverImage: "/assets/images/content/Border-Razor-Wire-1080x675-1.webp"
 ---
 
 > Civilization and personhood are the intellectual bulwarks for the justification of colonization. The colonizer assumes they are made in the image of their God while spreading the message of conquest, civilization and Christianity.

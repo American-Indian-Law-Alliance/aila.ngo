@@ -9,7 +9,7 @@ tags:
   - "lacrosse"
   - "onondaga"
   - "onondaga lake"
-coverImage: "/assets/images/content/1024px-Columbus_circle_county_courthouse.jpg"
+coverImage: "/assets/images/content/1024px-Columbus_circle_county_courthouse.webp"
 ---
 
 > “We’ve given up enough. We have nothing left to give. We have nothing left to offer,” Lyons said. “They have taken all of it. They’ve already taken it all, and so we’re not bargaining.”

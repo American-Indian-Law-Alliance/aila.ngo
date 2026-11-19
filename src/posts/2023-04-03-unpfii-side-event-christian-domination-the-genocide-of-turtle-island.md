@@ -10,7 +10,7 @@ tags:
   - "discovery"
   - "doctrine"
   - "event"
-coverImage: "/assets/images/content/church-red-analena-provost.jpg"
+coverImage: "/assets/images/content/church-red-analena-provost.webp"
 ---
 
 Save the date

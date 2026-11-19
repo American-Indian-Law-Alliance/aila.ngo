@@ -1,7 +1,7 @@
 ---
 title: "Doctrine of Discovery"
 date: 2018-03-08
-coverImage: "/assets/images/content/doctrine-of-discovery.jpg"
+coverImage: "/assets/images/content/doctrine-of-discovery.webp"
 ---
 
 [The American Indian Law Alliance (AILA)](/) is committed to confronting and combating the [Doctrine of Discovery](https://doctrineofdiscovery.org) and the ways in which it is preserved in international law and used by settler colonial states to justify and excuse their violence.
@@ -10,7 +10,7 @@ coverImage: "/assets/images/content/doctrine-of-discovery.jpg"
 
 Papal Bulls issues in the 15th century provided Christian explorers the imagined right to assert that the lands they "discovered"  were now under the authority of the Christian Monarchs of Europe. The Papal Bulls asserted that any land that was not inhabited by Christians was available to be "discovered", claimed, and exploited. If the "pagan" or “saracen” inhabitants could be converted, they might be spared. If not, they could be enslaved or killed. The legacy and horror of these Papal Bulls is still impacting Indigenous nations and peoples today. 
 
-![In a painting by Dioscoro Puebla, Christopher Columbus is shown arriving in the New World — the West Indies — on Oct. 12, 1492. (Wikimedia Commons)](/assets/images/content/Christopher_Columbus3-Dioscoro-Puebla-1024x656.jpg "A painting by Dioscoro Puebla, Christopher Columbus is shown arriving in the New World — the West Indies — on Oct. 12, 1492. (Wikimedia Commons)")
+![In a painting by Dioscoro Puebla, Christopher Columbus is shown arriving in the New World — the West Indies — on Oct. 12, 1492. (Wikimedia Commons)](/assets/images/content/Christopher_Columbus3-Dioscoro-Puebla-1024x656.webp "A painting by Dioscoro Puebla, Christopher Columbus is shown arriving in the New World — the West Indies — on Oct. 12, 1492. (Wikimedia Commons)")
 
 With a flag and on bended knee these evil acts were sanctified and made them lawful in the eyes of the churches and crowns of Europe. The notions that all parts of the globe that weren't Europe like the African Continent and Turtle Island/Abya Yala was “discovered” and “terra nullius” \[null and void\] are theological and legal fictions which are still exercised as law today and weaponized against Indigenous nations and peoples denying them land, rights, and resources.
 
@@ -74,7 +74,7 @@ Despite these violations of Indigenous nations' individual and collective human 
 
 [Watch Domination Code](https://vimeo.com/ondemand/dominationcode).
 
-[![Domination Code film by Steven T Newcomb](/assets/images/content/doctrine-of-discovery-unmasking-domination-code-300x198.jpg)](https://vimeo.com/ondemand/dominationcode)
+[![Domination Code film by Steven T Newcomb](/assets/images/content/doctrine-of-discovery-unmasking-domination-code-300x198.webp)](https://vimeo.com/ondemand/dominationcode)
 
 #### Open Access articles
 

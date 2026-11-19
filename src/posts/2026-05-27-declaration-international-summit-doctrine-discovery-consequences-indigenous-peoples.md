@@ -7,7 +7,7 @@ tags:
   - "doctrine of discovery"
   - "statement"
   - "indigenous"
-coverImage: "/assets/images/content/2026-05-27-declaration-international-summit-doctrine-discovery-consequences-indigenous-peoples.jpg"
+coverImage: "/assets/images/content/2026-05-27-declaration-international-summit-doctrine-discovery-consequences-indigenous-peoples.webp"
 ---
 **DECLARATION OF THE INTERNATIONAL SUMMIT ON THE DOCTRINE OF DISCOVERY AND ITS CONSEQUENCES FOR INDIGENOUS PEOPLES**
 

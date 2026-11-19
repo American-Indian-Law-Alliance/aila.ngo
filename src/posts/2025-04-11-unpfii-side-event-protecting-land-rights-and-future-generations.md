@@ -11,7 +11,7 @@ tags:
   - "un"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/unpfii-wecan.png"
+coverImage: "/assets/images/content/unpfii-wecan.webp"
 ---
 
 Protecting Land, Rights & Future Generations: Indigenous women on the Frontlines of Climate Action and Earth Defense

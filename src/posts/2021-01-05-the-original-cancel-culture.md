@@ -8,7 +8,7 @@ tags:
   - "doctrine of discovery"
   - "indigenous"
   - "mascots"
-coverImage: "/assets/images/content/cancellation-4944727_1920.jpg"
+coverImage: "/assets/images/content/cancellation-4944727_1920.webp"
 ---
 
 One thing you can always count on with Donald Trump is that he will serve as an exemplar of the worst kind of cultural insensitivity and congratulate himself for his self-appointed authenticity.

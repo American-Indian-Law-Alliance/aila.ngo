@@ -9,7 +9,7 @@ tags:
   - "un"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/Memories-For-The-Future-Flyer-1.jpg"
+coverImage: "/assets/images/content/Memories-For-The-Future-Flyer-1.webp"
 ---
 
 ## Memories For The Future: Indigenous Knowledge and History of the United Nations

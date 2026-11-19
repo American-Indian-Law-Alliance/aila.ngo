@@ -7,7 +7,7 @@ tags:
   - "doctrine of discovery"
   - "religious freedom"
   - "united nations"
-coverImage: "/assets/images/content/pagans-in-the-promise-land.jpg"
+coverImage: "/assets/images/content/pagans-in-the-promise-land.webp"
 ---
 
 _Significant aspects of this research were published in the New York University Review of Law & Social Change_ (Vol. 20, Number 2, 1993), “The Evidence of Christian Nationalism in Federal Indian Law.”
@@ -118,4 +118,4 @@ _Steven T. Newcomb (Shawnee/Lenape) is director of the Indigenous Law Institute 
 
 ### Watch Domination Code Film
 
-[![Domination Code film by Steven T Newcomb](/assets/images/content/doctrine-of-discovery-unmasking-domination-code.jpg)](https://vimeo.com/ondemand/dominationcode)
+[![Domination Code film by Steven T Newcomb](/assets/images/content/doctrine-of-discovery-unmasking-domination-code.webp)](https://vimeo.com/ondemand/dominationcode)

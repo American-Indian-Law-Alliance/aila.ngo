@@ -7,7 +7,7 @@ tags:
   - "gipc"
   - "un"
   - "unpfii"
-coverImage: "/assets/images/content/the-new-york-public-library-yEauzeZU6xo-unsplash-5-scaled.jpg"
+coverImage: "/assets/images/content/the-new-york-public-library-yEauzeZU6xo-unsplash-5-scaled.webp"
 ---
 
 **Global Indigenous Peoples Caucus Intervention****The Twenty-First Session of the UNPFII** 

@@ -11,7 +11,7 @@ tags:
   - "united nations"
   - "unpfii"
   - "youth"
-coverImage: "/assets/images/content/indigenous-education-now.png"
+coverImage: "/assets/images/content/indigenous-education-now.webp"
 ---
 
 UN Permanent Forum on Indigenous Issues Side Event:

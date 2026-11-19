@@ -10,7 +10,7 @@ tags:
   - "onondaga"
   - "onondaga nation"
   - "pollution"
-coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
+coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.webp"
 ---
 
 Recently American Indian Magazine profiled Onondaga Lake and the pollution of the lake.

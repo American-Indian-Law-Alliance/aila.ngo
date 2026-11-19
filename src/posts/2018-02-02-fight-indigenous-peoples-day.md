@@ -10,7 +10,7 @@ tags:
   - "indigenouspeoplesday"
   - "native americans"
   - "notmyhero"
-coverImage: "/assets/images/content/abolish-columbus-day.png"
+coverImage: "/assets/images/content/abolish-columbus-day.webp"
 ---
 
 > It is essential to remember, or learn in the first place, that Columbus’ transatlantic voyages and those of the other European explorers were protected under the [Doctrine of Discovery](/issues/doctrine-of-discovery/), especially [Inter Caetera](https://doctrineofdiscovery.org/inter-caetera/), issued in 1493 by Pope Alexander VI as European powers began jockeying to divide up the so-called New World. To this day, the Doctrine forms the basis of Indian land law in North America, what indigenous people call Abya Yala, or Great Turtle Island.

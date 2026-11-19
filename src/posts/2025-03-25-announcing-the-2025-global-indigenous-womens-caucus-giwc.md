@@ -9,12 +9,12 @@ tags:
   - "indigenous peoples"
   - "unpfii"
   - "women"
-coverImage: "/assets/images/content/2.png"
+coverImage: "/assets/images/content/2.webp"
 ---
 
 ## [English](#en) |  [Español](#es) | [Français](#fr) | [Russian](http://aila.ngo/announcing-the-2025-global-indigenous-womens-caucus-giwc/#ru)
 
-[![GIWC Poster](/assets/images/content/2025-GIWC-POSTER-EN-768x1024.png)](/assets/documents/2025-GIWC-POSTER-EN.pdf) Download Flyer [EN](/assets/documents/2025-GIWC-POSTER-EN.pdf) , [ES](/assets/documents/2025-GIWC-POSTER-ES.pdf) , [FR](/assets/documents/2025-GIWC-POSTER-FR.pdf) , [RU](/assets/documents/2025-GIWC-POSTER-RU.pdf)
+[![GIWC Poster](/assets/images/content/2025-GIWC-POSTER-EN-768x1024.webp)](/assets/documents/2025-GIWC-POSTER-EN.pdf) Download Flyer [EN](/assets/documents/2025-GIWC-POSTER-EN.pdf) , [ES](/assets/documents/2025-GIWC-POSTER-ES.pdf) , [FR](/assets/documents/2025-GIWC-POSTER-FR.pdf) , [RU](/assets/documents/2025-GIWC-POSTER-RU.pdf)
 
 ### **Global Indigenous Women's Caucus Invitation**
 
@@ -54,7 +54,7 @@ Thank you to our sponsors
 
 ### **Invitación al Caucus Global de Mujeres Indígenas**
 
-[![](/assets/images/content/2025-GIWC-POSTER-ES-768x1024.png)](/assets/documents/2025-GIWC-POSTER-ES.pdf)
+[![](/assets/images/content/2025-GIWC-POSTER-ES-768x1024.webp)](/assets/documents/2025-GIWC-POSTER-ES.pdf)
 
 Estimadas hermanas: Las invitamos a que nos acompañen el 18 de abril de 2025 de 9:00 a 15:00 en el quinto piso del Church Center de las Naciones Unidas (CCUN) situado en el 39 West 56th Street, NY, 10019, en Nueva York. Debido al período festivo, este año nos encontramos de manera temporal en otra ubicación. Les pedimos disculpas por cualquier inconveniente. Estamos deseando darle la bienvenida en persona a cada una de ustedes. Nos estamos preparando para el 24º período de sesiones del Foro Permanente para las Cuestiones Indígenas, que se celebrará de manera presencial del 21 de abril al 2 de mayo de 2024. **El tema es: “** **Aplicación de la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas en los Estados Miembros de las Naciones Unidas y el sistema de las Naciones Unidas, incluidos la determininación de buenas prácticas y el afrontamiento de los desafíos** **.”** El Foro Permanente tendrá lugar en la sede de las Naciones Unidas en Nueva York. Se servirá desayuno y almuerzo. No es necesario registrarse. Como siempre, todas las mujeres Indigenas son bienvenidas. A medida que haya más información logística disponible, se publicará aquí y en el listserv del GIWG. Si tienen alguna pregunta, pónganse en contacto con **aila@aila.ngo** .
 

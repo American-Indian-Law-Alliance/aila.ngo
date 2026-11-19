@@ -8,7 +8,7 @@ tags:
   - "environment"
   - "sustaincny"
   - "technology"
-coverImage: "/assets/images/content/Sustain-CNY.png"
+coverImage: "/assets/images/content/Sustain-CNY.webp"
 ---
 
 **FOR IMMEDIATE RELEASE**

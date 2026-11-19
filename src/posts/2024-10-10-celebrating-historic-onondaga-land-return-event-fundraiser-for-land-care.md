@@ -7,12 +7,12 @@ tags:
   - "film"
   - "firefighter"
   - "onvfd"
-coverImage: "/assets/images/content/onvfd.jpg"
+coverImage: "/assets/images/content/onvfd.webp"
 ---
 
 Onondaga Nation received [1,000 acres](https://web.archive.org/web/20241205070653/https://dailyorange.com/2024/09/onondaga-nation-reclaims-ancestral-land/ "1,000 acres") back this month - one of the largest land back wins in New York State history.
 
-[![](/assets/images/content/1912x2475-791x1024.jpg)](https://givebutter.com/ONVFD-benefit)
+[![](/assets/images/content/1912x2475-791x1024.webp)](https://givebutter.com/ONVFD-benefit)
 
 Onondaga Nation territory is home to people who live according to their original instructions among the woods, waters, and hills of their ancestors. The Onondaga care for the land as a sovereign nation independent of the United States — including maintaining all the infrastructure and services that New York State provides to settler communities. That includes operating a highly trained volunteer Fire Department to respond to all fires and emergencies on the Nation’s land and to back up the volunteer fire departments in the surrounding settler communities.
 

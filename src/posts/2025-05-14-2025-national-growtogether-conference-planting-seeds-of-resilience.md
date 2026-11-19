@@ -7,7 +7,7 @@ tags:
   - "ecology"
   - "environment"
   - "indigenous"
-coverImage: "/assets/images/content/kenny-eliason-qo6_mo9dsYg-unsplash-scaled.jpg"
+coverImage: "/assets/images/content/kenny-eliason-qo6_mo9dsYg-unsplash-scaled.webp"
 ---
 
 **Conference Dates and Times**  

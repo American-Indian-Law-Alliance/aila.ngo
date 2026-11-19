@@ -7,7 +7,7 @@ tags:
   - "haudenosaunee"
   - "indigenous"
   - "sovereignty"
-coverImage: "/assets/images/content/doctrine-of-discovery-flyer-2019-min.jpg"
+coverImage: "/assets/images/content/doctrine-of-discovery-flyer-2019-min.webp"
 ---
 
 A conference in Onondaga Nation Territory, at Syracuse University and Skä·noñh—Great Law of Peace Center, Saturday and Sunday, 17-18 August 2019.

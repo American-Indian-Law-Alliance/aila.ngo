@@ -3,7 +3,7 @@ title: "Spring Social with Silver Cloud Singers"
 date: 2019-04-12
 categories: 
   - "events"
-coverImage: "/assets/images/content/springsocial2019-rev2.png"
+coverImage: "/assets/images/content/springsocial2019-rev2.webp"
 ---
 
 Safe Harbors Indigenous Collective, LaMaMa Indigenous Initiative, And American Indian Law Alliance present:

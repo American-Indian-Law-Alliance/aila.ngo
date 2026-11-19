@@ -9,7 +9,7 @@ tags:
   - "featured"
   - "indigenouspeoplesday"
   - "notmyhero"
-coverImage: "/assets/images/content/raining-on-his-parade.jpg"
+coverImage: "/assets/images/content/raining-on-his-parade.webp"
 ---
 
 > "It all started with Columbus. That is why the movement to rename Oct. 12 as Indigenous Peoples’ Day, and urging inclusion of the [Doctrine of Discovery](/issues/doctrine-of-discovery/) in public education curricula, is so important as part of broader work towards [sovereignty](/issues/sovereignty/), self-determination and full justice for native peoples."

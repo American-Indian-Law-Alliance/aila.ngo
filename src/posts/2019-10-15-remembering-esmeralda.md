@@ -3,7 +3,7 @@ title: "Remembering Esmeralda"
 date: 2019-10-15
 categories: 
   - "in-memorium"
-coverImage: "/assets/images/content/Esmerelda.jpg"
+coverImage: "/assets/images/content/Esmerelda.webp"
 ---
 
 What a gift to know a giant among humans.

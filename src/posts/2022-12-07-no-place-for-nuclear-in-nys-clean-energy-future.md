@@ -3,7 +3,7 @@ title: "No place for nuclear in NY’s clean energy future"
 date: 2022-12-07
 categories: 
   - "news"
-coverImage: "/assets/images/content/dan-meyers-xXbQIrWH2_A-unsplash-scaled.jpg"
+coverImage: "/assets/images/content/dan-meyers-xXbQIrWH2_A-unsplash-scaled.webp"
 ---
 
 > Onondaga citizens on the Nation’s currently recognized territory risk harm from recently authorized nuclear waste shipments trucked on Interstate 81 South, passing over creeks south of Syracuse where citizens swim, fish and gather medicine plants. DOE approved highly radioactive waste shipments through this territory against the Nation’s strong opposition and in violation of the 1794 Treaty of Canandaigua.

@@ -10,7 +10,7 @@ tags:
   - "un"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/1.png"
+coverImage: "/assets/images/content/1.webp"
 ---
 
 UN Permanent Forum on Indigenous Issues April 21-May 2, 2025 Statement on Behalf of Global Indigenous Peoples Caucus Preparatory Meeting

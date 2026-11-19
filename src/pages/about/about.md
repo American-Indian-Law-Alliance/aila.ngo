@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2025-08-13
-coverImage: "/assets/images/content/AILA-new-circle-logo-sm-250x250-1.png"
+coverImage: "/assets/images/content/AILA-new-circle-logo-sm-250x250-1.webp"
 permalink: /about/index.html
 ---
 
@@ -55,4 +55,4 @@ The American Indian Law Alliance (AILA) is committed to supporting Indigenous so
 
 - [Download the American Indian Law Alliance Brochure.](/assets/documents/AILA-Brochure.pdf)
 
-- [Download a high resolution copy of the American Indian Law Alliance Logo](/assets/images/org/logo/AILA-new-circle-logo2.png).
+- [Download a high resolution copy of the American Indian Law Alliance Logo](/assets/images/org/logo/AILA-new-circle-logo2.webp).

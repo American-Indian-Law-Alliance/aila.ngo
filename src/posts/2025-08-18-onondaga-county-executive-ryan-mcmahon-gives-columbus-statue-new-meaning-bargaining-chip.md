@@ -8,7 +8,7 @@ tags:
   - "lacrosse"
   - "onondaga"
   - "onondaga lake"
-coverImage: "/assets/images/content/1024px-Columbus_circle_county_courthouse.jpg"
+coverImage: "/assets/images/content/1024px-Columbus_circle_county_courthouse.webp"
 ---
 
 [McMahon gives Columbus statue new meaning: bartering chip](https://centralcurrent.org/onondaga-county-executive-ryan-mcmahon-gives-columbus-statue-new-meaning-bartering-chip/)

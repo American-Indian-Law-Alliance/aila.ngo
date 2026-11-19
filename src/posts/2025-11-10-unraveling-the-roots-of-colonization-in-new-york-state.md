@@ -7,7 +7,7 @@ tags:
   - "indigenousrights"
   - "landback"
   - "onondaganation"
-coverImage: "/assets/images/content/Horizontal-Event-Details-4-Logos.png"
+coverImage: "/assets/images/content/Horizontal-Event-Details-4-Logos.webp"
 ---
 
 Join us November 18, 6:30 PM EST for Unraveling the Roots of Colonization in New York State — a benefit for the #LandBack return of Onondaga Lake.

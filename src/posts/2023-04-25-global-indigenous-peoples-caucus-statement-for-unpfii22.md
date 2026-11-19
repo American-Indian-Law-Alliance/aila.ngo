@@ -8,7 +8,7 @@ tags:
   - "indigenous peoples"
   - "un"
   - "united nations"
-coverImage: "/assets/images/content/1.png"
+coverImage: "/assets/images/content/1.webp"
 ---
 
 ### UN Permanent Forum on Indigenous Issues, 22nd Session April 17th - 28th,  

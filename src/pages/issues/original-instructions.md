@@ -5,7 +5,7 @@ date: 2018-03-08
 
 ### [Birth of Democracy and the Birth of a Nation](https://www.onondaganation.org/)
 
-![Great Tree of Peace by Oren Lyons](/assets/images/content/great-tree-of-peace-oren-lyons.png "Great Tree of Peace by Oren Lyons")
+![Great Tree of Peace by Oren Lyons](/assets/images/content/great-tree-of-peace-oren-lyons.webp "Great Tree of Peace by Oren Lyons")
 
  
 
@@ -23,7 +23,7 @@ After listening to the Peacemaker’s message, she agreed to follow the message.
 
 The Peacemaker started with the eastern most nation, the Mohawks. In order for his plan to succeed, the Peacemaker sought after the most feared leaders. Peacemaker explained that he carried the Creator’s plan of peace.  That one nation can be easily broken, like a single arrow.  But five arrows bound together with one heart, one mind, and one law will be powerful.  The Mohawks liked his plan but were weary of a trap, so they tested the Peacemaker.  Once the Peacemaker passed their test over a large waterfall, the Mohawks were the first Nation to accept the peace.
 
-![Tadodaho by Oren Lyons](/assets/images/content/tadodaho-oren-lyons.png "Tadodaho by Oren Lyons")
+![Tadodaho by Oren Lyons](/assets/images/content/tadodaho-oren-lyons.webp "Tadodaho by Oren Lyons")
 
  
 
@@ -37,7 +37,7 @@ But the message of peace was unstoppable.
 
 The Peacemaker then offered to Tadodaho a very special duty in this plan of peace.  Tadodaho would preside over the Grand Council of 50 chiefs.  That he would have the responsibility to make sure that decisions were made with a good mind and were aligned not only for today, but for the generations not yet born.   It is at this time when Tadodaho agreed to live in a peaceful way as they “combed the snakes” from Tadodaho’s hair.
 
-![Hiawatha Belt](/assets/images/content/Hiawatha-Belt.png "Hiawatha Belt")
+![Hiawatha Belt](/assets/images/content/Hiawatha-Belt.webp "Hiawatha Belt")
 
 The Peacemaker then  symbolized this union of peace by uprooting a great white pine tree.  All 50 leaders threw their weapons of hatred, jealousy, anger, and war into the hole and a mighty stream washed it away. As they replanted the tree, the Peacemaker placed an eagle on top of the Tree of Peace.  The eagle is there to use his eyesight to look out far and to warn the Haudenosaunee, the People of the Longhouse, of any dangers on the horizon to this great peace.
 

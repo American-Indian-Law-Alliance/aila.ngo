@@ -3,7 +3,7 @@ title: "Nuclear Energy is not Green Energy"
 date: 2025-07-01
 categories: 
   - "news"
-coverImage: "/assets/images/content/lee-lawson-KT000dVUJj4-unsplash.jpg"
+coverImage: "/assets/images/content/lee-lawson-KT000dVUJj4-unsplash.webp"
 ---
 
 [New York wants clean energy. Is nuclear energy the answer?](https://centralcurrent.org/new-york-wants-clean-energy-is-nuclear-energy-the-answer/)

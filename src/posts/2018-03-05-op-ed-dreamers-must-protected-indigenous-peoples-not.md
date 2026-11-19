@@ -7,7 +7,7 @@ tags:
   - "daca"
   - "dreamers"
   - "indigenous peoples"
-coverImage: "/assets/images/content/hiawatha-belt-2500x625-min.png"
+coverImage: "/assets/images/content/hiawatha-belt-2500x625-min.webp"
 ---
 
 We want to share this new op-ed, "[Dreamers Must be Protected - as Indigenous Peoples Were Not](https://www.theguardian.com/commentisfree/2018/mar/03/dreamers-daca-indigenous-peoples-americas)," by Betty Lyons, President of the American Indian Law Alliance, which was published today in The Guardian.

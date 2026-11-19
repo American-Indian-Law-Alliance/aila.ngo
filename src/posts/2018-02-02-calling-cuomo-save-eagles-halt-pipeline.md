@@ -9,7 +9,7 @@ tags:
   - "mother earth"
   - "new york state"
   - "pipeline"
-coverImage: "/assets/images/content/halt-pipeline-protect-bald-eagles.jpg"
+coverImage: "/assets/images/content/halt-pipeline-protect-bald-eagles.webp"
 ---
 
 Clara Soaring Hawk and Betty Lyons co-wrote an op-ed calling on Governor Cuomo to halt construction on the Millennium Valley Lateral Pipeline out of respect for Mother Earth and to save the Bald Eagles who nest in the area.

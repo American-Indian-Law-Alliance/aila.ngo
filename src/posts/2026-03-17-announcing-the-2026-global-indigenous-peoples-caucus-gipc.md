@@ -7,7 +7,7 @@ tags:
   - "indigenous peoples"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/1.png"
+coverImage: "/assets/images/content/1.webp"
 ---
 Download the Flyers [EN](/assets/documents/2026/03/GIPC-2026-Poster-EN.pdf) | [ES](/assets/documents/2026/03/GIPC-2026-Poster-ES.pdf) | [FR](/assets/documents/2026/03/GIPC-2026-Poster-FR.pdf) | [PT](/assets/documents/2026/03/GIPC-2026-Poster-PT.pdf) | [RU](/assets/documents/2026/03/GIPC-2026-Poster-RU.pdf)
 

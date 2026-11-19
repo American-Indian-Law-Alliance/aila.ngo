@@ -11,7 +11,7 @@ tags:
   - "indigenous"
   - "statement"
   - "unpfii"
-coverImage: "/assets/images/content/1.png"
+coverImage: "/assets/images/content/1.webp"
 ---
 
 [English PDF](/assets/documents/2024-GIPC-EN.pdf)

@@ -8,7 +8,7 @@ tags:
   - "aich"
   - "american indian community house"
   - "nyc"
-coverImage: "/assets/images/content/kevin-tarrant.jpg"
+coverImage: "/assets/images/content/kevin-tarrant.webp"
 ---
 
 In memory of our friend and colleague Kevin Tarrant. Please give as you are able to support his family and his legacy. We are thankful these wonderful words from Safe Harbors NYC:

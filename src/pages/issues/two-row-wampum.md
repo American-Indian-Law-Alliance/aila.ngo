@@ -1,7 +1,7 @@
 ---
 title: "Two Row Wampum"
 date: 2021-01-05
-coverImage: "/assets/images/content/two-row-wampum.png"
+coverImage: "/assets/images/content/two-row-wampum.webp"
 ---
 
 In 1613, the Mohawks noticed people coming into their territory unannounced. The visitors had begun to cut trees and clear land for their homes and farms. They had entered the lands of the Haudenosaunee and were now occupying some of their empty rooms (land). The newcomers dressed oddly and had hair on their faces. They had iron pots and pans and had their families with them. These people needed a place to live. The Mohawks sent a runner to Onondaga to convene a meeting of the Haudenosaunee.

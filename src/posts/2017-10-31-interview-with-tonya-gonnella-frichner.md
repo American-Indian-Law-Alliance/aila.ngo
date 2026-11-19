@@ -7,7 +7,7 @@ tags:
   - "haudenosaunee"
   - "native americans"
   - "sovereignty"
-coverImage: "/assets/images/content/11009979_837936422909049_1591072487925376999_n.jpg"
+coverImage: "/assets/images/content/11009979_837936422909049_1591072487925376999_n.webp"
 ---
 
 https://www.youtube.com/watch?v=\_3RIeEe0q3s

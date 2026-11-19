@@ -8,7 +8,7 @@ tags:
   - "haudenosaunee"
   - "suffrage"
   - "women"
-coverImage: "/assets/images/content/Haudenosaunee-influence-womens-rights.png"
+coverImage: "/assets/images/content/Haudenosaunee-influence-womens-rights.webp"
 ---
 
 [History’s forgotten suffrage heroes by Betty Lyons and Sally Roesch Wagner:](https://www.nydailynews.com/opinion/ny-oped-historys-forgotten-suffrage-heroes-20200830-eb252iyl5vdqvfv4awkxjcaexe-story.html)

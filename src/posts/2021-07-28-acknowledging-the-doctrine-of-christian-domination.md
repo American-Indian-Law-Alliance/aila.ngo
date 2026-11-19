@@ -7,7 +7,7 @@ tags:
   - "columbus"
   - "doctrine of discovery"
   - "law"
-coverImage: "/assets/images/content/Acknowledging-Doctrine-Christian-Domination-wordcloud.jpg"
+coverImage: "/assets/images/content/Acknowledging-Doctrine-Christian-Domination-wordcloud.webp"
 ---
 
 In 2014 Dr. David Wilkins (Lumbee) published an essay titled “Deconstructing the Doctrine of Discovery.” [(here)](https://web.archive.org/web/20221118200005/https://indiancountrytoday.com/archive/deconstructing-the-doctrine-of-discovery) and Steven T. Newcomb responded with a piece titled "Toward Disestablishing the Doctrine of Christian Domination" [(here)](https://web.archive.org/web/20220628221406/https://indiancountrytoday.com/archive/toward-disestablishing-the-doctrine-of-christian-domination). The conversation continues with Newcomb's newest piece "[Acknowledging the Doctrine of Christian Domination](https://doctrineofdiscovery.org/blog/law/acknowledging-doctrine-christian-discovery/)."

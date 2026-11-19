@@ -10,7 +10,7 @@ tags:
   - "onondaga"
   - "onondaga lake"
   - "run"
-coverImage: "/assets/images/content/run-logos.png"
+coverImage: "/assets/images/content/run-logos.webp"
 ---
 
 We follow the Thanksgiving Address by protecting Mother Earth. The eagle has returned to Onondaga lake for the first time in over 200 years. We invite runners and walkers to come to Onondaga Lake for a day of celebration. This event will raise awareness of the importance of the lake and the urgency of furthering the cleanup efforts.

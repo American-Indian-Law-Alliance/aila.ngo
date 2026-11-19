@@ -7,7 +7,7 @@ tags:
   - "indigenous"
   - "indigenous peoples day"
   - "ipd"
-coverImage: "/assets/images/content/FINAL-IPD-poster-11-x-8.5-in-1024x791-1.png"
+coverImage: "/assets/images/content/FINAL-IPD-poster-11-x-8.5-in-1024x791-1.webp"
 ---
 
 **2024 Indigenous Peoples’ Day Festival**

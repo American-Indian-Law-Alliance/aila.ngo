@@ -3,7 +3,7 @@ title: "Press Release on Immigration"
 date: 2025-01-30
 categories: 
   - "news"
-coverImage: "/assets/images/content/aila-immgiration.jpg"
+coverImage: "/assets/images/content/aila-immgiration.webp"
 ---
 
 For Immediate Release
@@ -20,4 +20,4 @@ We will see an uptick in the profiling of our peoples. We must remain vigilant. 
 
 ###
 
-Download the press release as a [PDF](/assets/documents/AILA-2025-immigration-Statement.pdf) or a [image file](/assets/images/content/press-release-immigration.png).
+Download the press release as a [PDF](/assets/documents/AILA-2025-immigration-Statement.pdf) or a [image file](/assets/images/content/press-release-immigration.webp).

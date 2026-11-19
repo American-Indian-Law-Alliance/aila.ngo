@@ -9,7 +9,7 @@ tags:
   - "most"
   - "onondaga"
   - "syracuse"
-coverImage: "/assets/images/content/MOST-Lacrosse.png"
+coverImage: "/assets/images/content/MOST-Lacrosse.webp"
 ---
 
 The game known today as lacrosse blends contemporary sports innovations with the traditions and core values of “the creator’s game,” which traces its origins to the Haudenosaunee, or People of the Longhouse. Made up of Six Nations, the Haudenosaunee are the indigenous peoples upon whose ancestral lands the museum now stands. Explore stories of the birth and development of lacrosse, and learn more about the science behind the game in the newest addition to the MOST Innovation Station, “LACROSSE (dehoñtjihgwa’és).”

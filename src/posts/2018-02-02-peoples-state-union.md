@@ -10,7 +10,7 @@ tags:
   - "nativenations"
   - "originalnations"
   - "peoplessotu"
-coverImage: "/assets/images/content/the-peoples-state-of-the-union-18-indigenous-rights-min.png"
+coverImage: "/assets/images/content/the-peoples-state-of-the-union-18-indigenous-rights-min.webp"
 ---
 
 We were honored to be part of the Peoples State of the Union on Monday, January 29, 2018 and to provide an Indigenous opening to the event.

@@ -6,7 +6,7 @@ categories:
 tags: 
   - "haudenosaunee"
   - "onondaga"
-coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
+coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.webp"
 ---
 
 > The nation eventually lost its foothold on the lake, which became polluted in the 19th and 20th centuries as industries [dumped](https://dec.ny.gov/nature/waterbodies/watersheds/management/great-lakes/onondaga-lake) mercury, salt and other contaminants into the water. The lake is much cleaner now after restoration efforts, but there are still signs warning that its fish may be harmful to eat.

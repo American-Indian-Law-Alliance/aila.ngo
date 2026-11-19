@@ -10,7 +10,7 @@ tags:
   - "un"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/1.png"
+coverImage: "/assets/images/content/1.webp"
 ---
 
 [2024 Global Indigenous Peoples Caucus Statement](http://aila.ngo/2024-global-indigenous-peoples-caucus-statement/)

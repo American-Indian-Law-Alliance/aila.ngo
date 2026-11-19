@@ -8,7 +8,7 @@ tags:
   - "haudenosaunee"
   - "suffrage"
   - "women"
-coverImage: "/assets/images/content/Haudenosaunee-influence-womens-rights.png"
+coverImage: "/assets/images/content/Haudenosaunee-influence-womens-rights.webp"
 ---
 
 Commentary by our Executive Director Betty Lyons on [Haudenosaunee women's influence on the women's suffrage movement](https://www.syracuse.com/opinion/2020/08/haudenosaunee-women-inspired-womens-suffrage-movement-commentary.html).

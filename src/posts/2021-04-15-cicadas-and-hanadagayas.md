@@ -9,7 +9,7 @@ tags:
   - "indigenous peoples"
   - "locusts"
   - "onondaga"
-coverImage: "/assets/images/content/cicadas-Brood7-NYTimes-photo-5-videoSixteenByNineJumbo1600.jpg"
+coverImage: "/assets/images/content/cicadas-Brood7-NYTimes-photo-5-videoSixteenByNineJumbo1600.webp"
 ---
 
 Our executive director Betty Lyons was just interviewed for "[Cicadas: ‘The other white meat’"](https://web.archive.org/web/20221103082148/https://indiancountrytoday.com/news/cicadas-the-other-white-meat) by Mary Annette Pember for Indian Country Today.

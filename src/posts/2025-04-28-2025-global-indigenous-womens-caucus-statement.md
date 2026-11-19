@@ -10,7 +10,7 @@ tags:
   - "statement"
   - "un"
   - "unpfii"
-coverImage: "/assets/images/content/2.png"
+coverImage: "/assets/images/content/2.webp"
 ---
 
 _I give this intervention on behalf of the Global Indigenous Women’s Caucus_ 

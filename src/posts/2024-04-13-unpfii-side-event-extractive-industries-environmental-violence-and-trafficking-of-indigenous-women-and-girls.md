@@ -10,7 +10,7 @@ tags:
   - "un"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/Screenshot-2024-04-13-at-9.51.53 AM.png"
+coverImage: "/assets/images/content/Screenshot-2024-04-13-at-9.51.53 AM.webp"
 ---
 
 - Extractive Industries, Environmental Violence And Trafficking Of Indigenous Women And Girls

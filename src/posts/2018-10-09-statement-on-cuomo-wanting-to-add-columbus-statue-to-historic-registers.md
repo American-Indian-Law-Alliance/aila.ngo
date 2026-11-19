@@ -7,7 +7,7 @@ tags:
   - "haudenosaunee"
   - "indigenous peoples"
   - "sovereignty"
-coverImage: "/assets/images/content/Highline-College-Celebrate-Indigenous-Peoples-Day.jpg"
+coverImage: "/assets/images/content/Highline-College-Celebrate-Indigenous-Peoples-Day.webp"
 ---
 
 Statement by [Gaen hia uh, Betty Lyons](/staff-and-board/) (Onondaga Nation, Snipe Clan), President & Executive Director of the [American Indian Law Alliance](http://aila.ngo):

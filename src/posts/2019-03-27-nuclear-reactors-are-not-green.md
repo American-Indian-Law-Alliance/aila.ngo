@@ -10,7 +10,7 @@ tags:
   - "mother earth"
   - "nuclear"
   - "waterislife"
-coverImage: "/assets/images/content/nuclear-power-plant-3212365_1280.jpg"
+coverImage: "/assets/images/content/nuclear-power-plant-3212365_1280.webp"
 ---
 
 ### A Red Paper by Onondaga Nation, Haudenosaunee Environmental Task Force and American Indian Law Alliance.

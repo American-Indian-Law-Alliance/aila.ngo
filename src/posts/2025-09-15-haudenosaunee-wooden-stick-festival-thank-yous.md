@@ -9,7 +9,7 @@ tags:
   - "lacrosse"
   - "onondaga"
   - "onondaga lake"
-coverImage: "/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-1.png"
+coverImage: "/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-1.webp"
 ---
 
 Nya:weh – A Deep Thank You from the American Indian Law Alliance

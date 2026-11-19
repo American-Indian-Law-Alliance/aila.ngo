@@ -7,7 +7,7 @@ tags:
   - "federal"
   - "indian law"
   - "law"
-coverImage: "/assets/images/content/1024px-Springtime_at_SCOTUS_49661382628.jpg"
+coverImage: "/assets/images/content/1024px-Springtime_at_SCOTUS_49661382628.webp"
 ---
 
 > “\[Gorsuch’s\] general construct throughout the case was that once the federal government has made promises and treaties, it must keep them,” Heath continued. “I can tell you that in the almost four decades since I have worked for the Onondaga that has not been the law.” ~ Joe Heath

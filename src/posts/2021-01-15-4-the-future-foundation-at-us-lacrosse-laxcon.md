@@ -9,7 +9,7 @@ tags:
   - "laxcon"
   - "onondaga"
   - "sovereignty"
-coverImage: "/assets/images/content/4thefuture-laxcon-panel-discussion.jpeg"
+coverImage: "/assets/images/content/4thefuture-laxcon-panel-discussion.webp"
 ---
 
 **4 the Future Foundation at US Lacrosse LaxCon** _Join us, Saturday January 16th at 2:30pm ET_

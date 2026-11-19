@@ -1,6 +1,7 @@
 import fetch from '@11ty/eleventy-fetch';
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import sharp from 'sharp';
 
 const dataPath = './src/_data/builtwith.json';
 const screenshotDir = path.join(
@@ -18,7 +19,7 @@ async function fetchScreenshot(url, filePath) {
     type: 'buffer'
   });
 
-  await fs.writeFile(filePath, buffer);
+  await sharp(buffer).webp().toFile(filePath);
   console.log(`Screenshot saved to ${filePath}`);
 }
 
@@ -33,7 +34,7 @@ async function generateScreenshots() {
 
   for (const item of jsonData) {
     const {name, link, filename} = item;
-    const filePath = path.join(screenshotDir, `${filename}.jpg`);
+    const filePath = path.join(screenshotDir, `${filename}.webp`);
     try {
       await fetchScreenshot(link, filePath);
     } catch (error) {

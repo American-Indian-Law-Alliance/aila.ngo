@@ -8,7 +8,7 @@ tags:
   - "iroquois nationals"
   - "lacrosse"
   - "passports"
-coverImage: "/assets/images/content/CSlMIJCUYAAe9EA.png"
+coverImage: "/assets/images/content/CSlMIJCUYAAe9EA.webp"
 ---
 
 [Oren Lyons' Statement on the Iroquois Nationals Passport/Visa Controversy ⤓](/assets/documents/Oren-Lyons-Statement.pdf)

@@ -8,7 +8,7 @@ tags:
   - "land acknowledgement"
   - "landback"
   - "sovereignty"
-coverImage: "/assets/images/content/PAT_S21_NYC-FromLandAcknowledgment-IG-Feed-1.jpg"
+coverImage: "/assets/images/content/PAT_S21_NYC-FromLandAcknowledgment-IG-Feed-1.webp"
 ---
 
 Join us for a facilitated conversation on land acknowledgments and the urgency of land back.

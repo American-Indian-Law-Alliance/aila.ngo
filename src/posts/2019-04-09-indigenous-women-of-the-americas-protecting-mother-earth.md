@@ -9,7 +9,7 @@ tags:
   - "sovereignty"
   - "un"
   - "unpfii18"
-coverImage: "/assets/images/content/C-CeDliXgAA49xr-1.jpg"
+coverImage: "/assets/images/content/C-CeDliXgAA49xr-1.webp"
 ---
 
 Join us for - ‘Indigenous Women of the Americas [Protecting Mother Earth](/issues/rights-mother-earth/): Struggles and Climate Change Solutions, 2019' - to be presented at the United Nations Church Center in New York City on Tuesday April 23rd, from 5:00 to 8:00 pm.

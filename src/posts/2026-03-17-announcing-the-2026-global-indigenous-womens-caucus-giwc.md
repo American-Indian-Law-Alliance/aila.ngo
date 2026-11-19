@@ -7,7 +7,7 @@ tags:
   - "indigenous peoples"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/2.png"
+coverImage: "/assets/images/content/2.webp"
 ---
 
 Download the Flyers [EN](/assets/documents/2026/03/2026-GIWC-Poster-EN.pdf) | [ES](/assets/documents/2026/03/2026-GIWC-Poster-ES.pdf) | [FR](/assets/documents/2026/03/2026-GIWC-Poster-FR.pdf) | [PT](/assets/documents/2026/03/2026-GIWC-Poster-PR.pdf) | [RU](/assets/documents/2026/03/2026-GIWC-Poster-RU.pdf)\

@@ -9,7 +9,7 @@ tags:
   - "native americans"
   - "peacemaker"
   - "sovereignty"
-coverImage: "/assets/images/content/Iona_College_Hagan_School_of_Business.jpg"
+coverImage: "/assets/images/content/Iona_College_Hagan_School_of_Business.webp"
 ---
 
 Thursday, November 8 at 12:00pm: AILA's President Betty Lyons (Onondaga Nation) will offer the keynote address at Iona College’s annual Week of the Peacemaker.

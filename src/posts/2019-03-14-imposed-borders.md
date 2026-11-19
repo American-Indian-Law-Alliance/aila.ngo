@@ -9,7 +9,7 @@ tags:
   - "haudenosaunee"
   - "indigenous peoples"
   - "un"
-coverImage: "/assets/images/content/imposed-borders.jpg"
+coverImage: "/assets/images/content/imposed-borders.webp"
 ---
 
 Imposed Borders of Colonialism: Violence against Indigenous Women, Indigenous Girls and Mother Earth

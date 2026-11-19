@@ -7,7 +7,7 @@ categories:
   - "united-nations"
 tags:
   - "craft fair"
-coverImage: "/assets/images/content/3.png"
+coverImage: "/assets/images/content/3.webp"
 ---
 
 We invite everyone to visit the Indigenous Peoples Craft Fair on 19 April 2023 from 9:00 AM to 3:00 PM on the Eighth Floor of the Church Center of the United Nations (CCUN) located at 777 United Nations Plaza, New York, NY 10017. 

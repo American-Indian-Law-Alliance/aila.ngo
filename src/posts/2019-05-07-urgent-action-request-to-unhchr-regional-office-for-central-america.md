@@ -8,7 +8,7 @@ tags:
   - "mmiw"
   - "sovereignty"
   - "un"
-coverImage: "/assets/images/content/36725211625_058f33bebc_b-e1557270425787.jpg"
+coverImage: "/assets/images/content/36725211625_058f33bebc_b-e1557270425787.webp"
 ---
 
 ### Call for Solidarity and Support of Indigenous Peoples

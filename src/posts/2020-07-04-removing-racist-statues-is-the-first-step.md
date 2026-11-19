@@ -8,7 +8,7 @@ tags:
   - "racism"
   - "roosevelt"
   - "statues"
-coverImage: "/assets/images/content/florian-klauer-mk7D-4UCfmg-unsplash-2.jpg"
+coverImage: "/assets/images/content/florian-klauer-mk7D-4UCfmg-unsplash-2.webp"
 ---
 
 Our Executive Director Gaeñ hia uh/ Betty Lyons, [New York Times Letter to the editor](https://web.archive.org/web/20221125122206/https://www.nytimes.com/2020/06/27/opinion/letters/statues-theodore-roosevelt-race.html):

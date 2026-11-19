@@ -11,7 +11,7 @@ tags:
   - "indigenous"
   - "unpfii"
   - "unpfii23"
-coverImage: "/assets/images/content/bernd-klutsch-nE2HV5AUXFo-unsplash-e1712973473187.jpg"
+coverImage: "/assets/images/content/bernd-klutsch-nE2HV5AUXFo-unsplash-e1712973473187.webp"
 ---
 
 ## All links are PDFS

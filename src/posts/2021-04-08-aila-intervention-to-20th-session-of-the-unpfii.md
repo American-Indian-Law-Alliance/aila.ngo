@@ -8,7 +8,7 @@ tags:
   - "un"
   - "united nations"
   - "upfii"
-coverImage: "/assets/images/content/the-new-york-public-library-yEauzeZU6xo-unsplash-960.jpg"
+coverImage: "/assets/images/content/the-new-york-public-library-yEauzeZU6xo-unsplash-960.webp"
 ---
 
 [Please read our intervention on behalf of Mother Earth and all of our relatives (PDF Download)](/assets/documents/Twentieth-Session-of-the-United-Nations-Permanent-Forum-on-Indigenous-Issues-UNPFII.pdf).

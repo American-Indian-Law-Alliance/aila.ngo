@@ -7,7 +7,7 @@ tags:
   - "indigenous peoples"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/gipc.png"
+coverImage: "/assets/images/content/gipc.webp"
 ---
 # #25th Session of the Permanent Forum on Indigenous Issues Statement on Behalf of the Global Indigenous People's Caucus
 

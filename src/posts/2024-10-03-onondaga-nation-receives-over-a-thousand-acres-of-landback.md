@@ -6,7 +6,7 @@ categories:
 tags: 
   - "landback"
   - "news"
-coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
+coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.webp"
 ---
 
 ## News Roundup

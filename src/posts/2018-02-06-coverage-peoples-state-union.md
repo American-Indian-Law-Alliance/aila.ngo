@@ -6,7 +6,7 @@ categories:
 tags:
   - "indigenous peoples"
   - "peoplesotu"
-coverImage: "/assets/images/content/the-peoples-state-of-the-union-18-Betty-Lyons-min.png"
+coverImage: "/assets/images/content/the-peoples-state-of-the-union-18-Betty-Lyons-min.webp"
 ---
 
 The [New York Amsterdam News](https://amsterdamnews.com/news/2018/feb/01/peoples-state-union-dumps-trump/) write up of the #PeoplesSOTU mentions Betty Lyons speech on the Haudenosaunee influence on democracy and the women's rights movement.

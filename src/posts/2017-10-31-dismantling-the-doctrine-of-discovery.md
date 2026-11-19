@@ -8,7 +8,7 @@ tags:
   - "doctrine of discovery"
   - "indigenous peoples"
   - "native americans"
-coverImage: "/assets/images/content/doctrine-of-discovery.jpg"
+coverImage: "/assets/images/content/doctrine-of-discovery.webp"
 ---
 
 Comités de Defensa del Barrio has an excellent article on the relationship between the [Doctrine of Discovery and US citizenship](https://cdb-tonatierra.blogspot.com/2013/07/dismantling-us-citizenship-and.html), it is worth a read.

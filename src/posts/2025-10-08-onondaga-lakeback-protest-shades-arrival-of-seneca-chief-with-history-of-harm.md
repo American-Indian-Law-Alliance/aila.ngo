@@ -8,7 +8,7 @@ tags:
   - "lakeback"
   - "onondaga"
   - "onondaga lake"
-coverImage: "/assets/images/content/LakeBannerDrop1.jpg"
+coverImage: "/assets/images/content/LakeBannerDrop1.webp"
 ---
 
 > Shortly before noon, Tadodaho (spiritual leader) Sid Hill and other representatives of the Onondaga Nation unfurled a 25-foot blue banner. Iridescent balloon weights were tied to the bottom to hold it down. In large white letters, it read: 

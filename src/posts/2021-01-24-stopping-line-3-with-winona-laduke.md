@@ -8,7 +8,7 @@ tags:
   - "oil"
   - "pipeline"
   - "sovereignty"
-coverImage: "/assets/images/content/stopline3.jpg"
+coverImage: "/assets/images/content/stopline3.webp"
 ---
 
 Please join us for, "_**Stopping Line 3 with Winona LaDuke**_" **on Tuesday, January 26 at 6:30pm ET via Zoom. Link to register here.** More details below. Hope you can attend, and please spread the word!

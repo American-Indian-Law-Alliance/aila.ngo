@@ -7,7 +7,7 @@ tags:
   - "christianity"
   - "religion"
   - "us"
-coverImage: "/assets/images/content/Ten-Commandments-1080x675-1.png"
+coverImage: "/assets/images/content/Ten-Commandments-1080x675-1.webp"
 ---
 
 > HB71 continues Christian nationalists’ terraforming of the United States, conflating “American” with “Christian” to refashion the country in their image. To make this equivocation successful, they must profess fealty to their trinity of sacred texts: the Bible, the Declaration of Independence and the Constitution.

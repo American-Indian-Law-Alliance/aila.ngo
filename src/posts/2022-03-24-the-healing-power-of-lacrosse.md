@@ -8,7 +8,7 @@ tags:
   - "healing"
   - "ireland"
   - "lacrosse"
-coverImage: "/assets/images/content/HNLxIL-event-Artboard-1.png"
+coverImage: "/assets/images/content/HNLxIL-event-Artboard-1.webp"
 ---
 
 The Healing Power of Lacrosse // March 24th  

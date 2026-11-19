@@ -147,12 +147,11 @@ current hotspot.
 
 ## Known remaining issues
 
-- Seven document links point at files that exist nowhere in the repo and were
+- Five document links point at files that exist nowhere in the repo and were
   presumably never migrated from WordPress: `GIWC-2020-Poster.pdf`,
   `Mayor-Walsh-Columbus-15-Jun-20-final.pdf`,
   `The-Indian-Child-Welfare-Act.v3-1.pdf`, `2026/03/2026-GIWC-Poster-PR.pdf`,
-  `auto-draft/UN-Handbook-2023-24.pdf`, `Haudenosaunee-women-influence-web.jpg`,
-  `leaders-of-color-lunch.jpg`. They need the original files.
+  and `auto-draft/UN-Handbook-2023-24.pdf`. They need the original files.
 - `.git` is ~450 MB and still carries the deleted duplicate blobs. Shrinking it
   requires a history rewrite, which is a separate decision.
 - 299 documents (~530 MB) are not linked from any page. They are retained

@@ -1,17 +1,17 @@
 ---
 title: "In Memoriam: Tonya Gonnella Frichner"
 date: 2017-10-15
-coverImage: "/assets/images/content/frichner-nyt1.jpg"
+coverImage: "/assets/images/content/frichner-nyt1.webp"
 gallery:
   - image: /assets/images/content/frichner-nyt.webp
     alt: 'Portrait of Tonya Gonnella Frichner'
-  - image: /assets/images/content/tadodaho-sid-hill-tonya-gonnella-frichner-betty-lyons.jpg
+  - image: /assets/images/content/tadodaho-sid-hill-tonya-gonnella-frichner-betty-lyons.webp
     alt: 'Tadodaho Sid Hill with the late Founder of the American Indian Law Alliance, Tonya Gonnella Frichner (Onondaga Nation)'
 ---
 
 ### Tonya Gonnella Frichner (Onondaga Nation) 1947-2015, Emeritus
 
-## [![](/assets/images/content/frichner.jpg)](/assets/images/content/frichner.jpg)
+## [![](/assets/images/content/frichner.webp)](/assets/images/content/frichner.webp)
 
 #### **Founder**
 
@@ -55,4 +55,4 @@ _Selected Conferences Ms. Frichner attended:_
 - [Interview with Tonya Gonnella Frichner](http://aila.ngo/interview-with-tonya-gonnella-frichner/)
 - [Inaugural event for the Two Row Wampum Renewal Campaign](http://aila.ngo/inaugural-event-for-the-two-row-wampum-renewal-campaign/)
 
-![](/assets/images/content/maxine.jpg) Maxine Nolan Gonnella (Onondaga Nation) 1929-2003, Emeritus, served the American Indian Law Alliance since its inception and was one of the mentors and leaders upon whom we depend for guidance.
+![](/assets/images/content/maxine.webp) Maxine Nolan Gonnella (Onondaga Nation) 1929-2003, Emeritus, served the American Indian Law Alliance since its inception and was one of the mentors and leaders upon whom we depend for guidance.

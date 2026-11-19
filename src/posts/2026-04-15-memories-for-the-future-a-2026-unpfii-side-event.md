@@ -7,7 +7,7 @@ tags:
   - "memories"
   - "united nations"
   - "unpfii"
-coverImage: "/assets/images/content/2026-Memories-For-The-Future-Flyer.jpg"
+coverImage: "/assets/images/content/2026-Memories-For-The-Future-Flyer.webp"
 ---
 Join us for a collaborative organizing meeting. We will be remembering our ancestors and working to preserve knowledge for the seven generations yet to come. Our goal is to create a working group that will help build an archive and hold this knowledge. We wish to set the future generations up for success and flourishing as we work towards building this archive and preserving our Indigenous knowledge.
 

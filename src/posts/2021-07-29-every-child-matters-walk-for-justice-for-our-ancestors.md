@@ -10,7 +10,7 @@ tags:
   - "residential schools"
   - "theywerechildren"
   - "wewerechildren"
-coverImage: "/assets/images/content/every-child-matters.jpg"
+coverImage: "/assets/images/content/every-child-matters.webp"
 ---
 
 Please Join us.

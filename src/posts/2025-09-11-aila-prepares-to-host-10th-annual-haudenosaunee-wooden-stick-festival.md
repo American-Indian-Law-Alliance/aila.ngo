@@ -9,7 +9,7 @@ tags:
   - "lacrosse"
   - "onondaga"
   - "onondaga lake"
-coverImage: "/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-1.png"
+coverImage: "/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-1.webp"
 ---
 
 > Betty Hill (Lyons), AILA’s president and executive director, said the organization first held the event to bring back the game of lacrosse to Onondaga Lake and Syracuse.

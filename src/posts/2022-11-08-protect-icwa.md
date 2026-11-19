@@ -6,7 +6,7 @@ categories:
 tags:
   - "boarding schools"
   - "icwa"
-coverImage: "/assets/images/content/unnamed.png"
+coverImage: "/assets/images/content/unnamed.webp"
 ---
 
 The Indian Child Welfare Act (ICWA) goes before the Supreme Court of the United States tomorrow in the landmark case _[Brackeen v Haaland (2021)](https://law.justia.com/cases/federal/appellate-courts/ca5/18-11479/18-11479-2021-04-06.html)_.  This case puts Indigenous children, sovereignty, and Indigenous lands at risk.
@@ -15,7 +15,7 @@ When Richard Henry Pratt founded the Indian Residential School system and Carlis
 
 _Brackeen v. Haaland_ as it is written and supported by states like Texas threatens not only to undo ICWA but also attempts to legally strip away Indigenous peoples inherent right to sovereignty. The case seeks to undermine Indigenous sovereignty by not seeing as separate cultural and political entitles from the United States (For more see law professor Peter D’Errico’s analysis). As NDN Collective notes the attorney for Brackeen is Gibson Dunn who has represented oil and gas companies like the Dakota Access Pipeline (DAPL) so extractive industries executives are also watching this case closely.
 
-![Steps to take to protect ICWA. Image by @WiisagiMaiingan on twitter. The steps are included in this post.](/assets/images/content/protect-icwa2-768x1024.jpeg "Image by @WiisagiMaiingan on twitter")
+![Steps to take to protect ICWA. Image by @WiisagiMaiingan on twitter. The steps are included in this post.](/assets/images/content/protect-icwa2-768x1024.webp "Image by @WiisagiMaiingan on twitter")
 
 ## What can you do?
 

@@ -8,7 +8,7 @@ tags:
   - "lacrosse"
   - "onondaga"
   - "onondaga lake"
-coverImage: "/assets/images/content/diptych-03-web.jpg"
+coverImage: "/assets/images/content/diptych-03-web.webp"
 ---
 
 > Haudenosaunee values center around peace and humans’ spiritual connection to the Earth. Yet Oren watches the natural world drifting further away from how his ancestors intended it to be. He sees greed. Inequity. War. Natural disasters. Famine. Everything except _peace_.

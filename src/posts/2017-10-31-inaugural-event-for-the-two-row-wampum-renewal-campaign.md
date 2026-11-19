@@ -9,7 +9,7 @@ tags:
   - "native americans"
   - "sovereignty"
   - "two row wampum"
-coverImage: "/assets/images/content/slider5.11.jpg"
+coverImage: "/assets/images/content/slider5.11.webp"
 ---
 
 Speaking at the kick-off event for the [Two Row Wampum](/issues/two-row-wampum/) Renewal Campaign at the National Museum of the American Indian in NYC on March 12, 2013.

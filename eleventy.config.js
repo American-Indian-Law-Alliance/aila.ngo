@@ -44,7 +44,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.setServerPassthroughCopyBehavior('passthrough');
 
   // --------------------- custom watch targets
-  eleventyConfig.addWatchTarget('./src/assets/**/*.{css,js,svg,png,jpeg}');
+  eleventyConfig.addWatchTarget('./src/assets/**/*.{css,js,svg,png,webp}');
   eleventyConfig.addWatchTarget('./src/_includes/**/*.{webc}');
 
   // --------------------- layout aliases
@@ -115,10 +115,10 @@ export default async function (eleventyConfig) {
   const openGraphGen = process.env.OPENGRAPHGEN === 'true';
 
   if (openGraphGen && (process.env.ELEVENTY_RUN_MODE === 'build' || process.env.ELEVENTY_RUN_MODE === 'serve')) {
-    eleventyConfig.on('eleventy.after', events.svgToJpeg);
+    eleventyConfig.on('eleventy.after', events.svgToWebp);
   }
 
-  // The OG source SVGs only exist to be converted to JPEG by the step above.
+  // The OG source SVGs only exist to be converted to WebP by the step above.
   // With that off, rendering 160 of them produced 640 KB of output nothing
   // referenced.
   if (!openGraphGen) {
@@ -134,7 +134,7 @@ export default async function (eleventyConfig) {
   // content-hashed, so a file that exists is already correct. Without it every
   // watch rebuild rewrote all ~840 files (53 MB) of the cache.
   eleventyConfig.on('eleventy.after', () => {
-    fs.cpSync('.cache/@11ty/img/', path.join(eleventyConfig.directories.output, '/assets/images/content/'), {
+    fs.cpSync(plugins.eleventyImgOptions.outputDir, path.join(eleventyConfig.directories.output, '/assets/images/content/'), {
       recursive: true,
       force: false,
       errorOnExist: false
@@ -144,7 +144,7 @@ export default async function (eleventyConfig) {
   // --------------------- Passthrough File Copy
 
   // -- same path
-  ['src/xmit.toml', 'src/assets/fonts/', 'src/assets/images/template', 'src/assets/images/org', 'src/assets/documents', 'src/assets/og-images'].forEach(path =>
+  ['src/xmit.toml', 'src/assets/fonts/', 'src/assets/images/content/**/*.webp', 'src/assets/images/template', 'src/assets/images/org', 'src/assets/documents'].forEach(path =>
     eleventyConfig.addPassthroughCopy(path)
   );
 

@@ -7,7 +7,7 @@ tags:
   - "catholics"
   - "doctrine of discovery"
   - "indigenous peoples"
-coverImage: "/assets/images/content/ashwin-vaswani-55k45BgfUF8-unsplash-scaled.jpg"
+coverImage: "/assets/images/content/ashwin-vaswani-55k45BgfUF8-unsplash-scaled.webp"
 ---
 
 By Sid Hill and Betty Hill (Lyons)

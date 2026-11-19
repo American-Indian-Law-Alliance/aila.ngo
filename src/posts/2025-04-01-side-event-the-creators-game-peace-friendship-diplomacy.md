@@ -9,7 +9,7 @@ tags:
   - "side event"
   - "un"
   - "unpfii"
-coverImage: "/assets/images/content/Haudenosaunee-Nationals-Event.png"
+coverImage: "/assets/images/content/Haudenosaunee-Nationals-Event.webp"
 ---
 
 Join us for a panel discussion on the history of the Haudenosaunee Nationals and their efforts at supporting peace, friendship, and diplomacy through the Creator’s Game and the challenges of playing under our own flag.

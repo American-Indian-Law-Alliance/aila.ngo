@@ -3,7 +3,7 @@ title: "International Denunciation from the National Indigenous Congress"
 date: 2023-10-16
 categories: 
   - "events"
-coverImage: "/assets/images/content/tonatierra-7Cuevas1.jpeg"
+coverImage: "/assets/images/content/tonatierra-7Cuevas1.webp"
 ---
 
 URGENT International Solidarity Campaign TONATIERRA and AILA in support the relatives in Mexico now under assault:

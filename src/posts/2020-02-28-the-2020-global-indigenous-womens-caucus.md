@@ -11,7 +11,7 @@ tags:
   - "un"
   - "united nations"
   - "womens rights"
-coverImage: "/assets/images/content/GIWC-2020-Poster.jpeg"
+coverImage: "/assets/images/content/GIWC-2020-Poster.webp"
 ---
 
 ```

@@ -11,7 +11,7 @@ tags:
   - "haudenosaunee"
   - "indigenous peoples"
   - "mother earth"
-coverImage: "/assets/images/content/Broken-Treaties-Brandon-Lazore-Web-credit.jpg"
+coverImage: "/assets/images/content/Broken-Treaties-Brandon-Lazore-Web-credit.webp"
 ---
 
 > “Peace can only be attained when human beings live in proper relationship to the natural world” ~Tadodaho of the Haudenosaunee Confederacy, Sid Hill
