@@ -1,0 +1,20 @@
+{#- AILA's Organization node, shared @id with lakeback.org and podcast.lakeback.org. Used in WebSite.njk and /metadata.json. -#}
+{
+  "@type": "Organization",
+  "@id": "https://aila.ngo/#organization",
+  "name": {{ meta.siteName | dump | safe }},
+  "alternateName": "AILA",
+  "description": {{ meta.blog.description | dump | safe }},
+  "url": "https://aila.ngo/",
+  "logo": "https://aila.ngo{{ meta.author.avatar }}",
+  "email": {{ organization.email | dump | safe }},
+  "address": {
+    "@type": "PostalAddress",
+    "postOfficeBoxNumber": "336",
+    "addressLocality": "DeWitt",
+    "addressRegion": "NY",
+    "postalCode": "13214-9211",
+    "addressCountry": "US"
+  },
+  "sameAs": [{% for u in organization.sites %}{{ u | dump | safe }}, {% endfor %}{% for p in organization.platforms %}{{ p.url | dump | safe }}{% if not loop.last %}, {% endif %}{% endfor %}]
+}

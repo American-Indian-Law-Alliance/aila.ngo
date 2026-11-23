@@ -14,3 +14,13 @@ platforms:
     url: https://www.linkedin.com/company/american-indian-law-alliance
   - name: x-twitter
     url: https://x.com/ailanyc
+  - name: youtube
+    url: https://www.youtube.com/@aila-ngo
+# AILA's other sites. With `platforms`, these are AILA's sameAs in the JSON-LD (schemas/Organization.njk).
+sites:
+  - https://aila.social/
+  - https://lakeback.org/
+  - https://podcast.lakeback.org/
+  - https://doctrineofdiscovery.org/
+  - https://podcast.doctrineofdiscovery.org/
+  - https://www.sullivanclinton.com/

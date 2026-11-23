@@ -81,6 +81,10 @@ export default {
           url: "/email/"
         },
         {
+          text: "Podcast",
+          url: "https://podcast.lakeback.org/"
+        },
+        {
           text: "Events",
           url: "/category/events/"
         },

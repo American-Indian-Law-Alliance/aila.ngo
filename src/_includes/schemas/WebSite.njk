@@ -8,8 +8,10 @@
         "url": "{{ meta.url }}",
         "name": "{{ meta.siteName }}",
         "description": "{{ meta.siteDescription }}",
-        "inLanguage": "{{ meta.locale }}"
-      }
+        "inLanguage": "{{ meta.lang }}",
+        "publisher": { "@id": "https://aila.ngo/#organization" }
+      },
+      {% include "schemas/Organization.njk" %}
     ]
   }
 </script>

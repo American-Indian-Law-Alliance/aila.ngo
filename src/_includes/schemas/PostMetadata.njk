@@ -12,13 +12,13 @@
   "image": {{ post_jsonld_image | dump | safe }},
   "author": {
     "@type": "Organization",
-    "@id": {{ (meta.url ~ "/#organization") | dump | safe }},
+    "@id": "https://aila.ngo/#organization",
     "name": {{ meta.author.name | dump | safe }},
     "url": {{ meta.url | dump | safe }}
   },
   "publisher": {
     "@type": "Organization",
-    "@id": {{ (meta.url ~ "/#organization") | dump | safe }},
+    "@id": "https://aila.ngo/#organization",
     "name": {{ meta.siteName | dump | safe }},
     "url": {{ meta.url | dump | safe }}
   },

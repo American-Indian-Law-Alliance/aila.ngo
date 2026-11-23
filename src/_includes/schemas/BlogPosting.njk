@@ -12,12 +12,8 @@
     "headline": "{{ title or meta.siteName }}",
     "description": "{{ discover.description or description or meta.siteDescription }}",
     "image": "{{ meta.url }}{% if discover.image %}/assets/images/{{ discover.image }}{% else %}{{ meta.opengraph_default }}{% endif %}",
-    "inLanguage": "{{ meta.locale }}",
-    "publisher": {
-      "@type": "{{ meta.siteType }}",
-      "name": "{{ meta.author.name }}",
-      "url": "{{ meta.url }}"
-    },
+    "inLanguage": "{{ meta.lang }}",
+    "publisher": { "@id": "https://aila.ngo/#organization" },
     "author": {
       "@type": "Person",
       "name": "{{ meta.author.name }}"
