@@ -29,4 +29,4 @@ There are **60 seats**. Community tickets are **$5**, general admission is **$25
 
 This gathering is AILA’s year-end fundraiser. Every ticket supports our work for Indigenous sovereignty and our work with Indigenous women and children.
 
-The online meeting link will be sent when you register. [Register for Traditional Ways of Wellness](#) or [contact AILA about tickets and discount codes](/contact/).
+The online meeting link will be sent when you register. [Register for Traditional Ways of Wellness](https://givebutter.com/traditional-wellness) or [contact AILA about tickets and discount codes](/contact/).
