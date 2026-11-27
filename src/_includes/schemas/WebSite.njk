@@ -4,11 +4,11 @@
     "@graph": [
       {
         "@type": "WebSite",
-        "@id": "{{ meta.url }}#website",
-        "url": "{{ meta.url }}",
-        "name": "{{ meta.siteName }}",
-        "description": "{{ meta.siteDescription }}",
-        "inLanguage": "{{ meta.lang }}",
+        "@id": {{ (meta.url ~ "/#website") | dump | safe }},
+        "url": {{ (meta.url ~ "/") | dump | safe }},
+        "name": {{ meta.siteName | dump | safe }},
+        "description": {{ meta.siteDescription | dump | safe }},
+        "inLanguage": {{ meta.lang | dump | safe }},
         "publisher": { "@id": "https://aila.ngo/#organization" }
       },
       {% include "schemas/Organization.njk" %}

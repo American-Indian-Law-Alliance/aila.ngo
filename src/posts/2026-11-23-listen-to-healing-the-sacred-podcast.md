@@ -39,7 +39,7 @@ We believe the story of the lake belongs first to the people who carry it. So Be
 - **Episodes [4](https://podcast.lakeback.org/episodes/004-rex-lyons-lacrosse-pt1/) and [5](https://podcast.lakeback.org/episodes/005-rex-lyons-lacrosse-pt2/): Rex Lyons** (Onondaga Nation, Eel Clan) on wooden sticks, lacrosse as a medicine game, and the Haudenosaunee Nationals.
 - **Episode [6](https://podcast.lakeback.org/episodes/006-tadodaho-peacemaker-lake/): Tadodaho Sidney Hill** on the Peacemaker, the Great Law of Peace, and the lake as a sacred site.
 - **Episodes [7](https://podcast.lakeback.org/episodes/007-heath-land-rights-pt1/) and [8](https://podcast.lakeback.org/episodes/008-heath-land-rights-pt2/): Joseph J. Heath**, General Counsel for the Onondaga Nation, on the Onondaga land rights action and where the Nation took its case after U.S. courts dismissed it.
-- **Episode [9](https://podcast.lakeback.org/episodes/009-richard-hill-two-row/): Richard W. Hill Sr.**, Tuscarora artist, historian, and educator, on wampum, the Two Row, and the Great Law as a way of living today.
+- **Episode [9](https://podcast.lakeback.org/episodes/009-richard-hill-two-row/): Richard W. Hill, Sr.**, Tuscarora artist, historian, and educator, on wampum, the Two Row, and the Great Law as a way of living today.
 - **Episodes [10](https://podcast.lakeback.org/episodes/010-gage-haudenosaunee-pt1/) and [11](https://podcast.lakeback.org/episodes/011-gage-haudenosaunee-pt2/): Matilda Joslyn Gage and the Haudenosaunee.** Ciarrai Eaton, executive director of the Matilda Joslyn Gage Foundation, on what Gage learned from Haudenosaunee women.
 
 ## For teachers and study groups

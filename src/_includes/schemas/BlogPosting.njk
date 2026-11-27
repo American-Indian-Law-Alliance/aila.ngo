@@ -2,22 +2,16 @@
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
-    "mainEntityOfPage": {
-      "@type": "WebPage"
-    },
-    "isPartOf": {
-      "@id": "{{ meta.url }}#website"
-    },
-    "@id": "{{ url }}",
-    "headline": "{{ title or meta.siteName }}",
-    "description": "{{ discover.description or description or meta.siteDescription }}",
-    "image": "{{ meta.url }}{% if discover.image %}/assets/images/{{ discover.image }}{% else %}{{ meta.opengraph_default }}{% endif %}",
-    "inLanguage": "{{ meta.lang }}",
+    "@id": {{ (meta.url ~ page.url ~ "#article") | dump | safe }},
+    "url": {{ (meta.url ~ page.url) | dump | safe }},
+    "mainEntityOfPage": {{ (meta.url ~ page.url) | dump | safe }},
+    "isPartOf": { "@id": {{ (meta.url ~ "/#website") | dump | safe }} },
+    "headline": {{ (title or meta.siteName) | dump | safe }},
+    "description": {{ (discover.description or description or meta.siteDescription) | dump | safe }},
+    "image": {{ (meta.url ~ (("/assets/images/" ~ discover.image) if discover.image else meta.opengraph_default)) | dump | safe }},
+    "inLanguage": {{ meta.lang | dump | safe }},
     "publisher": { "@id": "https://aila.ngo/#organization" },
-    "author": {
-      "@type": "Person",
-      "name": "{{ meta.author.name }}"
-    },
-    "datePublished": "{{ date | toIsoString }}"
+    "author": { "@id": "https://aila.ngo/#organization" },
+    "datePublished": {{ (date | toIsoString) | dump | safe }}
   }
 </script>

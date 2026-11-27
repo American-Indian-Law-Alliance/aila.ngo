@@ -107,6 +107,11 @@ to = "/category/festival/"
 permanent = true
 
 [[redirects]]
+from = "^/harvest-arts-andamp;-crafts-market/?$"
+to = "/harvest-arts-and-crafts-market/"
+permanent = true
+
+[[redirects]]
 from = "^/news/?$"
 to = "/blog/"
 permanent = true

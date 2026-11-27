@@ -1,5 +1,5 @@
 ---
-title: "Harvest Arts &amp; Crafts Market"
+title: "Harvest Arts & Crafts Market"
 date: 2025-10-15
 categories: 
   - "events"
